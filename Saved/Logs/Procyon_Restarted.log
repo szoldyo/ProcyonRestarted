@@ -4871,3 +4871,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-14.10.46:039][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 8.15 sec)
 [2024.04.11-14.10.46:041][957]AssetCheck: New page: Asset Save: BP_Player
 [2024.04.11-14.10.46:041][957]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.11-14.11.04:674][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-14.11.04:678][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-14.11.04:728][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.11-14.11.04:739][739]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.11-14.11.04:739][739]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player90B9FECC43FD8E038104DE899B2EA5C2.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.11-14.11.04:744][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 8.22 sec)
+[2024.04.11-14.11.04:745][739]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.11-14.11.04:745][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
