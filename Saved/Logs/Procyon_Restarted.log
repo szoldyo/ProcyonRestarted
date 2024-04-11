@@ -2154,3 +2154,63 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-10.37.14:463][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.64 sec)
 [2024.04.11-10.37.14:463][369]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_106838F234571EEB01_1964521599
 [2024.04.11-10.37.14:463][369]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234571EEB01_1964521599
+[2024.04.11-10.38.35:391][131]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Enemy/Animations/Strafe.Strafe
+[2024.04.11-10.38.35:406][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.38.35:406][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.38.35:450][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-10.38.35:647][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.38.35:647][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.38.35:767][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.38.35:788][131]LogSlate: Took 0.003794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.11-10.38.35:797][131]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.04.11-10.38.35:801][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.38.35:801][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.38.35:812][131]LogViewport: Scene viewport resized to 1242x583, mode Windowed.
+[2024.04.11-10.38.35:829][131]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-10.38.35:888][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.38.49:480][485]LogSlate: Window 'Strafe' being destroyed
+[2024.04.11-10.38.49:495][485]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.38.49:495][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.38.49:502][485]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.38.49:502][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.38.49:531][485]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.38.49:531][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.38.55:296][169]LogContentBrowser: Attempting asset rename: Strafe -> StrafeLeft
+[2024.04.11-10.38.55:324][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.38.55:386][169]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/StrafeLeft
+[2024.04.11-10.38.55:386][169]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/StrafeLeft3CA74ECE4D706FD4554AC8BBAA37EC87.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/StrafeLeft.uasset'
+[2024.04.11-10.38.55:391][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.71 sec)
+[2024.04.11-10.38.55:407][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.11-10.38.55:417][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.11-10.38.55:425][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-10.38.55:426][169]AssetCheck: New page: Asset Save: StrafeLeft
+[2024.04.11-10.38.55:426][169]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Enemy/Animations/StrafeLeft.StrafeLeft
+[2024.04.11-10.38.56:437][288]LogContentBrowser: Deferred new asset file creation: StrafeLeft1
+[2024.04.11-10.38.56:440][288]LogContentBrowser: Creating deferred item: StrafeLeft1
+[2024.04.11-10.38.56:449][289]LogContentBrowser: Renaming the item being created (Deferred Item: StrafeLeft1).
+[2024.04.11-10.38.59:856][698]LogContentBrowser: Attempting asset rename: StrafeLeft1 -> StrafeRight
+[2024.04.11-10.38.59:867][698]LogContentBrowser: End creating deferred item StrafeLeft1
+[2024.04.11-10.39.01:217][849]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Enemy/Animations/StrafeRight.StrafeRight
+[2024.04.11-10.39.01:218][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.39.01:218][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.39.01:223][849]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-10.39.01:406][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.39.01:406][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.39.01:497][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.39.01:497][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.39.01:507][849]LogViewport: Scene viewport resized to 1243x584, mode Windowed.
+[2024.04.11-10.39.01:518][849]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-10.39.06:356][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.11-10.39.06:359][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.39.06:435][358]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/StrafeRight
+[2024.04.11-10.39.06:435][358]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/StrafeRight629B37BB4793146705C1DFAE5FE1C25A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/StrafeRight.uasset'
+[2024.04.11-10.39.06:443][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.79 sec)
+[2024.04.11-10.39.06:443][358]AssetCheck: New page: Asset Save: StrafeRight
+[2024.04.11-10.39.06:443][358]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Enemy/Animations/StrafeRight.StrafeRight
+[2024.04.11-10.39.07:335][451]LogSlate: Window 'StrafeRight' being destroyed
+[2024.04.11-10.39.07:393][451]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.39.07:393][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.39.07:400][451]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.39.07:400][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.39.07:429][451]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.39.07:429][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
