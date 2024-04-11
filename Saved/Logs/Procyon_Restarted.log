@@ -1448,3 +1448,273 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-09.05.50:102][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2024.04.11-09.05.50:107][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2024.04.11-09.05.50:151][911]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.04.11-09.06.55:481][328]LogSlate: Took 0.002985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.11-09.07.27:051][438]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.07.27:070][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-09.07.27:534][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-09.07.27:537][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.07.27:590][489]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.07.27:591][489]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBaseA301F327407C6E33E89496BEEC4210FD.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.07.27:595][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 124 ms)
+[2024.04.11-09.07.27:596][489]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.07.27:596][489]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.07.49:760][603]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.07.49:779][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.11-09.07.50:168][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.11-09.07.50:172][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.07.50:225][636]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.07.50:225][636]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase6D4E1BE44A7DB90D61255E99FFAAE6DA.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.07.50:229][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 182 ms)
+[2024.04.11-09.07.50:230][636]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.07.50:230][636]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.07.51:833][803]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.11-09.07.51:838][803]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.11-09.07.51:838][803]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.11-09.07.51:839][803]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 753 us (total: 2 ms)
+[2024.04.11-09.07.51:841][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.11-09.07.51:841][803]PIE: New page: PIE session: ThirdPersonMap (11 Apr 2024, 11:07:51)
+[2024.04.11-09.07.51:867][803]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.11-09.07.51:869][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002104s)
+[2024.04.11-09.07.51:869][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002127s)
+[2024.04.11-09.07.51:878][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.11-09.07.51:878][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-09.07.51:878][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-09.07.51:879][803]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.11-09.07.51:879][803]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.11-09.07.51:879][803]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.11-09.07.51:879][803]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.11-09.07.51:879][803]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.11-09.07.51:880][803]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.11-09.07.51:880][803]LogWorldPartition: Display: WorldPartition initialize took 631 us (total: 23 ms)
+[2024.04.11-09.07.51:880][803]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2024.04.11-09.07.51:880][803]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.11-09.07.51:880][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.11-09.07.51:880][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.11-09.07.51:880][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.11-09.07.51:880][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.11-09.07.51:880][803]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.11-09.07.51:880][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.11-09.07.51:880][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.11-09.07.51:880][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.11-09.07.51:880][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.11-09.07.51:880][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.11-09.07.51:880][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.11-09.07.51:881][803]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.11-09.07.51:901][803]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.11-09.07.51:901][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.11-09.07.51:901][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.11-09.07.51:901][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.11-09.07.51:901][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.11-09.07.51:901][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.11-09.07.51:903][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.11-09.07.51:903][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.11-09.07.51:903][803]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.11-09.07.51:903][803]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.04.11-09.07.51:903][803]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.11-09.07.51:904][803]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.11-09.07.51:907][803]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.11-10.07.51
+[2024.04.11-09.07.51:908][803]LogWorld: Bringing up level for play took: 0.003718
+[2024.04.11-09.07.51:910][803]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.04.11-09.07.51:912][803]PIE: Server logged in
+[2024.04.11-09.07.51:912][803]PIE: Play in editor total start time 0.074 seconds.
+[2024.04.11-09.08.21:579][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.11-09.08.21:579][352]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.11-09.08.21:579][352]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-09.08.21:579][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-09.08.21:579][352]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.11-09.08.21:581][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.11-09.08.21:584][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-09.08.21:594][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.11-09.08.21:594][352]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.11-09.08.21:594][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.11-09.08.21:595][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.11-09.08.21:601][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.11-09.08.21:655][356]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.04.11-09.08.32:482][449]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:42.035 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 59673 files in 45431 folders with total size 499 MiB.
+[2024.04.11-09.09.12:859][102]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.11-09.09.12:859][102]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.11-09.09.56:513][713]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.11-09.10.19:222][319]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.10.19:243][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.11-09.10.19:751][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-09.10.19:755][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.10.19:821][374]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.10.19:822][374]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase7322CBEE4810B699CC6AB4B099853ED5.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.10.19:826][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 253 ms)
+[2024.04.11-09.10.19:827][374]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.10.19:827][374]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.10.56:463][641]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.10.56:480][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-09.10.57:321][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-09.10.57:324][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.10.57:386][737]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.10.57:387][737]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase824A0D79474A597615332687E90740E7.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.10.57:391][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 319 ms)
+[2024.04.11-09.10.57:393][737]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.10.57:393][737]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.11.35:800][103]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.11-09.11.35:812][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-09.11.35:874][105]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-09.11.35:978][110]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-09.11.35:999][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-09.11.36:035][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-09.11.36:074][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-09.11.36:093][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-09.11.44:346][877]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.11.44:365][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-09.11.46:155][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-09.11.46:158][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.11.46:211][ 80]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.11.46:212][ 80]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase08D700B74992EF1474D85D9C30BFEE87.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.11.46:216][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 377 ms)
+[2024.04.11-09.11.46:217][ 80]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.11.46:217][ 80]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.11.56:472][106]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.11.56:492][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-09.11.57:174][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-09.11.57:178][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.11.57:238][181]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.11.57:238][181]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBaseA8CFA7FD4DAEE2311E34DFAA4D229D6C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.11.57:242][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 442 ms)
+[2024.04.11-09.11.57:243][181]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.11.57:243][181]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.12.12:127][934]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.12.12:147][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.11-09.12.12:812][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-09.12.12:816][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.12.12:868][  9]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.12.12:868][  9]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBaseC8AE82AA4690CAF096808DB1462C1EFD.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.12.12:872][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 498 ms)
+[2024.04.11-09.12.12:873][  9]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.12.12:873][  9]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.12.23:512][434]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.12.23:531][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.11-09.12.24:039][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-09.12.24:043][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.12.24:093][488]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.12.24:094][488]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBaseABA1505641D51C8BBA02F1B096A860C8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.12.24:099][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 553 ms)
+[2024.04.11-09.12.24:099][488]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.12.24:099][488]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.13.39:235][292]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.13.39:256][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-09.13.39:857][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.11-09.13.39:861][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.13.39:926][360]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.13.39:926][360]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase97395D3047E18AF89323038C37A9FF70.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.13.39:930][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 622 ms)
+[2024.04.11-09.13.39:931][360]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.13.39:931][360]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.14.27:198][621]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.14.27:219][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-09.14.27:828][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-09.14.27:832][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.14.27:883][687]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.14.27:883][687]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase604277644C0C6BC4364B82A472F425F4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.14.27:888][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 678 ms)
+[2024.04.11-09.14.27:889][687]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.14.27:889][687]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.14.44:560][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-09.14.44:563][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.14.44:624][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/BB_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BB_EnemyBase.uasset" SILENT=true
+[2024.04.11-09.14.44:624][667]LogSavePackage: Moving output files for package: /Game/Enemy/AI/BB_EnemyBase
+[2024.04.11-09.14.44:625][667]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BB_EnemyBase40D6BE6C432BB20E7499BFA27DA94B2B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BB_EnemyBase.uasset'
+[2024.04.11-09.14.44:629][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 744 ms)
+[2024.04.11-09.14.44:629][667]AssetCheck: New page: Asset Save: BB_EnemyBase
+[2024.04.11-09.14.44:629][667]LogContentValidation: Display: Validating /Script/AIModule.BlackboardData /Game/Enemy/AI/BB_EnemyBase.BB_EnemyBase
+[2024.04.11-09.15.27:752][716]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.15.27:774][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.11-09.15.30:514][ 27]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.15.30:533][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-09.15.31:326][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.15.31:373][115]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.15.31:373][115]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBaseC2935BA64D3271F20A0FABA9D5C6106E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.15.31:377][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 795 ms)
+[2024.04.11-09.15.31:378][115]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.15.31:378][115]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.15.51:281][463]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.15.51:302][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-09.15.52:234][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-09.15.52:237][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.15.52:306][566]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.15.52:307][566]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase83EC6111405DB76A6182E3B192937975.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.15.52:312][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 869 ms)
+[2024.04.11-09.15.52:313][566]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.15.52:313][566]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.16.03:910][ 52]LogEditorTransaction: Undo Delete current selection
+[2024.04.11-09.16.12:349][989]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.16.12:368][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.11-09.16.13:012][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-09.16.13:016][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.16.13:056][ 59]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.16.13:057][ 59]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase403C8DD0499594C956F369B5392BFCF6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.16.13:062][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 915 ms)
+[2024.04.11-09.16.13:063][ 59]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.16.13:063][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.17.10:124][860]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.17.10:145][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-09.17.10:505][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-09.17.10:510][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.17.10:574][894]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.17.10:575][894]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase9D0D6EAA45F20D5F0A2E96BD708907B0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.17.10:580][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 985 ms)
+[2024.04.11-09.17.10:581][894]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.17.10:581][894]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.18.04:403][139]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.18.04:424][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-09.18.04:979][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-09.18.04:984][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.18.05:053][199]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.18.05:054][199]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBaseAAB2082C4218B8CC22BDAC82B05E02C7.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.18.05:059][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.06 sec)
+[2024.04.11-09.18.05:060][199]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.18.05:060][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.18.13:193][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.11-09.18.13:196][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.18.13:245][165]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.18.13:245][165]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase00733A31427694174C495BA1D97E18F1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.18.13:250][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 1.11 sec)
+[2024.04.11-09.18.13:251][165]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.18.13:251][165]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.19.55:382][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.11-09.19.55:386][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.19.55:437][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/BT_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset" SILENT=true
+[2024.04.11-09.19.55:441][855]LogSavePackage: Moving output files for package: /Game/Enemy/AI/BT_EnemyBase
+[2024.04.11-09.19.55:441][855]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BT_EnemyBase4A3D2067471AB94DAED1D981A814D376.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset'
+[2024.04.11-09.19.55:446][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.17 sec)
+[2024.04.11-09.19.55:447][855]AssetCheck: New page: Asset Save: BT_EnemyBase
+[2024.04.11-09.19.55:447][855]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
+[2024.04.11-09.20.33:865][635]LogSlate: Window 'Save Asset As' being destroyed
+[2024.04.11-09.20.33:874][635]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/AI/Tasks/BTT_SetStateAsPassive.BTT_SetStateAsPassive
+[2024.04.11-09.20.33:874][635]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-09.20.33:874][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-09.20.33:976][635]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/AI/Tasks/BTT_SetStateAsPassive.
+[2024.04.11-09.20.34:007][636]LogAutomationController: Ignoring very large delta of 15.20 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-09.20.36:694][924]LogSlate: Window 'BTT_SetStateAsPassive' being destroyed
+[2024.04.11-09.20.37:068][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-09.20.37:069][961]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.012
+[2024.04.11-09.20.37:070][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/AI/Tasks/BTT_SetStateAsPassive] ([2] browsable assets)...
+[2024.04.11-09.20.37:070][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/AI/Tasks/BTT_SetStateAsPassive]
+[2024.04.11-09.20.37:071][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/AI/Tasks/BTT_SetStateAsPassive_Auto1
+[2024.04.11-09.20.37:071][961]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BTT_SetStateAsPassive_Auto1F6B660A94888D447211A8F9C6E37319E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/Enemy/AI/Tasks/BTT_SetStateAsPassive_Auto1.uasset'
+[2024.04.11-09.20.37:071][961]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.04.11-09.21.13:888][706]BlueprintLog: New page: Compile BTT_SetStateAsPassive
+[2024.04.11-09.21.13:900][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.11-09.21.14:282][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.11-09.21.14:285][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.21.14:339][748]LogSavePackage: Moving output files for package: /Game/Enemy/AI/Tasks/BTT_SetStateAsPassive
+[2024.04.11-09.21.14:339][748]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BTT_SetStateAsPassive2D188B6B4BD95B80DDAEAEBAF613289B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/Tasks/BTT_SetStateAsPassive.uasset'
+[2024.04.11-09.21.14:340][748]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/AI/Tasks/BTT_SetStateAsPassive.
+[2024.04.11-09.21.14:345][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.23 sec)
+[2024.04.11-09.21.14:346][748]AssetCheck: New page: Asset Save: BTT_SetStateAsPassive
+[2024.04.11-09.21.14:346][748]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/Tasks/BTT_SetStateAsPassive.BTT_SetStateAsPassive
+[2024.04.11-09.21.15:716][911]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-09.21.15:716][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-09.21.45:843][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.11-09.21.45:847][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.21.45:899][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/BT_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset" SILENT=true
+[2024.04.11-09.21.45:903][477]LogSavePackage: Moving output files for package: /Game/Enemy/AI/BT_EnemyBase
+[2024.04.11-09.21.45:903][477]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BT_EnemyBase57E60E07458146122E09E887E52F6C53.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset'
+[2024.04.11-09.21.45:907][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.29 sec)
+[2024.04.11-09.21.45:908][477]AssetCheck: New page: Asset Save: BT_EnemyBase
+[2024.04.11-09.21.45:908][477]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
