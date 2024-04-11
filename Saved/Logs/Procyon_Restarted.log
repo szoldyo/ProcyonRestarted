@@ -5131,3 +5131,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-14.37.41:186][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 8.32 sec)
 [2024.04.11-14.37.41:186][ 88]AssetCheck: New page: Asset Save: DodgeRoll
 [2024.04.11-14.37.41:186][ 88]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Player/Animations/DodgeRoll.DodgeRoll
+[2024.04.11-15.08.33:463][418]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:43.014 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 59683 files in 45444 folders with total size 500 MiB.
