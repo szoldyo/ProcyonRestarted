@@ -1343,3 +1343,125 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-08.12.10:552][974]LogSlate: Took 0.003360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2024.04.11-08.12.10:575][974]LogSlate: Took 0.003067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2024.04.11-08.12.10:580][974]LogSlate: Took 0.002607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.11-08.12.59:126][261]LogSlate: Took 0.002955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.11-08.12.59:128][261]LogSlate: Took 0.001886 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.11-08.13.39:208][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.11-08.13.39:209][981]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2024.04.11-08.13.39:209][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/AI/AIC_EnemyBase] ([2] browsable assets)...
+[2024.04.11-08.13.39:209][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/AI/AIC_EnemyBase]
+[2024.04.11-08.13.39:214][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/AI/AIC_EnemyBase_Auto1
+[2024.04.11-08.13.39:214][981]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase_Auto15047826747E337C017568895EEB680C4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/Enemy/AI/AIC_EnemyBase_Auto1.uasset'
+[2024.04.11-08.13.39:214][981]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.04.11-08.13.58:041][ 40]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-08.13.58:057][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-08.13.58:498][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-08.13.58:501][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-08.13.58:548][ 76]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-08.13.58:549][ 76]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase489FB58645382C83BF84EA9A797E332F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-08.13.58:554][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 364 ms)
+[2024.04.11-08.13.58:554][ 76]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-08.13.58:554][ 76]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-08.13.59:172][146]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.11-08.13.59:176][146]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.11-08.13.59:176][146]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.11-08.13.59:177][146]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 744 us (total: 1 ms)
+[2024.04.11-08.13.59:179][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.11-08.13.59:179][146]PIE: New page: PIE session: ThirdPersonMap (11 Apr 2024, 10:13:59)
+[2024.04.11-08.13.59:179][146]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2024.04.11-08.13.59:181][146]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.04.11-08.13.59:186][147]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.11-08.13.59:188][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002198s)
+[2024.04.11-08.13.59:189][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002225s)
+[2024.04.11-08.13.59:197][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-08.13.59:198][147]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-08.13.59:198][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-08.13.59:198][147]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.11-08.13.59:198][147]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.11-08.13.59:199][147]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.11-08.13.59:199][147]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.11-08.13.59:199][147]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.11-08.13.59:199][147]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.11-08.13.59:199][147]LogWorldPartition: Display: WorldPartition initialize took 570 us (total: 66 ms)
+[2024.04.11-08.13.59:199][147]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2024.04.11-08.13.59:199][147]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.11-08.13.59:199][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.11-08.13.59:199][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.11-08.13.59:199][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.11-08.13.59:199][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.11-08.13.59:199][147]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.11-08.13.59:199][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.11-08.13.59:199][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.11-08.13.59:199][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.11-08.13.59:199][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.11-08.13.59:199][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.11-08.13.59:199][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.11-08.13.59:201][147]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.11-08.13.59:219][147]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.11-08.13.59:219][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.11-08.13.59:219][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.11-08.13.59:219][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.11-08.13.59:220][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.11-08.13.59:220][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.11-08.13.59:221][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.11-08.13.59:221][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.11-08.13.59:221][147]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.11-08.13.59:221][147]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.04.11-08.13.59:221][147]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.11-08.13.59:276][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.11-08.13.59:276][147]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.11-08.13.59:280][147]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.11-09.13.59
+[2024.04.11-08.13.59:282][147]LogWorld: Bringing up level for play took: 0.004535
+[2024.04.11-08.13.59:285][147]PIE: Server logged in
+[2024.04.11-08.13.59:286][147]PIE: Play in editor total start time 0.109 seconds.
+[2024.04.11-08.13.59:291][147]LogViewport: Scene viewport resized to 1304x840, mode Windowed.
+[2024.04.11-08.14.06:775][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.11-08.14.06:775][995]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.11-08.14.06:775][995]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.11-08.14.06:779][995]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-08.14.06:779][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-08.14.06:779][995]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.11-08.14.06:782][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.11-08.14.06:785][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-08.14.06:794][995]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.11-08.14.06:794][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.11-08.14.06:796][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.11-08.14.06:800][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-08.14.06:811][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-08.14.06:859][996]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.04.11-08.14.06:861][996]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.11-08.14.06:862][996]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.11-08.14.06:863][996]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.11-08.14.06:864][996]LogSlate: Took 0.000056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.11-08.14.06:865][996]LogSlate: Took 0.000051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.11-08.14.33:735][147]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.11-08.14.35:626][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-08.14.35:629][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-08.14.35:681][370]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-08.14.35:682][370]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBaseF181AB8A4B9D162D5AEDCAA3B6D70B92.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-08.14.35:687][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 422 ms)
+[2024.04.11-08.14.35:687][370]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-08.14.35:687][370]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-08.14.45:077][488]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-08.14.45:092][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.11-08.14.45:580][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-08.14.54:745][622]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-08.14.54:762][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.11-08.14.55:162][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-08.14.55:165][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-08.14.55:196][664]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-08.14.55:196][664]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase5C642049415977C16A27409EFC07CE46.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-08.14.55:202][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 459 ms)
+[2024.04.11-08.14.55:202][664]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-08.14.55:202][664]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-08.15.41:695][531]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Students\Downloads\RaccoonSound.wav)
+[2024.04.11-08.15.41:696][531]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave RaccoonSound...
+[2024.04.11-08.15.41:703][531]LogAudio: Display: Chunk sizes for SoundWave /Game/Sounds/RaccoonSound.RaccoonSound: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.11-08.15.41:704][531]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave RaccoonSound...
+[2024.04.11-08.15.41:710][531]LogAudio: Display: Chunk sizes for SoundWave /Game/Sounds/RaccoonSound.RaccoonSound: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.11-08.15.44:672][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-08.15.44:701][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/RaccoonSound" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Sounds/RaccoonSound.uasset" SILENT=true
+[2024.04.11-08.15.44:705][557]LogSavePackage: Moving output files for package: /Game/Sounds/RaccoonSound
+[2024.04.11-08.15.44:705][557]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/RaccoonSoundD73E862044AF41D80550819B611619DE.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Sounds/RaccoonSound.uasset'
+[2024.04.11-08.15.44:711][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 498 ms)
+[2024.04.11-08.15.44:711][557]AssetCheck: New page: Asset Save: RaccoonSound
+[2024.04.11-08.15.44:711][557]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sounds/RaccoonSound.RaccoonSound
