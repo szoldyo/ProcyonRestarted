@@ -1796,3 +1796,35 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-08.41.05:183][579]LogSlate: Window 'Editor Preferences' being destroyed
 [2024.04.11-08.41.05:186][579]LogSlate: Window 'Editor Preferences' being destroyed
 [2024.04.11-08.41.05:934][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.11-08.42.32:159][956]LogEditorTransaction: Undo Delete current selection
+[2024.04.11-08.42.32:692][966]LogEditorTransaction: Undo Move Node
+[2024.04.11-08.42.33:051][  2]LogEditorTransaction: Undo Move Nodes
+[2024.04.11-08.42.33:529][ 56]LogEditorTransaction: Undo Paste clipboard contents
+[2024.04.11-08.42.40:004][808]LogEditorTransaction: Undo Paste clipboard contents
+[2024.04.11-08.42.57:338][718]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-08.42.57:359][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.11-08.42.58:759][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-08.42.58:764][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-08.42.58:802][878]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-08.42.58:803][878]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase6FCA93E543C68D22D69D66A6BAD466F2.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-08.42.58:807][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.67 sec)
+[2024.04.11-08.42.58:808][878]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-08.42.58:808][878]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-08.43.15:277][815]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-08.43.15:297][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.11-08.43.16:340][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-08.43.16:345][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-08.43.16:400][923]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-08.43.16:401][923]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase21B29FCD456179C1302BD8A71AEC638E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-08.43.16:406][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.73 sec)
+[2024.04.11-08.43.16:406][923]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-08.43.16:406][923]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-09.01.19:647][775]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-09.01.19:670][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.11-09.01.20:435][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-09.01.20:440][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-09.01.20:493][856]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-09.01.20:493][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase1493AFCE4FDDC9196F0A7AB83304F26C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-09.01.20:498][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.79 sec)
+[2024.04.11-09.01.20:499][856]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-09.01.20:499][856]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
