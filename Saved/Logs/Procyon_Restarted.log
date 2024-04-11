@@ -2474,3 +2474,48 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-10.59.17:232][935]LogViewport: Scene viewport resized to 463x175, mode Windowed.
 [2024.04.11-10.59.17:499][965]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
 [2024.04.11-10.59.17:748][995]LogSlate: Window 'BS_SwordStrafe' being destroyed
+[2024.04.11-10.59.47:886][176]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.04.11-11.04.39:813][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.11-11.04.39:817][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.04.39:880][990]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BS_SwordStrafe
+[2024.04.11-11.04.39:881][990]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BS_SwordStrafe69E3303547186D90968ADEA83433FC4D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/BS_SwordStrafe.uasset'
+[2024.04.11-11.04.39:886][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.64 sec)
+[2024.04.11-11.04.39:887][990]AssetCheck: New page: Asset Save: BS_SwordStrafe
+[2024.04.11-11.04.39:887][990]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-11.05.08:345][315]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2024.04.11-11.05.08:998][393]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-11.05.31:810][ 13]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2024.04.11-11.05.34:855][378]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-11.06.23:889][ 77]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2024.04.11-11.06.24:719][176]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-11.08.32:490][150]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:42.043 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 59679 files in 45439 folders with total size 500 MiB.
+[2024.04.11-11.09.16:031][594]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.09.16:089][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.09.16:107][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.09.19:877][ 29]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.04.11-11.09.19:878][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.09.19:878][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-11.09.19:883][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.09.19:883][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-11.09.19:887][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-11.09.20:090][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.09.20:090][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-11.09.20:119][ 29]LogSlate: Window 'Open Asset' being destroyed
+[2024.04.11-11.09.20:182][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.09.20:223][ 29]LogViewport: Scene viewport resized to 634x554, mode Windowed.
+[2024.04.11-11.12.47:618][947]LogEditorTransaction: Undo Move Node
+[2024.04.11-11.12.47:776][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-11.12.47:779][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-11.12.49:648][125]LogEditorTransaction: Undo Create Reroute Node
+[2024.04.11-11.12.49:805][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-11.12.49:807][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-11.13.52:455][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.11-11.13.52:461][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.13.52:630][785]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.04.11-11.13.52:630][785]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ABP_MannyCB50798F4E03591A47367C98D5268D76.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.04.11-11.13.52:637][785]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BS_SwordStrafe
+[2024.04.11-11.13.52:638][785]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BS_SwordStrafe71C0E006430659E93EEB0C8B20879771.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/BS_SwordStrafe.uasset'
+[2024.04.11-11.13.52:644][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 2.83 sec)
+[2024.04.11-11.13.52:646][785]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-11.13.52:646][785]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.04.11-11.13.52:646][785]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
