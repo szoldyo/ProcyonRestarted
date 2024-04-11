@@ -2519,3 +2519,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-11.13.52:646][785]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.11-11.13.52:646][785]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
 [2024.04.11-11.13.52:646][785]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-11.19.39:483][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.11-11.19.39:489][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.19.39:547][991]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BS_SwordStrafe
+[2024.04.11-11.19.39:547][991]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BS_SwordStrafe9C6FE19749F4930EF55766A4AB4ACE5E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/BS_SwordStrafe.uasset'
+[2024.04.11-11.19.39:553][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.89 sec)
+[2024.04.11-11.19.39:554][991]AssetCheck: New page: Asset Save: BS_SwordStrafe
+[2024.04.11-11.19.39:554][991]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-11.19.44:223][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
