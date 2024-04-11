@@ -1789,3 +1789,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-08.39.55:568][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.63 sec)
 [2024.04.11-08.39.55:569][350]AssetCheck: New page: Asset Save: AIC_EnemyBase
 [2024.04.11-08.39.55:569][350]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-08.40.29:182][583]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.11-08.40.31:162][820]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.11-08.40.31:165][820]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.11-08.41.02:553][325]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.11-08.41.05:183][579]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.11-08.41.05:186][579]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.11-08.41.05:934][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
