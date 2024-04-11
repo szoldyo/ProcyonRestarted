@@ -2789,3 +2789,274 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-11.29.54:346][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.04.11-11.29.54:384][338]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
 [2024.04.11-11.29.54:384][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.33.54:961][565]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.11-11.33.54:980][565]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.11-11.33.54:986][566]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.11-11.33.56:675][768]LogContentBrowser: Attempting asset rename: NewFolder -> EQS
+[2024.04.11-11.33.56:675][768]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.11-11.34.01:856][127]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.04.11-11.34.07:528][769]LogContentBrowser: Deferred new asset file creation: NewEnvQuery
+[2024.04.11-11.34.07:536][769]LogContentBrowser: Creating deferred item: NewEnvQuery
+[2024.04.11-11.34.07:552][771]LogContentBrowser: Renaming the item being created (Deferred Item: NewEnvQuery).
+[2024.04.11-11.34.13:900][533]LogContentBrowser: Attempting asset rename: NewEnvQuery -> EQS_Strafe
+[2024.04.11-11.34.13:900][533]LogContentBrowser: End creating deferred item NewEnvQuery
+[2024.04.11-11.34.14:580][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.34.14:619][614]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Strafe
+[2024.04.11-11.34.14:619][614]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_StrafeC4772EE24112A26D11BA468D9ACBE874.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Strafe.uasset'
+[2024.04.11-11.34.14:624][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 3.35 sec)
+[2024.04.11-11.34.14:624][614]AssetCheck: New page: Asset Save: EQS_Strafe
+[2024.04.11-11.34.14:624][614]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
+[2024.04.11-11.34.15:531][722]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
+[2024.04.11-11.34.17:776][965]LogSlate: Window 'EQS_Strafe' being destroyed
+[2024.04.11-11.34.45:793][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.11-11.34.45:803][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.34.45:830][120]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Strafe
+[2024.04.11-11.34.45:830][120]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_Strafe29E4312247DC579D0F7CC98B018374C5.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Strafe.uasset'
+[2024.04.11-11.34.45:834][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 3.38 sec)
+[2024.04.11-11.34.45:835][120]AssetCheck: New page: Asset Save: EQS_Strafe
+[2024.04.11-11.34.45:835][120]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
+[2024.04.11-11.34.52:158][624]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.11-11.34.52:164][624]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.11-11.34.52:168][624]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.11-11.34.52:177][625]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.11-11.34.57:975][315]LogContentBrowser: Attempting asset rename: NewBlueprint -> EQS
+[2024.04.11-11.34.57:977][315]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/AI/EQS/EQS.
+[2024.04.11-11.34.57:979][315]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/AI/EQS/EQS.
+[2024.04.11-11.34.57:979][315]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.11-11.34.58:696][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.34.58:739][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/EQS/EQS" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS.uasset" SILENT=true
+[2024.04.11-11.34.58:741][400]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS
+[2024.04.11-11.34.58:741][400]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS34FC3D1E4758D4B033E7B6A8B6D36B12.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS.uasset'
+[2024.04.11-11.34.58:741][400]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/AI/EQS/EQS.
+[2024.04.11-11.34.58:743][400]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/AI/EQS/EQS.
+[2024.04.11-11.34.58:747][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 3.43 sec)
+[2024.04.11-11.34.58:747][400]AssetCheck: New page: Asset Save: EQS
+[2024.04.11-11.34.58:748][400]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/EQS/EQS.EQS
+[2024.04.11-11.34.59:930][539]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/AI/EQS/EQS.EQS
+[2024.04.11-11.34.59:930][539]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.34.59:930][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-11.35.00:040][539]LogViewport: Scene viewport resized to 1522x927, mode Windowed.
+[2024.04.11-11.35.23:021][380]LogContentBrowser: Attempting asset rename: EQS -> EQS
+[2024.04.11-11.35.24:096][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.11-11.35.25:706][494]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.11-11.35.25:741][494]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.35.25:741][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.35.25:764][494]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Enemy/AI/EQS/EQS.EQS
+	Asset Type: Blueprint
+[2024.04.11-11.35.25:969][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-11.35.25:983][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-11.35.25:993][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-11.35.33:077][693]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.11-11.35.33:081][693]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.11-11.35.33:085][693]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.11-11.35.33:086][693]LogAutomationController: Ignoring very large delta of 5.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-11.35.33:089][694]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.11-11.35.55:249][648]LogContentBrowser: Attempting asset rename: NewBlueprint -> EQS_TestingPawn
+[2024.04.11-11.35.55:251][648]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/AI/EQS/EQS_TestingPawn.
+[2024.04.11-11.35.55:252][648]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/AI/EQS/EQS_TestingPawn.
+[2024.04.11-11.35.55:253][648]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.11-11.35.56:510][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.35.56:541][790]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_TestingPawn
+[2024.04.11-11.35.56:541][790]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_TestingPawnF3DFD7AF4D0EAEAF669E5790C2FCB030.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_TestingPawn.uasset'
+[2024.04.11-11.35.56:542][790]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/AI/EQS/EQS_TestingPawn.
+[2024.04.11-11.35.56:543][790]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/AI/EQS/EQS_TestingPawn.
+[2024.04.11-11.35.56:547][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 3.47 sec)
+[2024.04.11-11.35.56:548][790]AssetCheck: New page: Asset Save: EQS_TestingPawn
+[2024.04.11-11.35.56:548][790]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn
+[2024.04.11-11.35.57:094][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn_C
+[2024.04.11-11.35.57:094][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn_C
+[2024.04.11-11.35.57:100][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn as actor: EQS_TestingPawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.EQS_TestingPawn_C_0
+[2024.04.11-11.35.57:100][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn as actor: EQS_TestingPawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.EQS_TestingPawn_C_0
+[2024.04.11-11.35.57:101][843]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.11-11.35.57:607][903]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn_C
+[2024.04.11-11.35.57:607][903]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn_C
+[2024.04.11-11.35.57:608][903]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn as actor: EQS_TestingPawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.EQS_TestingPawn_C_UAID_106838F2345722EB01_1671817304
+[2024.04.11-11.35.57:608][903]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn as actor: EQS_TestingPawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.EQS_TestingPawn_C_UAID_106838F2345722EB01_1671817304
+[2024.04.11-11.37.03:424][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-11.37.03:431][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH_Auto2
+[2024.04.11-11.37.03:431][146]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/CJWE4A9AL7LKO8MB09OUOH_Auto2C49039124198D6CA422622B05E3B3020.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH_Auto2.uasset'
+[2024.04.11-11.37.03:432][146]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.04.11-11.37.03:432][146]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.04.11-11.44.25:597][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.11-11.44.25:601][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.44.25:664][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-11.44.25:668][230]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.11-11.44.25:669][230]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ThirdPersonMapE05905484D8C3E3F041A3585EE94E2B2.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.11-11.44.25:673][230]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH
+[2024.04.11-11.44.25:673][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.44.25:674][230]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH
+[2024.04.11-11.44.25:675][230]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/CJWE4A9AL7LKO8MB09OUOH74023B6C4B6FD29BE0377BBBB77306C6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH.uasset'
+[2024.04.11-11.44.25:675][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 2 ms (total: 3.47 sec)
+[2024.04.11-11.44.25:675][230]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH
+[2024.04.11-11.44.25:675][230]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.036
+[2024.04.11-11.44.25:677][230]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH
+[2024.04.11-11.44.25:677][230]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/CJWE4A9AL7LKO8MB09OUOH2DE0AB8C44FBEDE4C121E79531673B9E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH.uasset'
+[2024.04.11-11.44.25:678][230]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Strafe
+[2024.04.11-11.44.25:678][230]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_Strafe0EAA68EA4BD2B70E070E1097C663D381.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Strafe.uasset'
+[2024.04.11-11.44.25:684][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 3.56 sec)
+[2024.04.11-11.44.25:686][230]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-11.44.25:686][230]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.11-11.44.25:686][230]LogContentValidation: Display: Validating /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.EQS_TestingPawn_C_UAID_106838F2345722EB01_1671817304
+[2024.04.11-11.44.25:686][230]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
+[2024.04.11-11.44.35:151][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.11-11.44.35:156][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.44.35:199][300]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC
+[2024.04.11-11.44.35:199][300]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/QD9BMZNFBI8SA0TYJH31OC01FFB3C34B45FF59DA504C9785A2D33D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC.uasset'
+[2024.04.11-11.44.35:205][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 3.60 sec)
+[2024.04.11-11.44.35:206][300]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_106838F234571EEB01_1964521599
+[2024.04.11-11.44.35:206][300]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234571EEB01_1964521599
+[2024.04.11-11.45.51:876][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-11.45.51:883][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.45.51:956][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-11.45.51:960][753]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.11-11.45.51:960][753]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ThirdPersonMapCB055255446C4B3B3306B1AEFEDFA435.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.11-11.45.51:964][753]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC
+[2024.04.11-11.45.51:964][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.45.51:964][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC
+[2024.04.11-11.45.51:965][753]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/QD9BMZNFBI8SA0TYJH31OCA6E4B59143DD126F0600FC9A13938299.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC.uasset'
+[2024.04.11-11.45.51:966][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 1 ms (total: 3.61 sec)
+[2024.04.11-11.45.51:966][753]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC
+[2024.04.11-11.45.51:966][753]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.034
+[2024.04.11-11.45.51:967][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC
+[2024.04.11-11.45.51:967][753]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/QD9BMZNFBI8SA0TYJH31OC639525B844B36B5257C0D3864F531E39.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC.uasset'
+[2024.04.11-11.45.51:968][753]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Strafe
+[2024.04.11-11.45.51:969][753]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_Strafe724B553E4008A9EB0B1DF9893DBF85E9.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Strafe.uasset'
+[2024.04.11-11.45.51:973][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.70 sec)
+[2024.04.11-11.45.51:975][753]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-11.45.51:975][753]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.11-11.45.51:975][753]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234571EEB01_1964521599
+[2024.04.11-11.45.51:975][753]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
+[2024.04.11-11.46.14:601][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-11.46.14:605][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.46.14:723][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.11-11.46.14:727][391]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.11-11.46.14:727][391]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ThirdPersonMapD42A7F1A468A557ABD6D9D9C12AFEBA8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.11-11.46.14:731][391]LogFileHelpers: All files are already saved.
+[2024.04.11-11.46.14:731][391]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.031
+[2024.04.11-11.46.14:732][391]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Strafe
+[2024.04.11-11.46.14:733][391]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_StrafeE1539F684E173A304EE92E9D114022E2.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Strafe.uasset'
+[2024.04.11-11.46.14:737][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 3.83 sec)
+[2024.04.11-11.46.14:739][391]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-11.46.14:739][391]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.11-11.46.14:739][391]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
+[2024.04.11-11.46.36:100][917]LogEQS: Warning: Query [EQS_Strafe] doesn't have any valid options!
+[2024.04.11-11.46.36:101][917]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_Strafe - Owner: EQS_TestingPawn_C_UAID_106838F2345722EB01_1671817304
+[2024.04.11-11.46.36:101][917]LogEQS: Warning: Query [EQS_Strafe] doesn't have any valid options!
+[2024.04.11-11.46.36:101][917]LogEQS: Warning: Error creating query instance for QueryTemplate: EQS_Strafe - Owner: EQS_TestingPawn_C_UAID_106838F2345722EB01_1671817304
+[2024.04.11-11.47.05:174][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-11.47.05:179][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.47.05:251][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-11.47.05:255][278]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.11-11.47.05:255][278]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ThirdPersonMap25AFB62D41D55AE0748860B43F7B9D14.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.11-11.47.05:259][278]LogFileHelpers: All files are already saved.
+[2024.04.11-11.47.05:259][278]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.033
+[2024.04.11-11.47.05:260][278]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Strafe
+[2024.04.11-11.47.05:261][278]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_Strafe1C8CBF014FF74215D1D082A00879A216.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Strafe.uasset'
+[2024.04.11-11.47.05:266][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.92 sec)
+[2024.04.11-11.47.05:267][278]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-11.47.05:267][278]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.11-11.47.05:267][278]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
+[2024.04.11-11.47.10:035][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-11.47.10:038][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.47.10:120][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-11.47.10:124][834]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.11-11.47.10:125][834]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ThirdPersonMap443A03D64708A57FB3B232A4356F10C4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.11-11.47.10:128][834]LogFileHelpers: All files are already saved.
+[2024.04.11-11.47.10:129][834]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.032
+[2024.04.11-11.47.10:130][834]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Strafe
+[2024.04.11-11.47.10:130][834]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_StrafeCF87D55C4CBA9A51306E54B229B9ACAC.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Strafe.uasset'
+[2024.04.11-11.47.10:134][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.01 sec)
+[2024.04.11-11.47.10:135][834]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-11.47.10:135][834]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.11-11.47.10:135][834]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
+[2024.04.11-11.47.56:091][646]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.11-11.47.56:095][646]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.11-11.47.56:100][646]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.11-11.47.56:102][646]LogAutomationController: Ignoring very large delta of 7.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-11.47.56:107][647]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.11-11.48.07:227][948]LogContentBrowser: Attempting asset rename: NewBlueprint -> EQS_Context_AttackTarget
+[2024.04.11-11.48.07:229][948]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/AI/EQS/EQS_Context_AttackTarget.
+[2024.04.11-11.48.07:230][948]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/AI/EQS/EQS_Context_AttackTarget.
+[2024.04.11-11.48.07:231][948]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.11-11.48.08:629][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.48.08:664][115]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Context_AttackTarget
+[2024.04.11-11.48.08:664][115]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_Context_AttackTargetD39EA17C4AF1A5DB2F7388AC708DB3CB.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Context_AttackTarget.uasset'
+[2024.04.11-11.48.08:664][115]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/AI/EQS/EQS_Context_AttackTarget.
+[2024.04.11-11.48.08:666][115]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/AI/EQS/EQS_Context_AttackTarget.
+[2024.04.11-11.48.08:670][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 4.05 sec)
+[2024.04.11-11.48.08:671][115]AssetCheck: New page: Asset Save: EQS_Context_AttackTarget
+[2024.04.11-11.48.08:671][115]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/EQS/EQS_Context_AttackTarget.EQS_Context_AttackTarget
+[2024.04.11-11.48.09:705][229]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/AI/EQS/EQS_Context_AttackTarget.EQS_Context_AttackTarget
+[2024.04.11-11.48.09:706][229]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.48.09:706][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-11.48.32:390][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.11-11.48.32:395][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.48.32:435][933]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH
+[2024.04.11-11.48.32:435][933]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/CJWE4A9AL7LKO8MB09OUOH2DF4620647D2173481345DADE4F38DDB.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7O/CJWE4A9AL7LKO8MB09OUOH.uasset'
+[2024.04.11-11.48.32:437][933]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Context_AttackTarget
+[2024.04.11-11.48.32:437][933]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_Context_AttackTargetF34DBED940E183CE52901C8323B1CCAA.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Context_AttackTarget.uasset'
+[2024.04.11-11.48.32:442][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 4.10 sec)
+[2024.04.11-11.48.32:443][933]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-11.48.32:443][933]LogContentValidation: Display: Validating /Game/Enemy/AI/EQS/EQS_TestingPawn.EQS_TestingPawn_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.EQS_TestingPawn_C_UAID_106838F2345722EB01_1671817304
+[2024.04.11-11.48.32:443][933]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/EQS/EQS_Context_AttackTarget.EQS_Context_AttackTarget
+[2024.04.11-11.49.08:000][ 69]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-11.49.08:027][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-11.49.08:335][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-11.49.08:343][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.49.08:410][ 96]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-11.49.08:411][ 96]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase94E7CDD649627881ECAC8DBBA08360EC.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-11.49.08:415][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.17 sec)
+[2024.04.11-11.49.08:416][ 96]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-11.49.08:416][ 96]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-11.49.21:136][398]LogEditorTransaction: Undo Create Pin Link
+[2024.04.11-11.49.27:402][ 90]Cmd: TRANSACTION UNDO
+[2024.04.11-11.49.27:402][ 90]LogEditorTransaction: Undo Create Pin Link
+[2024.04.11-11.49.28:360][150]Cmd: TRANSACTION UNDO
+[2024.04.11-11.49.28:360][150]LogEditorTransaction: Undo Create Pin Link
+[2024.04.11-11.49.29:120][234]Cmd: TRANSACTION UNDO
+[2024.04.11-11.49.29:121][234]LogEditorTransaction: Undo Move Node
+[2024.04.11-11.49.38:552][292]BlueprintLog: New page: Compile AIC_EnemyBase
+[2024.04.11-11.49.38:575][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-11.49.39:346][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-11.49.39:352][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.49.39:419][375]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.11-11.49.39:419][375]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBase1AFD3CD944D4B6A86BBBBC90624ADC5C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.11-11.49.39:424][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.25 sec)
+[2024.04.11-11.49.39:424][375]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.11-11.49.39:424][375]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.11-11.50.36:308][845]BlueprintLog: New page: Compile EQS_Context_AttackTarget
+[2024.04.11-11.50.36:320][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-11.50.37:240][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-11.50.37:244][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.50.37:275][953]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Context_AttackTarget
+[2024.04.11-11.50.37:275][953]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_Context_AttackTargetEC7DF2A749E0FF9E0D346ABB30438431.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Context_AttackTarget.uasset'
+[2024.04.11-11.50.37:279][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 4.28 sec)
+[2024.04.11-11.50.37:280][953]AssetCheck: New page: Asset Save: EQS_Context_AttackTarget
+[2024.04.11-11.50.37:280][953]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/EQS/EQS_Context_AttackTarget.EQS_Context_AttackTarget
+[2024.04.11-11.50.39:045][163]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.50.39:045][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.50.56:711][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-11.50.56:718][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.50.56:797][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-11.50.56:801][ 77]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.11-11.50.56:802][ 77]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ThirdPersonMapC276A51F42C9EFA831415BB2D9AA9B5B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.11-11.50.56:805][ 77]LogFileHelpers: All files are already saved.
+[2024.04.11-11.50.56:806][ 77]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.032
+[2024.04.11-11.50.56:807][ 77]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Strafe
+[2024.04.11-11.50.56:807][ 77]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_Strafe6FDE28A6495415F16676D9A8187CDF84.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Strafe.uasset'
+[2024.04.11-11.50.56:812][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 4.38 sec)
+[2024.04.11-11.50.56:813][ 77]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-11.50.56:813][ 77]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.11-11.50.56:813][ 77]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
+[2024.04.11-11.50.59:404][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-11.50.59:408][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.50.59:460][387]LogSavePackage: Moving output files for package: /Game/Enemy/AI/EQS/EQS_Strafe
+[2024.04.11-11.50.59:460][387]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/EQS_Strafe062FF27B43B3F713C19D23B805C6AE5B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/EQS/EQS_Strafe.uasset'
+[2024.04.11-11.50.59:464][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 4.43 sec)
+[2024.04.11-11.50.59:465][387]AssetCheck: New page: Asset Save: EQS_Strafe
+[2024.04.11-11.50.59:465][387]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/Enemy/AI/EQS/EQS_Strafe.EQS_Strafe
