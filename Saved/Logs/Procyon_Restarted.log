@@ -2214,3 +2214,263 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-10.39.07:400][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.04.11-10.39.07:429][451]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
 [2024.04.11-10.39.07:429][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.52.01:026][ 13]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.11-10.52.08:471][455]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.04.11-10.52.08:476][455]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2024.04.11-10.52.08:479][455]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2024.04.11-10.52.08:481][455]LogAutomationController: Ignoring very large delta of 3.47 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-10.52.08:485][456]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace).
+[2024.04.11-10.52.16:644][416]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_SwordStrafe
+[2024.04.11-10.52.16:645][416]LogContentBrowser: End creating deferred item NewBlendSpace
+[2024.04.11-10.52.17:396][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.52.17:449][503]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BS_SwordStrafe
+[2024.04.11-10.52.17:449][503]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BS_SwordStrafe98B5A6844D648D26C3FE5E83454701D8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/BS_SwordStrafe.uasset'
+[2024.04.11-10.52.17:454][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.85 sec)
+[2024.04.11-10.52.17:455][503]AssetCheck: New page: Asset Save: BS_SwordStrafe
+[2024.04.11-10.52.17:455][503]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-10.52.18:572][627]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-10.52.18:573][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.52.18:573][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.52.18:578][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-10.52.18:736][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.52.18:736][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.52.18:827][627]LogViewport: Scene viewport resized to 1244x585, mode Windowed.
+[2024.04.11-10.52.18:835][627]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-10.52.20:654][811]LogViewport: Scene viewport resized to 1241x603, mode Windowed.
+[2024.04.11-10.52.20:718][813]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
+[2024.04.11-10.52.20:821][816]LogViewport: Scene viewport resized to 1520x738, mode Windowed.
+[2024.04.11-10.52.20:906][818]LogViewport: Scene viewport resized to 516x198, mode Windowed.
+[2024.04.11-10.52.20:930][819]LogViewport: Scene viewport resized to 463x169, mode Windowed.
+[2024.04.11-10.52.21:106][838]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
+[2024.04.11-10.52.22:065][953]LogSlate: Window 'BS_SwordStrafe' being destroyed
+[2024.04.11-10.52.55:285][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.11-10.52.55:289][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.52.55:347][897]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BS_SwordStrafe
+[2024.04.11-10.52.55:347][897]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BS_SwordStrafeFFCD8FC94AEB97FEB66F34AF7A24C774.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/BS_SwordStrafe.uasset'
+[2024.04.11-10.52.55:352][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 1.91 sec)
+[2024.04.11-10.52.55:353][897]AssetCheck: New page: Asset Save: BS_SwordStrafe
+[2024.04.11-10.52.55:353][897]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-10.52.59:348][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/AI/Tasks/BTT_SetMovementSpeed.BTT_SetMovementSpeed
+[2024.04.11-10.52.59:348][364]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.52.59:348][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.53.01:209][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/AI/BPI_EnemyAI.BPI_EnemyAI
+[2024.04.11-10.53.01:209][575]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.53.01:209][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.53.06:435][163]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.53.06:436][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.53.12:850][913]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.53.12:850][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.53.15:095][144]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Enemy/AI/Enums/E_MovementSpeed.E_MovementSpeed
+[2024.04.11-10.53.21:030][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.54.23:611][885]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.11-10.54.27:272][260]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.11-10.54.27:365][266]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.04.11-10.54.28:407][366]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.11-10.54.31:237][652]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.11-10.54.34:468][955]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.11-10.54.38:030][354]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.11-10.54.38:035][354]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.04.11-10.54.42:749][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.11-10.54.42:754][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.54.42:787][845]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BS_SwordStrafe
+[2024.04.11-10.54.42:787][845]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BS_SwordStrafe0B7F5CF34CA7D9F7DE1FF4942A048E21.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/BS_SwordStrafe.uasset'
+[2024.04.11-10.54.42:792][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.95 sec)
+[2024.04.11-10.54.42:793][845]AssetCheck: New page: Asset Save: BS_SwordStrafe
+[2024.04.11-10.54.42:793][845]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-10.55.24:434][652]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.04.11-10.55.48:348][373]LogContentBrowser: Deferred new asset file creation: MM_Walk_Fwd1
+[2024.04.11-10.55.48:357][373]LogContentBrowser: Creating deferred item: MM_Walk_Fwd1
+[2024.04.11-10.55.48:369][374]LogContentBrowser: Renaming the item being created (Deferred Item: MM_Walk_Fwd1).
+[2024.04.11-10.55.50:333][609]LogContentBrowser: Attempting asset rename: MM_Walk_Fwd1 -> MM_Walk_Fwd1
+[2024.04.11-10.55.50:346][609]LogContentBrowser: End creating deferred item MM_Walk_Fwd1
+[2024.04.11-10.55.55:137][145]LogContentBrowser: Attempting asset rename: MM_Walk_Fwd1 -> MM_Walk_Bkwd
+[2024.04.11-10.55.55:155][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.55.55:205][145]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd
+[2024.04.11-10.55.55:205][145]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MM_Walk_BkwdB976FF4C42653E440600BBA928CAB54C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.uasset'
+[2024.04.11-10.55.55:218][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.01 sec)
+[2024.04.11-10.55.55:233][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-10.55.55:245][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-10.55.55:254][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-10.55.55:255][145]AssetCheck: New page: Asset Save: MM_Walk_Bkwd
+[2024.04.11-10.55.55:255][145]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.MM_Walk_Bkwd
+[2024.04.11-10.55.56:837][298]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.MM_Walk_Bkwd
+[2024.04.11-10.55.56:866][298]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.55.56:866][298]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.56.04:497][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-10.56.04:501][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.56.04:558][163]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BS_SwordStrafe
+[2024.04.11-10.56.04:558][163]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BS_SwordStrafeFE27A77542C4B75EB387378347B952D3.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/BS_SwordStrafe.uasset'
+[2024.04.11-10.56.04:572][163]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd
+[2024.04.11-10.56.04:572][163]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MM_Walk_Bkwd577B35E44D1E2B85BE5A5B9BB1A3DCC9.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.uasset'
+[2024.04.11-10.56.04:578][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.09 sec)
+[2024.04.11-10.56.04:579][163]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-10.56.04:579][163]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-10.56.04:579][163]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.MM_Walk_Bkwd
+[2024.04.11-10.56.05:758][296]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.56.05:758][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.56.05:764][296]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.56.05:764][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.56.05:794][296]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.56.05:794][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.56.11:869][959]LogContentBrowser: Deferred new asset file creation: MM_Walk_Bkwd_Montage
+[2024.04.11-10.56.11:885][959]LogContentBrowser: Creating deferred item: MM_Walk_Bkwd_Montage
+[2024.04.11-10.56.11:894][960]LogContentBrowser: Renaming the item being created (Deferred Item: MM_Walk_Bkwd_Montage).
+[2024.04.11-10.56.19:195][833]LogContentBrowser: Attempting asset rename: MM_Walk_Bkwd_Montage -> MM_Walk_Bkwd_Montage
+[2024.04.11-10.56.19:196][833]LogContentBrowser: End creating deferred item MM_Walk_Bkwd_Montage
+[2024.04.11-10.56.20:824][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-10.56.21:948][ 17]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.11-10.56.21:956][ 17]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd_Montage.MM_Walk_Bkwd_Montage
+	Asset Type: AnimMontage
+[2024.04.11-10.56.22:156][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-10.56.22:166][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-10.56.22:175][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-10.56.22:928][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-10.56.23:948][ 97]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.11-10.56.23:955][ 97]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.MM_Walk_Bkwd
+	Asset Type: AnimSequence
+[2024.04.11-10.56.24:175][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-10.56.24:184][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-10.56.24:194][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.11-10.56.32:196][989]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-10.56.32:198][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.56.32:198][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.56.32:202][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-10.56.32:386][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.56.32:386][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.56.32:480][989]LogViewport: Scene viewport resized to 1246x586, mode Windowed.
+[2024.04.11-10.56.32:488][989]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-10.56.35:790][338]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.04.11-10.56.43:962][120]LogViewport: Scene viewport resized to 1242x604, mode Windowed.
+[2024.04.11-10.56.44:047][122]LogViewport: Scene viewport resized to 532x212, mode Windowed.
+[2024.04.11-10.56.44:079][123]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
+[2024.04.11-10.56.44:449][165]LogSlate: Window 'BS_SwordStrafe' being destroyed
+[2024.04.11-10.57.22:045][277]LogContentBrowser: Deferred new asset file creation: MF_Walk_Fwd1
+[2024.04.11-10.57.22:054][277]LogContentBrowser: Creating deferred item: MF_Walk_Fwd1
+[2024.04.11-10.57.22:066][278]LogContentBrowser: Renaming the item being created (Deferred Item: MF_Walk_Fwd1).
+[2024.04.11-10.57.26:136][762]LogContentBrowser: Attempting asset rename: MF_Walk_Fwd1 -> MF_Walk_Bkwd
+[2024.04.11-10.57.26:146][762]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Bkwd.MF_Walk_Bkwd
+[2024.04.11-10.57.26:150][762]LogContentBrowser: End creating deferred item MF_Walk_Fwd1
+[2024.04.11-10.57.26:242][773]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Bkwd.MF_Walk_Bkwd, at AnimationSequence/9e89501576d31423f851c80bba6600f404c59344
+[2024.04.11-10.57.27:137][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.57.27:206][875]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Bkwd
+[2024.04.11-10.57.27:206][875]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MF_Walk_Bkwd0AC092924CB750E4064100AC8DF8C487.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Bkwd.uasset'
+[2024.04.11-10.57.27:214][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.17 sec)
+[2024.04.11-10.57.27:215][875]AssetCheck: New page: Asset Save: MF_Walk_Bkwd
+[2024.04.11-10.57.27:215][875]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Bkwd.MF_Walk_Bkwd
+[2024.04.11-10.57.27:722][936]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Bkwd.MF_Walk_Bkwd
+[2024.04.11-10.57.27:750][936]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.57.27:750][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.57.31:697][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.11-10.57.31:700][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.57.31:762][370]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Bkwd
+[2024.04.11-10.57.31:762][370]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MF_Walk_Bkwd4219B5DC4998471A478DFCB499DE9D7E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Bkwd.uasset'
+[2024.04.11-10.57.31:767][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 2.23 sec)
+[2024.04.11-10.57.31:768][370]AssetCheck: New page: Asset Save: MF_Walk_Bkwd
+[2024.04.11-10.57.31:768][370]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Bkwd.MF_Walk_Bkwd
+[2024.04.11-10.57.32:782][488]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.57.32:782][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.57.32:788][488]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.57.32:788][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.57.32:817][488]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.57.32:817][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.57.46:333][ 51]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-10.57.46:335][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.57.46:335][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.57.46:340][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-10.57.46:518][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.57.46:518][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.57.46:613][ 51]LogViewport: Scene viewport resized to 1247x587, mode Windowed.
+[2024.04.11-10.57.46:622][ 51]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-10.57.48:083][179]LogViewport: Scene viewport resized to 1244x605, mode Windowed.
+[2024.04.11-10.57.48:169][181]LogViewport: Scene viewport resized to 526x210, mode Windowed.
+[2024.04.11-10.57.48:189][182]LogViewport: Scene viewport resized to 463x175, mode Windowed.
+[2024.04.11-10.57.48:332][197]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
+[2024.04.11-10.57.48:556][224]LogSlate: Window 'BS_SwordStrafe' being destroyed
+[2024.04.11-10.57.50:870][490]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.04.11-10.58.11:026][725]LogContentBrowser: Deferred new asset file creation: MF_Walk_Bkwd_Montage
+[2024.04.11-10.58.11:052][725]LogContentBrowser: Creating deferred item: MF_Walk_Bkwd_Montage
+[2024.04.11-10.58.11:058][726]LogContentBrowser: Renaming the item being created (Deferred Item: MF_Walk_Bkwd_Montage).
+[2024.04.11-10.58.18:019][560]LogContentBrowser: Attempting asset rename: MF_Walk_Bkwd_Montage -> MM_Walk_Bkwd
+[2024.04.11-10.58.18:022][560]LogContentBrowser: End creating deferred item MF_Walk_Bkwd_Montage
+[2024.04.11-10.58.18:777][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.58.18:838][650]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/MM_Walk_Bkwd
+[2024.04.11-10.58.18:838][650]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MM_Walk_BkwdC2C108BA44E26AEFEA2FABBB4A531D78.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/Quinn/MM_Walk_Bkwd.uasset'
+[2024.04.11-10.58.18:846][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.30 sec)
+[2024.04.11-10.58.18:846][650]AssetCheck: New page: Asset Save: MM_Walk_Bkwd
+[2024.04.11-10.58.18:846][650]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Characters/Mannequins/Animations/Quinn/MM_Walk_Bkwd.MM_Walk_Bkwd
+[2024.04.11-10.58.22:834][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.58.22:886][ 87]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd
+[2024.04.11-10.58.22:886][ 87]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MM_Walk_Bkwd3DA3565145BC6A1DF9BCC7B0F4B7D043.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.uasset'
+[2024.04.11-10.58.22:894][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.36 sec)
+[2024.04.11-10.58.22:937][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.11-10.58.22:949][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.11-10.58.22:959][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.11-10.58.22:968][ 87]AssetCheck: New page: Asset Save: MM_Walk_Bkwd
+[2024.04.11-10.58.22:968][ 87]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.MM_Walk_Bkwd
+[2024.04.11-10.58.31:904][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-10.58.33:028][103]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.11-10.58.33:034][103]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.MM_Walk_Bkwd
+	Asset Type: AnimMontage
+[2024.04.11-10.58.33:244][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-10.58.33:254][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.11-10.58.33:263][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-10.58.36:533][465]LogContentBrowser: Deferred new asset file creation: MF_Walk_Bkwd1
+[2024.04.11-10.58.36:536][465]LogContentBrowser: Creating deferred item: MF_Walk_Bkwd1
+[2024.04.11-10.58.36:545][466]LogContentBrowser: Renaming the item being created (Deferred Item: MF_Walk_Bkwd1).
+[2024.04.11-10.58.38:774][733]LogContentBrowser: Attempting asset rename: MF_Walk_Bkwd1 -> MF_Walk_Bkwd1
+[2024.04.11-10.58.38:791][733]LogContentBrowser: End creating deferred item MF_Walk_Bkwd1
+[2024.04.11-10.58.41:733][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.58.41:804][ 48]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MF_Walk_Bkwd1
+[2024.04.11-10.58.41:804][ 48]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MF_Walk_Bkwd1BBF0EA5842BBCE04B589348C04DB1EC5.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/Manny/MF_Walk_Bkwd1.uasset'
+[2024.04.11-10.58.41:814][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.44 sec)
+[2024.04.11-10.58.41:834][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.11-10.58.41:848][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-10.58.41:856][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.11-10.58.41:866][ 48]AssetCheck: New page: Asset Save: MF_Walk_Bkwd1
+[2024.04.11-10.58.41:866][ 48]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/MF_Walk_Bkwd1.MF_Walk_Bkwd1
+[2024.04.11-10.58.55:173][562]LogContentBrowser: Attempting asset rename: MF_Walk_Bkwd1 -> MM_Walk_Bkwd1
+[2024.04.11-10.58.55:190][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.58.55:242][562]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd1
+[2024.04.11-10.58.55:242][562]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MM_Walk_Bkwd18E8C74C24A5E19BA41D77E84246752F2.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd1.uasset'
+[2024.04.11-10.58.55:252][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.50 sec)
+[2024.04.11-10.58.55:274][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.11-10.58.55:286][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.11-10.58.55:295][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.11-10.58.55:296][562]AssetCheck: New page: Asset Save: MM_Walk_Bkwd1
+[2024.04.11-10.58.55:297][562]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd1.MM_Walk_Bkwd1
+[2024.04.11-10.58.58:835][948]LogContentBrowser: Attempting asset rename: MM_Walk_Bkwd1 -> MM_Walk_Bkwd
+[2024.04.11-10.58.58:852][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-10.58.58:912][948]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd
+[2024.04.11-10.58.58:912][948]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MM_Walk_Bkwd3B374AF9493BE4CBD9B5AC86A4CE78C8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.uasset'
+[2024.04.11-10.58.58:922][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.57 sec)
+[2024.04.11-10.58.58:941][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-10.58.58:952][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-10.58.58:961][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.11-10.58.58:963][948]AssetCheck: New page: Asset Save: MM_Walk_Bkwd
+[2024.04.11-10.58.58:963][948]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.MM_Walk_Bkwd
+[2024.04.11-10.59.01:278][208]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Bkwd.MM_Walk_Bkwd
+[2024.04.11-10.59.01:305][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.59.01:305][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.59.06:868][859]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.59.06:868][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.59.06:874][859]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.59.06:874][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.59.06:904][859]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-10.59.06:904][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-10.59.08:286][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.11-10.59.15:093][768]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-10.59.15:094][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.59.15:094][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.59.15:100][768]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-10.59.15:273][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-10.59.15:273][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-10.59.15:368][768]LogViewport: Scene viewport resized to 1248x589, mode Windowed.
+[2024.04.11-10.59.15:375][768]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-10.59.17:127][932]LogViewport: Scene viewport resized to 1245x606, mode Windowed.
+[2024.04.11-10.59.17:212][934]LogViewport: Scene viewport resized to 515x204, mode Windowed.
+[2024.04.11-10.59.17:232][935]LogViewport: Scene viewport resized to 463x175, mode Windowed.
+[2024.04.11-10.59.17:499][965]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
+[2024.04.11-10.59.17:748][995]LogSlate: Window 'BS_SwordStrafe' being destroyed
