@@ -3960,3 +3960,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-13.18.58:893][128]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2024.04.11-13.18.58:913][128]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2024.04.11-13.18.58:916][128]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.11-13.19.18:820][561]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.11-13.20.00:462][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.11-13.20.00:470][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.20.00:518][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/BT_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset" SILENT=true
+[2024.04.11-13.20.00:523][910]LogSavePackage: Moving output files for package: /Game/Enemy/AI/BT_EnemyBase
+[2024.04.11-13.20.00:523][910]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BT_EnemyBaseBFB3CC6744267E130F07B2A6BF468EA4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset'
+[2024.04.11-13.20.00:529][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 5.44 sec)
+[2024.04.11-13.20.00:530][910]AssetCheck: New page: Asset Save: BT_EnemyBase
+[2024.04.11-13.20.00:530][910]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
+[2024.04.11-13.21.40:790][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.11-13.21.40:796][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.21.40:835][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/BT_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset" SILENT=true
+[2024.04.11-13.21.40:840][963]LogSavePackage: Moving output files for package: /Game/Enemy/AI/BT_EnemyBase
+[2024.04.11-13.21.40:840][963]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BT_EnemyBaseE6EA5AD940FB6AE0E39308A663E461E9.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset'
+[2024.04.11-13.21.40:844][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 5.48 sec)
+[2024.04.11-13.21.40:845][963]AssetCheck: New page: Asset Save: BT_EnemyBase
+[2024.04.11-13.21.40:845][963]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
