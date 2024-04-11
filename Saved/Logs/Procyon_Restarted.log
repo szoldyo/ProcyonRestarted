@@ -4751,3 +4751,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-13.55.48:221][331]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2024.04.11-13.55.48:241][331]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2024.04.11-13.55.48:244][331]LogSlate: Took 0.000058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.11-13.57.30:034][697]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.11-13.57.57:078][904]Cmd: SELECT NONE
+[2024.04.11-13.57.57:085][904]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.11-13.58.03:988][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-13.58.03:994][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.58.04:049][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2024.04.11-13.58.04:049][725]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/SWSI13675DVYIZ0N4NF7Y30B7F1FF04A354C8863A50BAD2814ACB1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2024.04.11-13.58.04:050][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC
+[2024.04.11-13.58.04:051][725]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/QD9BMZNFBI8SA0TYJH31OC5A58C8F646354B44F6A2FAB7BABE3A87.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC.uasset'
+[2024.04.11-13.58.04:052][725]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HH/O88EKQX2F1S3AXDCG7YD9I
+[2024.04.11-13.58.04:052][725]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/O88EKQX2F1S3AXDCG7YD9IB64DB579446F78F714DEB8B6EA73E66B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HH/O88EKQX2F1S3AXDCG7YD9I.uasset'
+[2024.04.11-13.58.04:061][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 7.68 sec)
+[2024.04.11-13.58.04:063][725]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-13.58.04:063][725]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+[2024.04.11-13.58.04:063][725]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234571EEB01_1964521599
+[2024.04.11-13.58.04:063][725]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234572AEB01_1581756713
+[2024.04.11-13.58.07:932][157]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.11-13.58.08:477][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.11-13.58.08:481][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.58.08:535][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2024.04.11-13.58.08:536][220]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/SWSI13675DVYIZ0N4NF7Y39E3826DC40199169632EE9AD122BE27F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2024.04.11-13.58.08:542][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 7.75 sec)
+[2024.04.11-13.58.08:543][220]AssetCheck: New page: Asset Save: PlayerStart_0
+[2024.04.11-13.58.08:543][220]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
