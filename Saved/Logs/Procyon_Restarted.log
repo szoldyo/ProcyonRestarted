@@ -2527,3 +2527,265 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-11.19.39:554][991]AssetCheck: New page: Asset Save: BS_SwordStrafe
 [2024.04.11-11.19.39:554][991]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
 [2024.04.11-11.19.44:223][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.11-11.20.04:110][984]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.20.04:110][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.20.04:142][984]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.20.04:142][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.20.54:788][138]BlueprintLog: New page: Compile ABP_Manny
+[2024.04.11-11.20.54:829][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.11-11.20.55:219][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-11.23.59:079][223]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Students\Downloads\mixamo_converter\mixamo_converter\OutgoingFbx\SwordAndShieldIdle.UE.fbx)
+[2024.04.11-11.23.59:101][223]LogFbx: Loading FBX Scene from C:\Users\Students\Downloads\mixamo_converter\mixamo_converter\OutgoingFbx\SwordAndShieldIdle.UE.fbx
+[2024.04.11-11.23.59:121][223]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.11-11.24.04:432][223]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(0) root
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(1) pelvis
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(2) spine_01
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(3) spine_02
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(4) spine_03
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(5) spine_04
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(6) spine_05
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(7) neck_01
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(8) neck_02
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(9) head
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(10) clavicle_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(11) upperarm_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(20) hand_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(21) wrist_inner_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(22) wrist_outer_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(23) index_metacarpal_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(24) index_01_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(25) index_02_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(26) index_03_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(27) middle_metacarpal_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(28) middle_01_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(29) middle_02_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(30) middle_03_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(31) thumb_01_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(32) thumb_02_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(33) thumb_03_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(34) pinky_metacarpal_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(35) pinky_01_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(36) pinky_02_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(37) pinky_03_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(38) ring_metacarpal_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(39) ring_01_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(40) ring_02_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(41) ring_03_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(42) weapon_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(56) clavicle_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(57) upperarm_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(66) hand_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(67) wrist_inner_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(68) wrist_outer_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(69) pinky_metacarpal_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(70) pinky_01_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(71) pinky_02_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(72) pinky_03_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(73) ring_metacarpal_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(74) ring_01_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(75) ring_02_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(76) ring_03_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(77) middle_metacarpal_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(78) middle_01_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(79) middle_02_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(80) middle_03_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(81) index_metacarpal_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(82) index_01_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(83) index_02_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(84) index_03_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(85) thumb_01_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(86) thumb_02_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(87) thumb_03_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(88) weapon_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.04.11-11.24.04:469][223]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(106) thigh_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(107) calf_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(108) foot_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(109) ball_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(110) ankle_fwd_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(111) ankle_bck_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(129) thigh_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(130) calf_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(131) foot_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(132) ball_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(159) interaction
+[2024.04.11-11.24.04:470][223]LogFbx: SortedLinks :(160) center_of_mass
+[2024.04.11-11.24.04:470][223]LogFbx: Parsing AnimStack mixamo.com
+[2024.04.11-11.24.04:986][223]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemy/Animations/SwordAndShieldIdle_UE.SwordAndShieldIdle_UE
+[2024.04.11-11.24.05:014][223]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemy/Animations/SwordAndShieldIdle_UE.SwordAndShieldIdle_UE
+[2024.04.11-11.24.05:033][223]LogAutomationController: Ignoring very large delta of 5.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-11.24.05:043][225]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemy/Animations/SwordAndShieldIdle_UE.SwordAndShieldIdle_UE, at AnimationSequence/9c3356c8de862227061546c65c63c3c274723ac0
+[2024.04.11-11.24.11:070][936]LogContentBrowser: Attempting asset rename: SwordAndShieldIdle_UE -> SwordIdle
+[2024.04.11-11.24.11:087][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.24.11:139][936]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/SwordIdle
+[2024.04.11-11.24.11:139][936]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/SwordIdle5BAD09AE48908B056CD6EA9CA5E30AE1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/SwordIdle.uasset'
+[2024.04.11-11.24.11:148][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.95 sec)
+[2024.04.11-11.24.11:163][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.11-11.24.11:176][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.11-11.24.11:185][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.11-11.24.11:187][936]AssetCheck: New page: Asset Save: SwordIdle
+[2024.04.11-11.24.11:187][936]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Enemy/Animations/SwordIdle.SwordIdle
+[2024.04.11-11.24.17:942][688]LogContentBrowser: Deferred new asset file creation: SwordIdle_Montage
+[2024.04.11-11.24.17:955][688]LogContentBrowser: Creating deferred item: SwordIdle_Montage
+[2024.04.11-11.24.17:964][689]LogContentBrowser: Renaming the item being created (Deferred Item: SwordIdle_Montage).
+[2024.04.11-11.24.31:392][300]LogContentBrowser: Attempting asset rename: SwordIdle_Montage -> AnimM_SwordIdle
+[2024.04.11-11.24.31:396][300]LogContentBrowser: End creating deferred item SwordIdle_Montage
+[2024.04.11-11.24.32:129][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.24.32:180][387]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/AnimM_SwordIdle
+[2024.04.11-11.24.32:180][387]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AnimM_SwordIdle89B3085548C4FF02F5D7DEB0EC8293D2.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/AnimM_SwordIdle.uasset'
+[2024.04.11-11.24.32:189][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 3.01 sec)
+[2024.04.11-11.24.32:189][387]AssetCheck: New page: Asset Save: AnimM_SwordIdle
+[2024.04.11-11.24.32:189][387]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Enemy/Animations/AnimM_SwordIdle.AnimM_SwordIdle
+[2024.04.11-11.24.34:383][633]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Enemy/Animations/AnimM_SwordIdle.AnimM_SwordIdle
+[2024.04.11-11.24.34:383][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.24.34:384][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-11.24.34:389][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-11.24.34:518][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.24.34:518][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-11.24.34:626][633]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
+[2024.04.11-11.24.36:626][859]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.24.36:626][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.24.36:664][859]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.24.36:664][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.24.51:454][532]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-11.24.51:454][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.24.51:454][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-11.24.51:460][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.11-11.24.51:635][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-11.24.51:635][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-11.24.51:669][532]LogSlate: Window 'Open Asset' being destroyed
+[2024.04.11-11.24.51:775][532]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
+[2024.04.11-11.24.51:785][532]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.11-11.24.58:574][312]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.04.11-11.25.11:857][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.11-11.25.11:863][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.25.11:914][740]LogSavePackage: Moving output files for package: /Game/Enemy/Animations/BS_SwordStrafe
+[2024.04.11-11.25.11:915][740]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BS_SwordStrafe3A1E28C244449B5347E83CA58EF5C926.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/Animations/BS_SwordStrafe.uasset'
+[2024.04.11-11.25.11:921][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 3.07 sec)
+[2024.04.11-11.25.11:922][740]AssetCheck: New page: Asset Save: BS_SwordStrafe
+[2024.04.11-11.25.11:922][740]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Enemy/Animations/BS_SwordStrafe.BS_SwordStrafe
+[2024.04.11-11.25.13:902][963]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.25.13:902][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.25.13:937][963]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.25.13:937][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.26.04:287][529]BlueprintLog: New page: Compile ABP_Manny
+[2024.04.11-11.26.04:327][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.11-11.26.04:752][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.11-11.26.04:757][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.26.04:818][569]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.04.11-11.26.04:819][569]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ABP_Manny54EC34EC4005583144BDBB9DE126A9AA.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.04.11-11.26.04:824][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.14 sec)
+[2024.04.11-11.26.04:825][569]AssetCheck: New page: Asset Save: ABP_Manny
+[2024.04.11-11.26.04:825][569]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.04.11-11.27.46:452][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.11-11.27.46:456][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.27.46:531][678]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.04.11-11.27.46:531][678]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ABP_Manny1D1CAB5141775DCD97660AB17A77E41C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.04.11-11.27.46:536][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.22 sec)
+[2024.04.11-11.27.46:537][678]AssetCheck: New page: Asset Save: ABP_Manny
+[2024.04.11-11.27.46:537][678]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.04.11-11.28.15:492][883]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.04.11-11.29.31:308][519]BlueprintLog: New page: Compile ABP_Manny
+[2024.04.11-11.29.31:353][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.11-11.29.32:157][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.11-11.29.32:163][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-11.29.32:247][606]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.04.11-11.29.32:247][606]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ABP_MannyAE0CE543431DB5E7CB149AA275159F09.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.04.11-11.29.32:253][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 3.31 sec)
+[2024.04.11-11.29.32:254][606]AssetCheck: New page: Asset Save: ABP_Manny
+[2024.04.11-11.29.32:254][606]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.04.11-11.29.54:334][338]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.29.54:334][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.29.54:346][338]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.29.54:346][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-11.29.54:384][338]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-11.29.54:384][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
