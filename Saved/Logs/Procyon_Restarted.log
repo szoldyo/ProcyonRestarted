@@ -1224,3 +1224,104 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444366811
 [2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444366812
 [2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444366813
+[2024.04.12-08.48.25:907][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.28:856][923]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.12-08.48.28:857][923]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.28:857][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-08.48.28:863][923]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.12-08.48.29:705][923]LogSlate: Took 0.002914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.12-08.48.42:921][410]LogSlate: Took 0.002988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.12-08.48.42:992][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.43:021][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.43:051][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.43:148][427]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.43:221][431]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.43:238][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.43:260][433]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.45:487][667]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.12-08.48.45:487][667]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.45:487][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-08.48.45:548][667]LogSlate: Window 'Open Asset' being destroyed
+[2024.04.12-08.48.45:821][669]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.50:652][191]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.12-08.48.50:652][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.48.50:652][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-08.48.50:712][191]LogSlate: Window 'Open Asset' being destroyed
+[2024.04.12-08.48.50:872][193]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.49.40:351][995]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.12-08.49.40:351][995]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.12-08.50.09:875][488]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.12-08.50.14:561][969]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.12-08.50.14:567][969]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.12-08.50.14:567][969]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.12-08.50.14:568][969]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 875 us
+[2024.04.12-08.50.14:569][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.12-08.50.14:571][969]PIE: New page: PIE session: ThirdPersonMap (12 Apr 2024, 10:50:14)
+[2024.04.12-08.50.14:574][969]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.12-08.50.14:574][969]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.12-08.50.14:577][969]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.12-08.50.14:580][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002744s)
+[2024.04.12-08.50.14:580][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002768s)
+[2024.04.12-08.50.14:591][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-08.50.14:592][969]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.50.14:592][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-08.50.14:592][969]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.12-08.50.14:593][969]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.12-08.50.14:593][969]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.12-08.50.14:593][969]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.12-08.50.14:593][969]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.12-08.50.14:593][969]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.12-08.50.14:593][969]LogWorldPartition: Display: WorldPartition initialize took 736 us (total: 44 ms)
+[2024.04.12-08.50.14:593][969]LogPlayLevel: PIE: World Init took: (0.001563s)
+[2024.04.12-08.50.14:593][969]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.12-08.50.14:593][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.12-08.50.14:593][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.12-08.50.14:593][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.12-08.50.14:593][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.12-08.50.14:593][969]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.12-08.50.14:593][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.12-08.50.14:593][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.12-08.50.14:593][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.12-08.50.14:594][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.12-08.50.14:594][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.12-08.50.14:594][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.12-08.50.14:595][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.12-08.50.14:615][969]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.12-08.50.14:615][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.12-08.50.14:615][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.12-08.50.14:615][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.12-08.50.14:615][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.12-08.50.14:615][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.12-08.50.14:617][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.12-08.50.14:617][969]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.12-08.50.14:617][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.12-08.50.14:617][969]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.04.12-08.50.14:617][969]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.12-08.50.14:620][969]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.12-08.50.14:623][969]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.12-09.50.14
+[2024.04.12-08.50.14:627][969]LogWorld: Bringing up level for play took: 0.006333
+[2024.04.12-08.50.14:628][969]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.04.12-08.50.14:635][969]PIE: Server logged in
+[2024.04.12-08.50.14:636][969]PIE: Play in editor total start time 0.069 seconds.
+[2024.04.12-08.50.28:029][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-08.50.28:029][556]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.12-08.50.28:029][556]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-08.50.28:030][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-08.50.28:030][556]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.12-08.50.28:032][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.12-08.50.28:035][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-08.50.28:044][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-08.50.28:044][556]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.12-08.50.28:045][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.12-08.50.28:046][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.12-08.50.28:052][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.12-08.50.28:071][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-08.50.28:114][557]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.12-08.50.28:118][557]LogSlate: Took 0.003269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.12-08.50.28:141][557]LogSlate: Took 0.002908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.12-08.50.28:146][557]LogSlate: Took 0.002386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.12-08.50.30:251][788]LogSlate: Took 0.003253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.12-08.50.30:254][788]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.12-08.50.42:634][211]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.12-08.50.45:902][581]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
+[2024.04.12-08.50.45:939][581]LogSlate: Window 'Open Asset' being destroyed
