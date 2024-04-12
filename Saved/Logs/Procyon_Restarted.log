@@ -3492,3 +3492,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-09.56.07:583][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 8.29 sec)
 [2024.04.12-09.56.07:586][722]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_106838F234576DEB01_1366231536
 [2024.04.12-09.56.07:586][722]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1366231536
+[2024.04.12-09.57.19:626][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
