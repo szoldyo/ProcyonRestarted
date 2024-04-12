@@ -3048,3 +3048,447 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-09.45.49:368][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2024.04.12-09.45.49:376][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2024.04.12-09.45.51:041][ 25]Cmd: SELECT NONE
+[2024.04.12-09.47.55:371][462]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1...
+[2024.04.12-09.47.55:376][462]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.47.55:391][462]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/T_LinksAndModularChain_uc1uegjhx_1K_DpR.T_LinksAndModularChain_uc1uegjhx_1K_DpR (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-09.47.55:397][462]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/T_Links_And_Modular_Chain_uc1uegjhx_1K_N.T_Links_And_Modular_Chain_uc1uegjhx_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.04.12-09.47.55:401][463]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/T_Links_And_Modular_Chain_uc1uegjhx_1K_D.T_Links_And_Modular_Chain_uc1uegjhx_1K_D (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-09.48.05:671][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.48.05:671][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.48.05:672][643]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+[2024.04.12-09.48.06:024][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.48.06:024][684]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.48.06:025][684]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_2143339356
+[2024.04.12-09.48.13:798][575]Cmd: TRANSACTION UNDO
+[2024.04.12-09.48.13:798][575]LogEditorTransaction: Undo Scale Elements
+[2024.04.12-09.48.14:172][582]Cmd: TRANSACTION UNDO
+[2024.04.12-09.48.14:172][582]LogEditorTransaction: Undo Move Elements
+[2024.04.12-09.48.15:088][674]Cmd: TRANSACTION UNDO
+[2024.04.12-09.48.15:088][674]LogEditorTransaction: Undo Move Elements
+[2024.04.12-09.48.15:476][719]Cmd: TRANSACTION UNDO
+[2024.04.12-09.48.15:476][719]LogEditorTransaction: Undo Create Actors
+[2024.04.12-09.48.22:929][595]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2...
+[2024.04.12-09.48.22:931][595]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2
+[2024.04.12-09.48.23:020][596]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2
+[2024.04.12-09.48.23:020][596]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2
+[2024.04.12-09.48.23:020][596]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+[2024.04.12-09.48.23:540][658]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2
+[2024.04.12-09.48.23:541][658]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2
+[2024.04.12-09.48.23:542][658]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1087113533
+[2024.04.12-09.48.24:893][814]Cmd: DELETE
+[2024.04.12-09.48.24:893][814]Cmd: ACTOR DELETE
+[2024.04.12-09.48.24:894][814]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.12-09.48.24:903][814]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_2143339356 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PN/DKUK4XGQ12Y2DMAZQH59WW.PackageMetaData in its package
+[2024.04.12-09.48.24:904][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-09.48.24:907][814]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.04.12-09.48.24:918][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.48.28:995][294]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3...
+[2024.04.12-09.48.28:998][294]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3
+[2024.04.12-09.48.29:094][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3
+[2024.04.12-09.48.29:094][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3
+[2024.04.12-09.48.29:094][295]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.04.12-09.48.29:288][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3
+[2024.04.12-09.48.29:288][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3
+[2024.04.12-09.48.29:290][318]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1092861534
+[2024.04.12-09.48.30:359][440]Cmd: DELETE
+[2024.04.12-09.48.30:359][440]Cmd: ACTOR DELETE
+[2024.04.12-09.48.30:360][440]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.12-09.48.30:370][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-09.48.30:372][440]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.04.12-09.48.31:973][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.48.31:973][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.48.31:974][617]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.04.12-09.48.32:249][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.48.32:249][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.48.32:250][649]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1095822535
+[2024.04.12-09.48.39:478][502]Cmd: TRANSACTION UNDO
+[2024.04.12-09.48.39:478][502]LogEditorTransaction: Undo Scale Elements
+[2024.04.12-09.48.50:978][779]Cmd: TRANSACTION UNDO
+[2024.04.12-09.48.50:978][779]LogEditorTransaction: Undo Scale Elements
+[2024.04.12-09.48.56:820][420]Cmd: TRANSACTION UNDO
+[2024.04.12-09.48.56:821][420]LogEditorTransaction: Undo Scale Elements
+[2024.04.12-09.49.34:167][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.12-09.49.34:171][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7U/ZZRLWF8POK4G7SHA0MS68I_Auto1
+[2024.04.12-09.49.34:171][820]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ZZRLWF8POK4G7SHA0MS68I_Auto1B217AD8E41D5585B56078CAD1D36531E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7U/ZZRLWF8POK4G7SHA0MS68I_Auto1.uasset'
+[2024.04.12-09.49.34:172][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/AD/IWO55HIT2GJHSR7BZQDEAI_Auto1
+[2024.04.12-09.49.34:172][820]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/IWO55HIT2GJHSR7BZQDEAI_Auto1A269310F4CE745D6BE0DE6879D04F7B8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/AD/IWO55HIT2GJHSR7BZQDEAI_Auto1.uasset'
+[2024.04.12-09.49.34:173][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.016
+[2024.04.12-09.49.34:173][820]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2024.04.12-09.50.22:890][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var9...
+[2024.04.12-09.50.22:891][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var8...
+[2024.04.12-09.50.22:891][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var7...
+[2024.04.12-09.50.22:892][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var6...
+[2024.04.12-09.50.22:893][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var5...
+[2024.04.12-09.50.22:893][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var9.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var9
+[2024.04.12-09.50.22:894][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var4...
+[2024.04.12-09.50.22:894][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var7.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var7
+[2024.04.12-09.50.22:895][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var8.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var8
+[2024.04.12-09.50.22:895][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var13...
+[2024.04.12-09.50.22:896][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var6.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var6
+[2024.04.12-09.50.22:896][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var12...
+[2024.04.12-09.50.22:897][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var11...
+[2024.04.12-09.50.22:897][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var5.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var5
+[2024.04.12-09.50.22:898][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var4.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var4
+[2024.04.12-09.50.22:898][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var10...
+[2024.04.12-09.50.22:901][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var11.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var11
+[2024.04.12-09.50.22:902][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var10.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var10
+[2024.04.12-09.50.22:902][813]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var12.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var12
+[2024.04.12-09.50.22:909][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.12-09.50.22:923][813]LogStaticMesh: Built static mesh [0.03s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var13.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var13
+[2024.04.12-09.50.24:160][813]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-09.50.24:178][813]LogUObjectGlobals: Force Deleting 17 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/T_Links_And_Modular_Chain_uc1uegjhx_1K_N.T_Links_And_Modular_Chain_uc1uegjhx_1K_N
+	Asset Type: Texture2D
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/T_Links_And_Modular_Chain_uc1uegjhx_1K_D.T_Links_And_Modular_Chain_uc1uegjhx_1K_D
+	Asset Type: Texture2D
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+	Asset Type: StaticMesh
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/MI_Links_And_Modular_Chain_uc1uegjhx_1K.MI_Links_And_Modular_Chain_uc1uegjhx_1K
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/T_LinksAndModularChain_uc1uegjhx_1K_DpR.T_LinksAndModularChain_uc1uegjhx_1K_DpR
+	Asset Type: Texture2D
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2
+	Asset Type: StaticMesh
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3
+	Asset Type: StaticMesh
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var9.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var9
+	Asset Type: StaticMesh
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var8.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var8
+	Asset Type: StaticMesh
+	Asset Name: /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var7.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var7
+	Asset Type: StaticMesh
+[2024.04.12-09.50.24:402][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var5...
+[2024.04.12-09.50.24:402][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var6...
+[2024.04.12-09.50.24:402][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var7...
+[2024.04.12-09.50.24:402][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var8...
+[2024.04.12-09.50.24:402][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1...
+[2024.04.12-09.50.24:403][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var4...
+[2024.04.12-09.50.24:403][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var9...
+[2024.04.12-09.50.24:405][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var6.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var6
+[2024.04.12-09.50.24:405][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var7.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var7
+[2024.04.12-09.50.24:405][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var5.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var5
+[2024.04.12-09.50.24:405][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var10...
+[2024.04.12-09.50.24:405][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var12...
+[2024.04.12-09.50.24:405][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var11...
+[2024.04.12-09.50.24:407][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var4.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var4
+[2024.04.12-09.50.24:407][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var8.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var8
+[2024.04.12-09.50.24:407][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var13...
+[2024.04.12-09.50.24:407][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2...
+[2024.04.12-09.50.24:407][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var1
+[2024.04.12-09.50.24:407][813]LogStaticMesh: Display: Building static mesh S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3...
+[2024.04.12-09.50.24:408][813]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var9.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var9
+[2024.04.12-09.50.24:409][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var12.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var12
+[2024.04.12-09.50.24:409][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var11.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var11
+[2024.04.12-09.50.24:410][813]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var10.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var10
+[2024.04.12-09.50.24:410][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var2
+[2024.04.12-09.50.24:411][813]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var3
+[2024.04.12-09.50.24:436][813]LogStaticMesh: Built static mesh [0.03s] /Game/Megascans/3D_Assets/Links_And_Modular_Chain_uc1uegjhx/S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var13.S_Links_And_Modular_Chain_uc1uegjhx_lod5_Var13
+[2024.04.12-09.50.24:647][813]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1092861534 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/RQ/NCS456TKBJJGOLG91AZSS8.PackageMetaData in its package
+[2024.04.12-09.50.24:647][813]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1087113533 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1Q/8DDN0GTZYLMA09Q5BT1WY7.PackageMetaData in its package
+[2024.04.12-09.50.24:648][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-09.50.24:659][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-09.50.24:667][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.50.24:689][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.52.09:172][647]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Students\Downloads\cage-door\source\cage_door_low_poly.fbx)
+[2024.04.12-09.52.09:176][647]LogFbx: Loading FBX Scene from C:\Users\Students\Downloads\cage-door\source\cage_door_low_poly.fbx
+[2024.04.12-09.52.09:178][647]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.12-09.52.14:514][647]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.12-09.52.14:535][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.12-09.52.14:536][647]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2024.04.12-09.52.14:707][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.52.14:708][647]FBXImport: Import was canceled. 
+[2024.04.12-09.52.14:764][647]LogAssetTools: The import task was canceled.
+[2024.04.12-09.52.16:199][785]LogSlate: Window 'Message Log' being destroyed
+[2024.04.12-09.52.16:202][785]LogSlate: Window 'Message Log' being destroyed
+[2024.04.12-09.52.19:540][164]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.12-09.52.19:559][164]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.12-09.52.19:566][165]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.12-09.52.21:345][379]LogContentBrowser: Attempting asset rename: NewFolder -> Door
+[2024.04.12-09.52.21:345][379]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.12-09.52.25:011][778]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Students\Downloads\cage-door\source\cage_door_low_poly.fbx)
+[2024.04.12-09.52.25:013][778]LogFbx: Loading FBX Scene from C:\Users\Students\Downloads\cage-door\source\cage_door_low_poly.fbx
+[2024.04.12-09.52.25:016][778]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.12-09.52.26:111][778]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.12-09.52.26:155][778]LogFbxMaterialImport: Display: Unable to find Texture file C:\_misc\_models\dungeon_pack\Handle_AO.psd
+[2024.04.12-09.52.26:155][778]LogFbxMaterialImport: Display: Unable to find Texture file C:\_misc\_models\dungeon_pack\Handle_Normal.png
+[2024.04.12-09.52.26:158][778]LogFbx: Display: Triangulating static mesh Handle
+[2024.04.12-09.52.26:167][778]LogFbxMaterialImport: Display: Unable to find Texture file C:\_misc\_models\dungeon_pack\Textures\Door\Door_Ambient_Occlusion.png
+[2024.04.12-09.52.26:170][778]LogFbx: Display: Triangulating static mesh CageDoor
+[2024.04.12-09.52.26:179][778]LogStaticMesh: Warning: cage_door_low_poly_CageDoor has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.04.12-09.52.26:179][778]LogStaticMesh: Warning: cage_door_low_poly_CageDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.12-09.52.26:190][778]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.12-09.52.26:190][778]FBXImport: Warning: cage_door_low_poly_CageDoor has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.04.12-09.52.26:190][778]FBXImport: Warning: cage_door_low_poly_CageDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Total job queries 761, among them cache hits 529 (69.51%)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 133 distinct outputs (57.33%)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: RAM used: 5.28 MiB of 1.60 GiB budget. Usage: 0.32%
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Shaders Compiled: 232
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Jobs assigned 232, completed 232 (100%)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Average time worker was idle: 50.59 s
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.37 s
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.92 s
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Job life time (pending + execution): average 0.31 s, max 1.01
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Shader code size: average 39.355 KiB, min 29.613 KiB, max 63.133 KiB
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.62 s
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Jobs were issued in 232 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Average processing rate: 13.16 jobs/sec
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Total thread time: 31.097 s
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Total thread preprocess time: 4.344 s
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Percentage time preprocessing: 13.97%
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Effective parallelization: 1.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    9 times, average 0.18 sec, max 0.24 sec, min 0.16 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    9 times, average 0.18 sec, max 0.22 sec, min 0.16 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    9 times, average 0.17 sec, max 0.22 sec, min 0.15 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    9 times, average 0.17 sec, max 0.22 sec, min 0.14 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    9 times, average 0.17 sec, max 0.22 sec, min 0.14 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.65% of total time (compiled   39 times, average 0.14 sec, max 0.45 sec, min 0.10 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.46% of total time (compiled   39 times, average 0.13 sec, max 0.15 sec, min 0.11 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.41% of total time (compiled   23 times, average 0.14 sec, max 0.37 sec, min 0.11 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.20% of total time (compiled    9 times, average 0.18 sec, max 0.24 sec, min 0.16 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.19% of total time (compiled   23 times, average 0.07 sec, max 0.29 sec, min 0.05 sec)
+[2024.04.12-09.52.26:288][781]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.52.28:396][871]LogSlate: Window 'Message Log' being destroyed
+[2024.04.12-09.52.28:400][871]LogSlate: Window 'Message Log' being destroyed
+[2024.04.12-09.52.36:838][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.12-09.52.37:745][331]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-09.52.37:757][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.52.37:766][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.12-09.52.37:775][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.52.38:682][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.04.12-09.52.39:532][431]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-09.52.39:546][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-09.52.39:555][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.12-09.52.39:564][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.12-09.52.46:428][707]LogInterchangeEngine: [Pending] Importing
+[2024.04.12-09.52.46:428][707]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do...s/cage-door/textures/Door_Ambient_Occlusion.png]
+[2024.04.12-09.52.46:451][708]LogInterchangeEngine: [Pending] Importing
+[2024.04.12-09.52.46:458][708]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.04.12-09.52.46:786][708]LogTexture: Display: Building textures: /Game/Assets/Door/Door_Ambient_Occlusion.Door_Ambient_Occlusion (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.12-09.52.47:140][709]LogInterchangeEngine: [Success] Import Done
+[2024.04.12-09.52.47:152][710]LogInterchangeEngine: [Success] Import Done
+[2024.04.12-09.52.50:406][841]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Door/Door.Door
+[2024.04.12-09.52.50:409][841]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-09.52.50:409][841]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-09.52.50:516][841]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.52.50:516][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.52.50:516][841]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.52.50:522][841]LogViewport: Scene viewport resized to 278x314, mode Windowed.
+[2024.04.12-09.52.50:556][843]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.52.50:556][843]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.52.50:556][843]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.52.50:556][843]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.52.50:556][843]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.52.52:305][  0]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.52.52:305][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.52.52:305][  0]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.52.52:338][  2]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.52.52:338][  2]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.52.52:338][  2]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.52.52:338][  2]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.52.52:338][  2]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.52.54:689][253]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.52.54:689][253]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.52.54:689][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.52.54:689][253]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.52.55:116][296]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.52.55:116][296]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.52.55:116][296]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.52.55:116][296]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.52.55:116][296]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.52.55:116][296]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.52.56:555][452]LogMaterialEditor: Applying material Door
+[2024.04.12-09.52.56:610][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.12-09.52.57:095][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.52.57:101][452]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.12-09.52.57:101][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.52.57:101][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.52.57:101][452]MaterialEditorStats: Shader Count: 2
+[2024.04.12-09.52.57:110][453]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.52.57:110][453]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.52.57:110][453]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.52.57:111][453]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.52.57:111][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.52.57:111][453]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.52.57:509][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.52.58:065][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Door/Door" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/Door.uasset" SILENT=true
+[2024.04.12-09.52.58:066][496]LogSavePackage: Moving output files for package: /Game/Assets/Door/Door
+[2024.04.12-09.52.58:066][496]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorD0C00CC64E75A875311B0FA1123B1177.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/Door.uasset'
+[2024.04.12-09.52.58:074][496]LogSavePackage: Moving output files for package: /Game/Assets/Door/cage_door_low_poly_CageDoor
+[2024.04.12-09.52.58:074][496]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/cage_door_low_poly_CageDoorAC027476449F3F4CF7EB1B8485BC997B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/cage_door_low_poly_CageDoor.uasset'
+[2024.04.12-09.52.58:089][496]LogSavePackage: Moving output files for package: /Game/Assets/Door/Door_Ambient_Occlusion
+[2024.04.12-09.52.58:089][496]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Door_Ambient_Occlusion24CD1E2C4AA7BAC555E47D89ABD3BFAB.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/Door_Ambient_Occlusion.uasset'
+[2024.04.12-09.52.58:095][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 586 ms (total: 6.45 sec)
+[2024.04.12-09.52.58:096][496]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-09.52.58:096][496]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Door/Door.Door
+[2024.04.12-09.52.58:096][496]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Door/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.52.58:096][496]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Door/Door_Ambient_Occlusion.Door_Ambient_Occlusion
+[2024.04.12-09.52.58:096][496]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.52.58:096][496]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.52.58:096][496]MaterialEditorStats: MaxSampler: 259 instructions
+[2024.04.12-09.52.58:096][496]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-09.52.58:096][496]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.52.58:096][496]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.52.58:096][496]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.53.00:802][813]LogSlate: Window 'Door' being destroyed
+[2024.04.12-09.53.00:805][813]LogSlate: Window 'Door' being destroyed
+[2024.04.12-09.53.00:854][813]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-09.53.00:854][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.53.02:020][928]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Door/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.53.02:020][928]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Door/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.53.02:021][928]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Door/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_9
+[2024.04.12-09.53.02:658][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Door/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.53.02:658][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Door/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.53.02:660][  2]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Door/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1366231536
+[2024.04.12-09.53.38:575][127]Cmd: SELECT NONE
+[2024.04.12-09.53.46:535][ 18]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.53.46:538][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-09.53.46:538][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-09.53.46:614][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.53.46:614][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.53.46:614][ 18]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.53.46:617][ 18]LogViewport: Scene viewport resized to 502x601, mode Windowed.
+[2024.04.12-09.53.46:662][ 20]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.53.46:662][ 20]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.53.46:662][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.53.46:662][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.53.46:662][ 20]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.53.49:006][295]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.53.49:006][295]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.53.49:006][295]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.53.49:336][335]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.53.49:336][335]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.53.49:336][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.53.49:336][335]MaterialEditorStats: Shader Count: 2
+[2024.04.12-09.53.49:436][347]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.53.49:436][347]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.53.49:436][347]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.53.49:436][347]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.53.49:436][347]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.53.50:304][447]LogMaterialEditor: Applying material DoorLight
+[2024.04.12-09.53.50:351][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.12-09.53.50:721][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-09.53.51:164][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.53.51:167][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.53.51:193][499]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7U/ZZRLWF8POK4G7SHA0MS68I
+[2024.04.12-09.53.51:194][499]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ZZRLWF8POK4G7SHA0MS68I7D2DBF5241565D95370B19AACCAA0E49.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7U/ZZRLWF8POK4G7SHA0MS68I.uasset'
+[2024.04.12-09.53.51:195][499]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/AD/IWO55HIT2GJHSR7BZQDEAI
+[2024.04.12-09.53.51:195][499]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/IWO55HIT2GJHSR7BZQDEAI4812D1034EDB4E74B48631A79ED79415.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/AD/IWO55HIT2GJHSR7BZQDEAI.uasset'
+[2024.04.12-09.53.51:196][499]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MR/JX7WJW02BXS7DGAOC0B2R6
+[2024.04.12-09.53.51:197][499]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/JX7WJW02BXS7DGAOC0B2R6B85FEFD641AB1F17F11A238E00BEBD80.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MR/JX7WJW02BXS7DGAOC0B2R6.uasset'
+[2024.04.12-09.53.51:726][499]LogSavePackage: Moving output files for package: /Game/Assets/Materials/DoorLight
+[2024.04.12-09.53.51:726][499]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLight1BAE6A2F4F9FF32673A3AEACCF4C1DE2.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Materials/DoorLight.uasset'
+[2024.04.12-09.53.51:731][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 564 ms (total: 7.02 sec)
+[2024.04.12-09.53.51:733][499]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-09.53.51:733][499]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_1883687355
+[2024.04.12-09.53.51:733][499]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1095822535
+[2024.04.12-09.53.51:733][499]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1366231536
+[2024.04.12-09.53.51:733][499]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.53.51:733][499]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.53.51:733][499]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.53.51:733][499]MaterialEditorStats: MaxSampler: 240 instructions
+[2024.04.12-09.53.51:733][499]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.53.51:733][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.53.51:733][499]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.53.59:407][385]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.53.59:407][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.53.59:407][385]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.53.59:663][415]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.53.59:663][415]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.53.59:663][415]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.53.59:663][415]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.53.59:663][415]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.54.00:446][501]LogMaterialEditor: Applying material DoorLight
+[2024.04.12-09.54.00:479][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.54.00:847][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.54.01:195][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.54.01:198][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.54.01:725][541]LogSavePackage: Moving output files for package: /Game/Assets/Materials/DoorLight
+[2024.04.12-09.54.01:725][541]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLight8B4D5DEC404FA78B266D0299DD10B2FD.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Materials/DoorLight.uasset'
+[2024.04.12-09.54.01:730][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 532 ms (total: 7.55 sec)
+[2024.04.12-09.54.01:731][541]AssetCheck: New page: Asset Save: DoorLight
+[2024.04.12-09.54.01:731][541]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.54.01:731][541]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.54.01:731][541]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.54.01:731][541]MaterialEditorStats: MaxSampler: 240 instructions
+[2024.04.12-09.54.01:731][541]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.54.01:731][541]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.54.01:731][541]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.54.13:243][895]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.54.13:243][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.54.13:243][895]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.54.13:540][931]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.54.13:540][931]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.54.13:540][931]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.54.13:540][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.54.13:540][931]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.54.14:159][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.54.14:674][ 63]LogMaterialEditor: Applying material DoorLight
+[2024.04.12-09.54.14:706][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.12-09.54.15:076][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.54.22:234][891]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.54.22:234][891]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.54.22:234][891]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.54.22:456][918]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.54.22:456][918]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.54.22:456][918]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.54.22:456][918]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.54.22:456][918]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.54.23:182][  2]LogMaterialEditor: Applying material DoorLight
+[2024.04.12-09.54.23:213][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.54.23:565][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.54.23:933][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.54.23:936][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.54.24:537][ 44]LogSavePackage: Moving output files for package: /Game/Assets/Materials/DoorLight
+[2024.04.12-09.54.24:538][ 44]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLight23CC236B4643AF51A2161BA7BABDB4F6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Materials/DoorLight.uasset'
+[2024.04.12-09.54.24:541][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 604 ms (total: 8.15 sec)
+[2024.04.12-09.54.24:541][ 44]AssetCheck: New page: Asset Save: DoorLight
+[2024.04.12-09.54.24:541][ 44]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.54.24:542][ 44]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.54.24:542][ 44]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.54.24:542][ 44]MaterialEditorStats: MaxSampler: 240 instructions
+[2024.04.12-09.54.24:542][ 44]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.54.24:542][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.54.24:542][ 44]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.54.34:175][158]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.54.34:175][158]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.54.34:175][158]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.54.34:188][160]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.54.34:189][160]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.54.34:189][160]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.54.34:189][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.54.34:189][160]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.54.35:101][269]LogMaterialEditor: Applying material DoorLight
+[2024.04.12-09.54.35:134][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.54.35:307][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.54.39:315][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.04.12-09.54.39:317][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.54.39:401][725]LogSavePackage: Moving output files for package: /Game/Assets/Materials/DoorLight
+[2024.04.12-09.54.39:401][725]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLightD907FACF4B2697EA799165ABD6185A7F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Materials/DoorLight.uasset'
+[2024.04.12-09.54.39:406][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 8.24 sec)
+[2024.04.12-09.54.39:406][725]AssetCheck: New page: Asset Save: DoorLight
+[2024.04.12-09.54.39:406][725]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.54.39:407][725]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.54.39:407][725]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.54.39:407][725]MaterialEditorStats: MaxSampler: 240 instructions
+[2024.04.12-09.54.39:407][725]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.54.39:407][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.54.39:407][725]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.54.40:036][794]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-09.54.40:036][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.55.38:422][439]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Rusty_Metal_Sheet_ubviej0lw/T_RustyMetalSheet_ubviej0lw_1K_ORDp.T_RustyMetalSheet_ubviej0lw_1K_ORDp (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-09.55.38:428][439]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Rusty_Metal_Sheet_ubviej0lw/T_Rusty_Metal_Sheet_ubviej0lw_1K_N.T_Rusty_Metal_Sheet_ubviej0lw_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.04.12-09.55.38:428][439]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Rusty_Metal_Sheet_ubviej0lw/T_Rusty_Metal_Sheet_ubviej0lw_1K_D.T_Rusty_Metal_Sheet_ubviej0lw_1K_D (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-09.55.47:434][447]Cmd: SELECT NONE
+[2024.04.12-09.56.03:981][345]Cmd: SELECT NONE
+[2024.04.12-09.56.07:535][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.12-09.56.07:539][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.56.07:577][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MR/JX7WJW02BXS7DGAOC0B2R6
+[2024.04.12-09.56.07:577][722]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/JX7WJW02BXS7DGAOC0B2R6F0A4F5DF4CA9DF0C8076C9A01D563421.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MR/JX7WJW02BXS7DGAOC0B2R6.uasset'
+[2024.04.12-09.56.07:583][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 8.29 sec)
+[2024.04.12-09.56.07:586][722]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_106838F234576DEB01_1366231536
+[2024.04.12-09.56.07:586][722]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576DEB01_1366231536
