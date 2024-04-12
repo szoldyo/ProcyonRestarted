@@ -4443,3 +4443,185 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-12.23.45:113][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 10.5 sec)
 [2024.04.12-12.23.45:114][813]AssetCheck: New page: Asset Save: BP_Player
 [2024.04.12-12.23.45:114][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.12-12.24.22:825][315]BlueprintLog: New page: Compile BP_Player
+[2024.04.12-12.24.22:860][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.12-12.24.23:208][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.12-12.24.23:214][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.24.23:286][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.12-12.24.23:300][344]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.12-12.24.23:301][344]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_PlayerC285A4114AF425CEBC3F838BF93D6FD5.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.12-12.24.23:306][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 10.6 sec)
+[2024.04.12-12.24.23:307][344]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.12-12.24.23:307][344]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.12-12.24.54:694][585]BlueprintLog: New page: Compile BP_Player
+[2024.04.12-12.24.54:728][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.12-12.24.55:081][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.12-12.24.55:084][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.24.55:183][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.12-12.24.55:197][613]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.12-12.24.55:198][613]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_PlayerAFF7D97347F2E97E0EC6FFBB62C8D24A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.12-12.24.55:202][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 10.7 sec)
+[2024.04.12-12.24.55:203][613]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.12-12.24.55:204][613]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.12-12.25.23:469][539]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.12-12.25.23:524][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.12-12.26.28:592][459]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.12-12.26.28:648][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.12-12.26.28:992][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.12-12.26.28:997][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.26.29:076][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.26.29:086][490]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.12-12.26.29:087][490]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBase9526D4564402BE33E44F0C9F15504FBE.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.12-12.26.29:092][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 10.8 sec)
+[2024.04.12-12.26.29:093][490]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.04.12-12.26.29:093][490]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.12-12.26.43:021][191]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.12-12.26.43:069][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.12-12.26.43:422][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.12-12.26.43:428][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.26.43:506][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.26.43:516][219]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.12-12.26.43:516][219]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBase0DCE2A4541416CE2D1424AB6C3EE3489.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.12-12.26.43:521][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 10.9 sec)
+[2024.04.12-12.26.43:522][219]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.04.12-12.26.43:522][219]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.12-12.27.20:944][475]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.12-12.27.20:992][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.12-12.27.21:409][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.12-12.27.21:415][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.27.21:505][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.27.21:515][512]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.12-12.27.21:516][512]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBaseB5932B7D4581C2B683ACEB879ECD1BF1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.12-12.27.21:521][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 11.0 sec)
+[2024.04.12-12.27.21:522][512]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.04.12-12.27.21:522][512]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.12-12.27.39:593][617]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.12-12.27.39:640][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.12-12.27.40:055][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.27.40:138][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.27.40:149][654]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.12-12.27.40:149][654]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBase06BAF316438E809E534893B93F674345.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.12-12.27.40:154][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 11.1 sec)
+[2024.04.12-12.27.40:155][654]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.04.12-12.27.40:155][654]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.12-12.27.50:096][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.12-12.27.50:101][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.27.50:180][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.27.50:190][836]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.12-12.27.50:191][836]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBase69EFC196483ED2E7AAF07A8BE1519047.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.12-12.27.50:196][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 11.2 sec)
+[2024.04.12-12.27.50:196][836]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.04.12-12.27.50:196][836]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.12-12.27.51:446][979]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.12-12.27.51:495][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.12-12.30.09:007][ 25]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.12-12.30.09:008][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-12.30.09:008][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-12.30.15:857][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.12-12.30.15:860][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.30.15:910][811]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.12-12.30.15:910][811]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstance6E2AC5CF4775C3CCFFAA11827E3157A8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.12-12.30.15:914][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 11.2 sec)
+[2024.04.12-12.30.15:914][811]AssetCheck: New page: Asset Save: BP_ProcyonGameInstance
+[2024.04.12-12.30.15:914][811]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.12-12.30.16:454][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.12-12.30.16:969][933]BlueprintLog: New page: Compile BP_ProcyonGameInstance
+[2024.04.12-12.30.16:981][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.12-12.30.17:361][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-12.30.18:231][ 73]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-12.30.18:231][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-12.30.28:156][888]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-12.30.28:156][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-12.30.55:634][984]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/AI/BPI_EnemyAI.BPI_EnemyAI
+[2024.04.12-12.30.55:634][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-12.30.55:634][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-12.31.30:057][975]BlueprintLog: New page: Compile BPI_EnemyAI
+[2024.04.12-12.31.30:072][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.12-12.31.30:677][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.12-12.31.30:683][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.31.30:740][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/BPI_EnemyAI" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BPI_EnemyAI.uasset" SILENT=true
+[2024.04.12-12.31.30:742][ 39]LogSavePackage: Moving output files for package: /Game/Enemy/AI/BPI_EnemyAI
+[2024.04.12-12.31.30:742][ 39]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BPI_EnemyAIF570D87C4A74BA296FD8B98ABC12034F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BPI_EnemyAI.uasset'
+[2024.04.12-12.31.30:790][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.31.30:801][ 39]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.12-12.31.30:802][ 39]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBaseD8E1C4A7443ADFF9268C8490C9DD8825.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.12-12.31.30:806][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 11.3 sec)
+[2024.04.12-12.31.30:808][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-12.31.30:808][ 39]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/BPI_EnemyAI.BPI_EnemyAI
+[2024.04.12-12.31.30:808][ 39]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.12-12.31.31:847][163]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-12.31.31:847][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-12.31.44:896][241]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.12-12.31.44:945][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.12-12.31.45:255][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.12-12.31.45:267][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.31.45:367][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.31.45:378][265]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.12-12.31.45:378][265]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBaseC53AF2244EDE3CE700F9F5B0316758E3.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.12-12.31.45:383][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 11.5 sec)
+[2024.04.12-12.31.45:384][265]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.04.12-12.31.45:384][265]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.12-12.31.54:060][261]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.12-12.31.54:109][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.12-12.31.55:484][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.12-12.31.55:490][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.31.55:593][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.31.55:603][412]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.12-12.31.55:604][412]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBaseA3988CEB4D1191826F65489DFA83D7D7.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.12-12.31.55:609][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 11.6 sec)
+[2024.04.12-12.31.55:610][412]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.04.12-12.31.55:610][412]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.12-12.31.57:949][678]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.12-12.31.57:996][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.12-12.33.40:225][330]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.12-12.33.40:225][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-12.33.40:225][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-12.34.41:736][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.12-12.34.41:741][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.34.41:782][586]LogSavePackage: Moving output files for package: /Game/Enemy/AI/AIC_EnemyBase
+[2024.04.12-12.34.41:783][586]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AIC_EnemyBaseAC186F144A1CDF322A6B70A8DCAE2941.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/AIC_EnemyBase.uasset'
+[2024.04.12-12.34.41:787][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 11.6 sec)
+[2024.04.12-12.34.41:788][586]AssetCheck: New page: Asset Save: AIC_EnemyBase
+[2024.04.12-12.34.41:788][586]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/AI/AIC_EnemyBase.AIC_EnemyBase
+[2024.04.12-12.34.43:459][782]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-12.34.43:459][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-12.40.13:052][661]Cmd: TRANSACTION UNDO
+[2024.04.12-12.40.13:052][661]LogEditorTransaction: Undo Move Node
+[2024.04.12-12.40.30:841][724]Cmd: TRANSACTION UNDO
+[2024.04.12-12.40.30:841][724]LogEditorTransaction: Undo Move Node
+[2024.04.12-12.40.31:891][793]Cmd: TRANSACTION UNDO
+[2024.04.12-12.40.31:891][793]LogEditorTransaction: Undo Move Node
+[2024.04.12-12.40.32:278][834]Cmd: TRANSACTION UNDO
+[2024.04.12-12.40.32:278][834]LogEditorTransaction: Undo Move Node
+[2024.04.12-12.40.32:730][883]Cmd: TRANSACTION UNDO
+[2024.04.12-12.40.32:730][883]LogEditorTransaction: Undo Move Node
+[2024.04.12-12.40.33:271][943]Cmd: TRANSACTION UNDO
+[2024.04.12-12.40.33:271][943]LogEditorTransaction: Undo Move Node
+[2024.04.12-12.40.33:755][995]Cmd: TRANSACTION UNDO
+[2024.04.12-12.40.33:755][995]LogEditorTransaction: Undo Move Node
+[2024.04.12-12.40.34:239][ 47]Cmd: TRANSACTION UNDO
+[2024.04.12-12.40.34:239][ 47]LogEditorTransaction: Undo Edit Node Name
+[2024.04.12-12.40.35:006][133]Cmd: TRANSACTION UNDO
+[2024.04.12-12.40.35:006][133]LogEditorTransaction: Undo Edit Node Name
+[2024.04.12-12.40.36:140][211]Cmd: TRANSACTION REDO
+[2024.04.12-12.40.36:140][211]LogEditorTransaction: Redo Edit Node Name
+[2024.04.12-12.40.36:382][234]Cmd: TRANSACTION REDO
+[2024.04.12-12.40.36:382][234]LogEditorTransaction: Redo Edit Node Name
+[2024.04.12-12.40.36:558][250]Cmd: TRANSACTION REDO
+[2024.04.12-12.40.36:558][250]LogEditorTransaction: Redo Move Node
+[2024.04.12-12.42.33:509][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.12-12.42.33:515][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.42.33:589][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/BT_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.42.33:594][ 10]LogSavePackage: Moving output files for package: /Game/Enemy/AI/BT_EnemyBase
+[2024.04.12-12.42.33:594][ 10]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BT_EnemyBaseA6269CBA44F54CCA1B8C339144B15F9D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset'
+[2024.04.12-12.42.33:599][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 11.7 sec)
+[2024.04.12-12.42.33:600][ 10]AssetCheck: New page: Asset Save: BT_EnemyBase
+[2024.04.12-12.42.33:600][ 10]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
+[2024.04.12-12.43.34:790][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-12.43.34:795][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.43.34:841][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AI/BT_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset" SILENT=true
+[2024.04.12-12.43.34:846][933]LogSavePackage: Moving output files for package: /Game/Enemy/AI/BT_EnemyBase
+[2024.04.12-12.43.34:846][933]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BT_EnemyBase5DCE843A4D233E6390CBE895F06C2D37.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/AI/BT_EnemyBase.uasset'
+[2024.04.12-12.43.34:850][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 11.8 sec)
+[2024.04.12-12.43.34:852][933]AssetCheck: New page: Asset Save: BT_EnemyBase
+[2024.04.12-12.43.34:852][933]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
