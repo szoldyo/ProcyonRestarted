@@ -6981,3 +6981,14 @@ GroupActor_UAID_106838F234577BEB01_1526270003
 [2024.04.12-14.15.00:083][994]LogContentValidation: Display: Validating /Game/Assets/Tree/TreeWithCollision.TreeWithCollision_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TreeWithCollision_C_UAID_106838F234577BEB01_2019520011
 [2024.04.12-14.15.00:084][994]LogContentValidation: Display: Validating /Game/Assets/Tree/TreeWithCollision.TreeWithCollision_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TreeWithCollision_C_UAID_106838F234577BEB01_2037289012
 [2024.04.12-14.15.00:084][994]LogContentValidation: Display: Validating /Game/Assets/Tree/TreeWithCollision.TreeWithCollision_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TreeWithCollision_C_UAID_106838F234577BEB01_2043131013
+[2024.04.12-14.17.40:112][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.12-14.17.41:950][107]LogSlate: Window 'Save Content' being destroyed
+[2024.04.12-14.17.41:954][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-14.17.41:995][107]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2024.04.12-14.17.41:996][107]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/TS5OQ5CRUWFZYL1ZQ7I416C99B3883423A766E18073EADE64D34AB.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2024.04.12-14.17.41:997][107]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R
+[2024.04.12-14.17.41:997][107]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/87SHEJN5UBEAN2K5OV1G6RF9171CAF488D2671B65EE18E65D77909.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset'
+[2024.04.12-14.17.42:002][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 17.3 sec)
+[2024.04.12-14.17.42:003][107]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-14.17.42:003][107]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+[2024.04.12-14.17.42:003][107]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_0
