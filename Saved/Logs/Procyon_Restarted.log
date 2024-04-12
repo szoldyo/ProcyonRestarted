@@ -6472,3 +6472,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-14.06.41:938][818]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234577BEB01_1540993007
 [2024.04.12-14.06.41:938][818]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GroupActor_UAID_106838F234577BEB01_1540994008
 [2024.04.12-14.06.41:938][818]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234577BEB01_1540995009
+[2024.04.12-14.07.03:278][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/S_Nordic_Forest_Cliff_Large_xibjbg3_lod5.S_Nordic_Forest_Cliff_Large_xibjbg3_lod5
+[2024.04.12-14.07.03:278][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/S_Nordic_Forest_Cliff_Large_xibjbg3_lod5.S_Nordic_Forest_Cliff_Large_xibjbg3_lod5
+[2024.04.12-14.07.03:279][ 66]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/S_Nordic_Forest_Cliff_Large_xibjbg3_lod5.S_Nordic_Forest_Cliff_Large_xibjbg3_lod5 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
+[2024.04.12-14.07.04:178][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/S_Nordic_Forest_Cliff_Large_xibjbg3_lod5.S_Nordic_Forest_Cliff_Large_xibjbg3_lod5
+[2024.04.12-14.07.04:178][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/S_Nordic_Forest_Cliff_Large_xibjbg3_lod5.S_Nordic_Forest_Cliff_Large_xibjbg3_lod5
+[2024.04.12-14.07.04:179][173]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/S_Nordic_Forest_Cliff_Large_xibjbg3_lod5.S_Nordic_Forest_Cliff_Large_xibjbg3_lod5 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234577BEB01_1575366010
+[2024.04.12-14.07.27:431][880]Cmd: SELECT NONE
+[2024.04.12-14.07.37:814][ 74]Cmd: SELECT NONE
+[2024.04.12-14.07.40:365][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.12-14.07.40:370][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-14.07.40:415][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JR/LYTOTXRJXSLY3LT8TYLD2R
+[2024.04.12-14.07.40:415][376]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/LYTOTXRJXSLY3LT8TYLD2RF77B1634405CF7E1B93B9D9D8D90C3C0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JR/LYTOTXRJXSLY3LT8TYLD2R.uasset'
+[2024.04.12-14.07.40:420][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 16.8 sec)
+[2024.04.12-14.07.40:421][376]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_106838F234577BEB01_1575366010
+[2024.04.12-14.07.40:421][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234577BEB01_1575366010
