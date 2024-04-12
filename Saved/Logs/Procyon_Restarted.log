@@ -4433,3 +4433,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-12.23.03:089][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2024.04.12-12.23.03:095][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2024.04.12-12.23.03:137][498]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.04.12-12.23.44:603][785]BlueprintLog: New page: Compile BP_Player
+[2024.04.12-12.23.44:641][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.12-12.23.44:989][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.12-12.23.44:992][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-12.23.45:094][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.12-12.23.45:108][813]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.12-12.23.45:108][813]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player8C5CFC8E4ED1B264BA09C6B890AD37C0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.12-12.23.45:113][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 10.5 sec)
+[2024.04.12-12.23.45:114][813]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.12-12.23.45:114][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
