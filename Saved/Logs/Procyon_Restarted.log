@@ -1668,3 +1668,840 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-09.20.06:582][760]LogViewport: Scene viewport resized to 502x601, mode Windowed.
 [2024.04.12-09.20.06:951][803]LogSlate: Window 'DoorLight' being destroyed
 [2024.04.12-09.20.23:965][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.12-09.20.59:861][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.20.59:863][366]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.015
+[2024.04.12-09.21.39:806][791]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.21.39:806][791]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.21.39:806][791]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.21.39:826][793]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.21.39:826][793]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.21.39:826][793]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.21.39:826][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.21.39:826][793]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.21.41:123][947]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.21.41:123][947]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.21.41:123][947]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.21.41:165][949]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.21.41:165][949]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.21.41:165][949]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.21.41:165][949]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.21.41:165][949]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.22.06:579][283]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.22.06:579][283]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.06:579][283]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.22.06:601][285]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.22.06:601][285]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.22.06:601][285]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.22.06:601][285]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.06:601][285]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.22.12:156][940]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.22.12:157][940]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.12:157][940]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.22.12:169][942]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.22.12:169][942]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.22.12:169][942]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.22.12:169][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.12:169][942]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.22.12:915][ 29]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.22.12:915][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.12:915][ 29]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.22.12:928][ 31]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.22.12:928][ 31]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.22.12:928][ 31]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.22.12:928][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.12:928][ 31]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.22.13:519][101]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.22.13:519][101]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.13:519][101]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.22.13:531][103]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.22.13:531][103]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.22.13:531][103]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.22.13:531][103]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.13:531][103]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.22.24:829][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.22.24:829][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.24:829][ 18]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.22.24:870][ 21]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.22.24:870][ 21]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.22.24:870][ 21]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.22.24:870][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.24:870][ 21]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.22.28:971][236]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.22.28:971][236]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.28:971][236]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.22.28:984][238]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.22.28:984][238]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.22.28:984][238]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.22.28:984][238]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.28:984][238]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.22.35:185][975]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.22.35:185][975]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.35:185][975]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.22.35:221][977]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.22.35:221][977]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.22.35:221][977]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.22.35:221][977]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.35:221][977]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.22.38:416][345]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.22.38:416][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.38:416][345]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.22.38:646][367]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.22.38:646][367]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.22.38:646][367]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.22.38:646][367]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.38:646][367]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.22.53:098][869]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.22.53:099][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.53:099][869]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.22.53:114][870]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.22.53:114][870]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.22.53:114][870]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.22.53:114][870]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.22.53:114][870]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.00:153][705]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.00:153][705]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.00:153][705]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.00:191][707]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.23.00:191][707]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.00:191][707]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.00:191][707]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.00:191][707]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.02:527][983]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.02:527][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.02:527][983]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.02:578][985]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.23.02:578][985]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.02:578][985]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.02:578][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.02:578][985]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.04:463][210]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.04:463][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.04:463][210]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.04:487][212]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.23.04:487][212]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.04:487][212]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.04:487][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.04:487][212]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.06:815][490]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.06:815][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.06:815][490]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.06:831][491]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Total job queries 119, among them cache hits 97 (81.51%)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Tracking 22 distinct input hashes that result in 14 distinct outputs (63.64%)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: RAM used: 440.77 KiB of 1.60 GiB budget. Usage: 0.03%
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Shaders Compiled: 22
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Average time worker was idle: 36.37 s
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.92 s
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Job life time (pending + execution): average 0.38 s, max 1.01
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Shader code size: average 33.314 KiB, min 29.613 KiB, max 35.844 KiB
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.20 s
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Average processing rate: 6.87 jobs/sec
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Total thread time: 3.294 s
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Total thread preprocess time: 1.084 s
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Percentage time preprocessing: 32.90%
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Effective parallelization: 1.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.24 sec, max 0.37 sec, min 0.12 sec)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.18 sec, max 0.29 sec, min 0.06 sec)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.15 sec, max 0.45 sec, min 0.10 sec)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 0.13 sec, max 0.15 sec, min 0.11 sec)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 40.12% of total time (compiled    9 times, average 0.15 sec, max 0.45 sec, min 0.10 sec)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 34.40% of total time (compiled    9 times, average 0.13 sec, max 0.15 sec, min 0.11 sec)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.84% of total time (compiled    2 times, average 0.24 sec, max 0.37 sec, min 0.12 sec)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.64% of total time (compiled    2 times, average 0.18 sec, max 0.29 sec, min 0.06 sec)
+[2024.04.12-09.23.06:832][491]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.23.06:839][492]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.23.06:839][492]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.06:839][492]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.06:839][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.06:839][492]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.09:391][796]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.09:391][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.09:391][796]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.09:420][798]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.23.09:420][798]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.09:420][798]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.09:420][798]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.09:420][798]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.09:974][863]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.09:974][863]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.09:974][863]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.10:009][865]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.23.10:009][865]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.10:009][865]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.10:009][865]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.10:009][865]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.14:664][ 30]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.Wisp'"'
+[2024.04.12-09.23.14:668][ 30]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.14:668][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.14:668][ 30]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.14:691][ 32]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.23.14:691][ 32]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.14:691][ 32]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.14:691][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.14:691][ 32]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.22:027][467]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.22:027][467]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.22:027][467]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.22:054][469]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.04.12-09.23.22:054][469]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.22:054][469]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.22:054][469]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.22:054][469]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.24:005][693]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.24:005][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.24:005][693]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.24:256][723]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.23.24:256][723]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.24:256][723]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.24:256][723]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.24:256][723]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.29:036][293]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.29:036][293]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.29:036][293]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.29:325][328]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.23.29:325][328]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.29:325][328]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.29:325][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.29:325][328]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.34:227][913]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.34:227][913]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.34:227][913]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.34:514][948]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.23.34:515][948]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.34:515][948]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.34:515][948]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.34:515][948]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.35:102][ 13]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.35:102][ 13]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.35:102][ 13]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.35:373][ 46]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.23.35:373][ 46]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.35:373][ 46]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.35:373][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.35:373][ 46]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.42:923][944]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.42:923][944]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.42:923][944]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.43:217][979]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.23.43:217][979]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.43:217][979]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.43:217][979]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.43:217][979]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.45:861][289]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.45:861][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.45:861][289]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.23.46:183][328]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.23.46:183][328]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.46:183][328]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.46:183][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.46:183][328]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.53:464][194]LogMaterialEditor: Applying material DoorLight
+[2024.04.12-09.23.53:499][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.12-09.23.53:873][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.23.53:879][194]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.23.53:879][194]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.53:879][194]MaterialEditorStats: Shader Count: 2
+[2024.04.12-09.23.53:886][195]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.23.53:886][195]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.53:886][195]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.23.53:886][195]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.53:886][195]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.23.54:433][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.23.54:436][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.23.54:989][259]LogSavePackage: Moving output files for package: /Game/Assets/Materials/DoorLight
+[2024.04.12-09.23.54:989][259]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLight07A69D6147A95969F07D468C336E3A8B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Materials/DoorLight.uasset'
+[2024.04.12-09.23.54:994][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 557 ms (total: 955 ms)
+[2024.04.12-09.23.54:995][259]AssetCheck: New page: Asset Save: DoorLight
+[2024.04.12-09.23.54:995][259]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.23.54:995][259]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.23.54:995][259]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.23.54:995][259]MaterialEditorStats: MaxSampler: 240 instructions
+[2024.04.12-09.23.54:995][259]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.23.54:995][259]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.23.54:995][259]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.23.55:778][350]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-09.23.55:778][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.24.03:144][190]Cmd: SELECT NONE
+[2024.04.12-09.24.08:461][795]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.24.08:463][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-09.24.08:463][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-09.24.08:540][795]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.24.08:540][795]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.08:540][795]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.24.08:543][795]LogViewport: Scene viewport resized to 502x601, mode Windowed.
+[2024.04.12-09.24.08:584][797]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.24.08:584][797]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.24.08:584][797]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.24.08:584][797]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.08:584][797]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.24.11:748][169]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.24.11:748][169]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.11:748][169]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.24.11:995][199]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.24.11:995][199]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.24.11:995][199]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.24.11:995][199]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.11:995][199]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.24.13:301][348]LogMaterialEditor: Applying material DoorLight
+[2024.04.12-09.24.13:348][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.24.13:707][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.12-09.24.14:081][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.24.14:083][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.24.14:129][391]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RN/MN07I3WGO7AJFJX2Q6CKXF
+[2024.04.12-09.24.14:129][391]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MN07I3WGO7AJFJX2Q6CKXF06098750457ABAB1535FA8A28F739EEE.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RN/MN07I3WGO7AJFJX2Q6CKXF.uasset'
+[2024.04.12-09.24.14:605][391]LogSavePackage: Moving output files for package: /Game/Assets/Materials/DoorLight
+[2024.04.12-09.24.14:605][391]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLightF09D3EEC47AF20356465888469D6D7FF.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Materials/DoorLight.uasset'
+[2024.04.12-09.24.14:610][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 526 ms (total: 1.48 sec)
+[2024.04.12-09.24.14:611][391]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-09.24.14:611][391]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1459040173
+[2024.04.12-09.24.14:611][391]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.24.14:612][391]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.24.14:612][391]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.24.14:612][391]MaterialEditorStats: MaxSampler: 240 instructions
+[2024.04.12-09.24.14:612][391]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.24.14:612][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.14:612][391]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.24.17:673][701]Cmd: SELECT NONE
+[2024.04.12-09.24.36:319][880]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.24.36:319][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.36:319][880]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.24.36:691][925]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.24.36:691][925]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.24.36:691][925]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.24.36:691][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.36:691][925]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.24.37:877][ 65]LogMaterialEditor: Applying material DoorLight
+[2024.04.12-09.24.37:910][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.12-09.24.38:260][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.24.38:690][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.24.38:693][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.24.39:202][115]LogSavePackage: Moving output files for package: /Game/Assets/Materials/DoorLight
+[2024.04.12-09.24.39:203][115]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLight619B69604648C68753C29CB94657CFC8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Materials/DoorLight.uasset'
+[2024.04.12-09.24.39:207][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 514 ms (total: 1.99 sec)
+[2024.04.12-09.24.39:207][115]AssetCheck: New page: Asset Save: DoorLight
+[2024.04.12-09.24.39:207][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.24.39:208][115]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.24.39:208][115]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.24.39:208][115]MaterialEditorStats: MaxSampler: 240 instructions
+[2024.04.12-09.24.39:208][115]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.24.39:208][115]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.39:208][115]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.24.45:956][890]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.24.45:956][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.45:956][890]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.24.46:261][927]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.24.46:261][927]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.24.46:261][927]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.24.46:261][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.46:261][927]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.24.47:504][ 67]LogMaterialEditor: Applying material DoorLight
+[2024.04.12-09.24.47:538][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.12-09.24.47:917][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.24.48:331][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.24.48:334][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.24.48:875][115]LogSavePackage: Moving output files for package: /Game/Assets/Materials/DoorLight
+[2024.04.12-09.24.48:875][115]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLightD62E9E8D40A54FA64DBAFCA4929BC10E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Materials/DoorLight.uasset'
+[2024.04.12-09.24.48:880][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 546 ms (total: 2.54 sec)
+[2024.04.12-09.24.48:881][115]AssetCheck: New page: Asset Save: DoorLight
+[2024.04.12-09.24.48:881][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.24.48:881][115]MaterialEditorStats: Base pass shader: 192 instructions
+[2024.04.12-09.24.48:881][115]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.24.48:881][115]MaterialEditorStats: MaxSampler: 240 instructions
+[2024.04.12-09.24.48:881][115]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.24.48:881][115]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.24.48:881][115]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.24.59:500][351]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-09.24.59:500][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.26.57:823][490]LogTexture: Display: Building textures: /Game/Megascans/Decals/Metal_Grate_vgidbcfh/T_MetalGrate_vgidbcfh_1K_DpRA.T_MetalGrate_vgidbcfh_1K_DpRA (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-09.26.57:827][490]LogTexture: Display: Building textures: /Game/Megascans/Decals/Metal_Grate_vgidbcfh/T_Metal_Grate_vgidbcfh_1K_N.T_Metal_Grate_vgidbcfh_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.04.12-09.26.57:834][490]LogTexture: Display: Building textures: /Game/Megascans/Decals/Metal_Grate_vgidbcfh/T_Metal_Grate_vgidbcfh_1K_D.T_Metal_Grate_vgidbcfh_1K_D (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-09.27.04:390][223]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Megascans/Decals/Metal_Grate_vgidbcfh/MI_Metal_Grate_vgidbcfh_1K.MI_Metal_Grate_vgidbcfh_1K
+[2024.04.12-09.27.04:390][223]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Megascans/Decals/Metal_Grate_vgidbcfh/MI_Metal_Grate_vgidbcfh_1K.MI_Metal_Grate_vgidbcfh_1K
+[2024.04.12-09.27.04:391][223]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Megascans/Decals/Metal_Grate_vgidbcfh/MI_Metal_Grate_vgidbcfh_1K.MI_Metal_Grate_vgidbcfh_1K as actor: DecalActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DecalActor_0
+[2024.04.12-09.27.04:391][223]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Megascans/Decals/Metal_Grate_vgidbcfh/MI_Metal_Grate_vgidbcfh_1K.MI_Metal_Grate_vgidbcfh_1K as actor: DecalActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DecalActor_0
+[2024.04.12-09.27.04:501][233]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Megascans/Decals/Metal_Grate_vgidbcfh/MI_Metal_Grate_vgidbcfh_1K.MI_Metal_Grate_vgidbcfh_1K
+[2024.04.12-09.27.04:501][233]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Megascans/Decals/Metal_Grate_vgidbcfh/MI_Metal_Grate_vgidbcfh_1K.MI_Metal_Grate_vgidbcfh_1K
+[2024.04.12-09.27.04:503][233]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Megascans/Decals/Metal_Grate_vgidbcfh/MI_Metal_Grate_vgidbcfh_1K.MI_Metal_Grate_vgidbcfh_1K as actor: DecalActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DecalActor_UAID_106838F234576BEB01_1955558174
+[2024.04.12-09.27.04:503][233]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Megascans/Decals/Metal_Grate_vgidbcfh/MI_Metal_Grate_vgidbcfh_1K.MI_Metal_Grate_vgidbcfh_1K as actor: DecalActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DecalActor_UAID_106838F234576BEB01_1955558174
+[2024.04.12-09.27.49:126][235]Cmd: TRANSACTION UNDO
+[2024.04.12-09.27.49:126][235]LogEditorTransaction: Undo Move Elements
+[2024.04.12-09.27.51:986][521]Cmd: SELECT NONE
+[2024.04.12-09.27.56:099][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.04.12-09.27.56:099][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.04.12-09.27.56:100][997]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_2007156176
+[2024.04.12-09.27.56:100][997]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_2007156176
+[2024.04.12-09.28.06:007][ 56]Cmd: DELETE
+[2024.04.12-09.28.06:007][ 56]Cmd: ACTOR DELETE
+[2024.04.12-09.28.06:008][ 56]LogEditorActor: Deleted Actor: DecalActor
+[2024.04.12-09.28.06:017][ 56]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1998471175 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MW/2QXYH0TU25UOVIAIY1CCFT.PackageMetaData in its package
+[2024.04.12-09.28.06:019][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.12-09.28.06:022][ 56]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.04.12-09.28.06:033][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.12-09.28.37:149][575]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.12-09.28.37:154][575]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.12-09.28.37:154][575]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.12-09.28.37:155][575]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 2 ms)
+[2024.04.12-09.28.37:160][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.12-09.28.37:160][575]PIE: New page: PIE session: ThirdPersonMap (12 Apr 2024, 11:28:37)
+[2024.04.12-09.28.37:194][575]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.12-09.28.37:197][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003028s)
+[2024.04.12-09.28.37:197][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003053s)
+[2024.04.12-09.28.37:206][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.28.37:209][575]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-09.28.37:209][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-09.28.37:209][575]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.12-09.28.37:209][575]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.12-09.28.37:209][575]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.12-09.28.37:209][575]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.12-09.28.37:209][575]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.12-09.28.37:210][575]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.12-09.28.37:210][575]LogWorldPartition: Display: WorldPartition initialize took 788 us (total: 45 ms)
+[2024.04.12-09.28.37:210][575]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2024.04.12-09.28.37:210][575]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.12-09.28.37:210][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.12-09.28.37:210][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.12-09.28.37:210][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.12-09.28.37:210][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.12-09.28.37:210][575]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.12-09.28.37:210][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.12-09.28.37:210][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.12-09.28.37:210][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.12-09.28.37:211][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.12-09.28.37:211][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.12-09.28.37:211][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.12-09.28.37:212][575]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.12-09.28.37:232][575]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.12-09.28.37:232][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.12-09.28.37:232][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.12-09.28.37:232][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.12-09.28.37:232][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.12-09.28.37:232][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.12-09.28.37:234][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.12-09.28.37:234][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.12-09.28.37:234][575]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.12-09.28.37:234][575]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.04.12-09.28.37:234][575]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.12-09.28.37:237][575]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.12-09.28.37:241][575]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.12-10.28.37
+[2024.04.12-09.28.37:242][575]LogWorld: Bringing up level for play took: 0.005056
+[2024.04.12-09.28.37:244][575]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.04.12-09.28.37:246][575]PIE: Server logged in
+[2024.04.12-09.28.37:247][575]PIE: Play in editor total start time 0.093 seconds.
+[2024.04.12-09.28.43:697][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-09.28.43:697][338]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.12-09.28.43:697][338]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-09.28.43:697][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.28.43:698][338]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.12-09.28.43:700][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.12-09.28.43:702][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.28.43:713][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-09.28.43:713][338]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.12-09.28.43:713][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.12-09.28.43:715][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.12-09.28.43:720][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.12-09.28.43:794][340]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.04.12-09.28.45:119][499]Cmd: DELETE
+[2024.04.12-09.28.45:119][499]Cmd: ACTOR DELETE
+[2024.04.12-09.28.45:120][499]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.12-09.28.45:130][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.12-09.28.45:132][499]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.04.12-09.28.49:472][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.28.50:675][ 16]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-09.28.50:751][ 16]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1356385803 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PU/B4H6CN5PB5EI7ZR48M6AUI.PackageMetaData in its package
+[2024.04.12-09.28.50:751][ 16]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1356385802 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JH/COGEW46A8AQ4FYX0OMR06P.PackageMetaData in its package
+[2024.04.12-09.28.50:751][ 16]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234571EEB01_1964521599 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2M/QD9BMZNFBI8SA0TYJH31OC.PackageMetaData in its package
+[2024.04.12-09.28.50:751][ 16]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234572AEB01_1581756713 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HH/O88EKQX2F1S3AXDCG7YD9I.PackageMetaData in its package
+[2024.04.12-09.28.50:751][ 16]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F23457E0EA01_1266051687 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TP/Z8RE7D75BSR3DMS4KSJJB4.PackageMetaData in its package
+[2024.04.12-09.28.50:751][ 16]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_2007156176 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U6/MAHBLQKC9NWE3BZZVSRPFF.PackageMetaData in its package
+[2024.04.12-09.28.50:751][ 16]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DecalActor_UAID_106838F234576BEB01_1955558174 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HV/JHNXQA3VU8EO62CMXP7DS6.PackageMetaData in its package
+[2024.04.12-09.28.50:751][ 16]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576AEB01_1982982993 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/78/UN0YQAE9KQ44IUM7UJHD9C.PackageMetaData in its package
+[2024.04.12-09.28.50:753][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-09.28.50:763][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.28.50:772][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.28.50:791][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.30.04:160][733]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.12-09.30.04:187][733]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.12-09.30.04:191][734]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.12-09.30.06:914][ 61]LogContentBrowser: Attempting asset rename: NewFolder -> CageDoor
+[2024.04.12-09.30.06:914][ 61]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.12-09.30.20:452][464]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Students\Downloads\cage-door\source\cage_door_low_poly.fbx)
+[2024.04.12-09.30.20:474][464]LogFbx: Loading FBX Scene from C:\Users\Students\Downloads\cage-door\source\cage_door_low_poly.fbx
+[2024.04.12-09.30.20:481][464]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.12-09.30.22:383][464]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.12-09.30.22:461][464]LogFbxMaterialImport: Display: Unable to find Texture file C:\_misc\_models\dungeon_pack\Handle_AO.psd
+[2024.04.12-09.30.22:461][464]LogFbxMaterialImport: Display: Unable to find Texture file C:\_misc\_models\dungeon_pack\Handle_Normal.png
+[2024.04.12-09.30.22:464][464]LogFbx: Display: Triangulating static mesh Handle
+[2024.04.12-09.30.22:469][464]LogStaticMesh: Display: Building static mesh cage_door_low_poly_Handle...
+[2024.04.12-09.30.22:471][464]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/CageDoor/cage_door_low_poly_Handle.cage_door_low_poly_Handle
+[2024.04.12-09.30.22:479][464]LogFbxMaterialImport: Display: Unable to find Texture file C:\_misc\_models\dungeon_pack\Textures\Door\Door_Ambient_Occlusion.png
+[2024.04.12-09.30.22:482][464]LogFbx: Display: Triangulating static mesh CageDoor
+[2024.04.12-09.30.22:489][464]LogStaticMesh: Display: Building static mesh cage_door_low_poly_CageDoor...
+[2024.04.12-09.30.22:495][464]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/CageDoor/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.30.22:496][464]LogStaticMesh: Warning: cage_door_low_poly_CageDoor has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.04.12-09.30.22:496][464]LogStaticMesh: Warning: cage_door_low_poly_CageDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.12-09.30.22:508][464]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.12-09.30.22:508][464]FBXImport: Warning: cage_door_low_poly_CageDoor has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.04.12-09.30.22:508][464]FBXImport: Warning: cage_door_low_poly_CageDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Total job queries 305, among them cache hits 187 (61.31%)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Tracking 116 distinct input hashes that result in 69 distinct outputs (59.48%)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: RAM used: 2.55 MiB of 1.60 GiB budget. Usage: 0.16%
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Shaders Compiled: 116
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Jobs assigned 118, completed 116 (98.31%)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Average time worker was idle: 24.59 s
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.27 s
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.92 s
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Job life time (pending + execution): average 0.29 s, max 1.01
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Shader code size: average 38.103 KiB, min 29.613 KiB, max 60.766 KiB
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.12 s
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Jobs were issued in 118 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Average processing rate: 12.72 jobs/sec
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Total thread time: 15.101 s
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Total thread preprocess time: 2.462 s
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Percentage time preprocessing: 16.30%
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 0.17 sec, max 0.17 sec, min 0.16 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.16 sec, max 0.17 sec, min 0.16 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 0.16 sec, max 0.17 sec, min 0.15 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.44% of total time (compiled   22 times, average 0.14 sec, max 0.45 sec, min 0.10 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.44% of total time (compiled   23 times, average 0.13 sec, max 0.15 sec, min 0.11 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.77% of total time (compiled   11 times, average 0.15 sec, max 0.37 sec, min 0.11 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.15% of total time (compiled   12 times, average 0.08 sec, max 0.29 sec, min 0.05 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.38% of total time (compiled    4 times, average 0.17 sec, max 0.17 sec, min 0.16 sec)
+[2024.04.12-09.30.22:882][480]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.30.25:204][755]LogSlate: Window 'Message Log' being destroyed
+[2024.04.12-09.30.25:207][755]LogSlate: Window 'Message Log' being destroyed
+[2024.04.12-09.30.29:029][899]LogInterchangeEngine: [Pending] Importing
+[2024.04.12-09.30.29:029][899]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do...s/cage-door/textures/Door_Ambient_Occlusion.png]
+[2024.04.12-09.30.29:030][899]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.12-09.30.29:030][899]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do...s/cage-door/textures/Handle_Base_Color.png]
+[2024.04.12-09.30.29:030][899]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.12-09.30.29:030][899]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do...s/cage-door/textures/Handle_Metallic.png]
+[2024.04.12-09.30.29:030][899]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.12-09.30.29:030][899]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do...s/cage-door/textures/Handle_Normal_OpenGL.png]
+[2024.04.12-09.30.29:044][900]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.04.12-09.30.29:044][900]LogTexture: Display: Building textures: /Game/Assets/CageDoor/Handle_Metallic.Handle_Metallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.04.12-09.30.29:047][900]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.12-09.30.29:377][900]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.12-09.30.29:379][900]LogTexture: Display: Building textures: /Game/Assets/CageDoor/Door_Ambient_Occlusion.Door_Ambient_Occlusion (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.12-09.30.29:395][900]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.12-09.30.29:396][900]LogTexture: Display: Building textures: /Game/Assets/CageDoor/Handle_Normal_OpenGL.Handle_Normal_OpenGL (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.12-09.30.29:397][900]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.12-09.30.29:397][900]LogTexture: Display: Building textures: /Game/Assets/CageDoor/Handle_Base_Color.Handle_Base_Color (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.12-09.30.29:401][901]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.12-09.30.29:420][901]LogInterchangeEngine: [Success] Import Done
+[2024.04.12-09.30.29:429][901]LogInterchangeEngine: [Success] Import Done
+[2024.04.12-09.30.39:029][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.12-09.30.40:680][726]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-09.30.42:348][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/CageDoor/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.30.42:348][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/CageDoor/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.30.42:348][894]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/CageDoor/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2024.04.12-09.30.43:091][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/CageDoor/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.30.43:091][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/CageDoor/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.30.43:092][982]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/CageDoor/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_1100406353
+[2024.04.12-09.30.58:272][696]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/CageDoor/Door.Door
+[2024.04.12-09.30.58:274][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-09.30.58:274][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-09.30.58:398][696]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.30.58:398][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.30.58:398][696]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.30.58:405][696]LogViewport: Scene viewport resized to 413x498, mode Windowed.
+[2024.04.12-09.30.58:445][698]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.30.58:445][698]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.30.58:445][698]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.30.58:445][698]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.30.58:445][698]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.31.00:935][967]LogViewport: Scene viewport resized to 413x497, mode Windowed.
+[2024.04.12-09.31.00:969][967]LogViewport: Scene viewport resized to 413x477, mode Windowed.
+[2024.04.12-09.31.01:002][967]LogViewport: Scene viewport resized to 413x456, mode Windowed.
+[2024.04.12-09.31.01:036][967]LogViewport: Scene viewport resized to 413x435, mode Windowed.
+[2024.04.12-09.31.01:070][967]LogViewport: Scene viewport resized to 413x418, mode Windowed.
+[2024.04.12-09.31.01:102][967]LogViewport: Scene viewport resized to 413x407, mode Windowed.
+[2024.04.12-09.31.01:136][967]LogViewport: Scene viewport resized to 413x383, mode Windowed.
+[2024.04.12-09.31.01:169][967]LogViewport: Scene viewport resized to 413x345, mode Windowed.
+[2024.04.12-09.31.01:202][967]LogViewport: Scene viewport resized to 413x325, mode Windowed.
+[2024.04.12-09.31.01:236][967]LogViewport: Scene viewport resized to 413x320, mode Windowed.
+[2024.04.12-09.31.01:270][967]LogViewport: Scene viewport resized to 413x314, mode Windowed.
+[2024.04.12-09.31.01:302][967]LogViewport: Scene viewport resized to 413x311, mode Windowed.
+[2024.04.12-09.31.01:386][967]LogViewport: Scene viewport resized to 413x310, mode Windowed.
+[2024.04.12-09.31.04:515][240]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.31.04:515][240]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.31.04:515][240]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.31.04:545][242]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.31.04:545][242]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.31.04:545][242]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.31.04:545][242]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.31.04:545][242]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.31.06:481][436]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.31.06:481][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.31.06:481][436]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.31.06:514][438]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.31.06:514][438]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.31.06:514][438]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.31.06:514][438]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.31.06:514][438]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.31.08:247][622]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.31.08:247][622]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.31.08:247][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.08:247][622]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.31.08:514][648]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.12-09.31.08:514][648]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.31.08:514][648]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.08:514][648]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.31.08:617][657]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.12-09.31.08:617][657]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.31.08:617][657]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.31.08:617][657]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.31.08:617][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.08:617][657]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.31.09:463][728]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.31.09:463][728]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.31.09:463][728]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.09:463][728]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.31.09:498][730]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.12-09.31.09:498][730]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.31.09:498][730]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.31.09:498][730]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.31.09:498][730]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.09:498][730]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.31.10:851][865]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.31.10:851][865]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.31.10:851][865]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.10:851][865]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.31.11:033][879]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.31.11:033][879]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.31.11:033][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.11:033][879]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.31.11:132][890]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.04.12-09.31.11:132][890]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.31.11:132][890]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-09.31.11:132][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.31.11:132][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.11:132][890]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.31.17:233][557]LogViewport: Scene viewport resized to 276x532, mode Windowed.
+[2024.04.12-09.31.27:651][622]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.31.27:651][622]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.31.27:651][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.27:651][622]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.31.27:697][624]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.04.12-09.31.27:697][624]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.31.27:697][624]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-09.31.27:697][624]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.31.27:697][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.27:697][624]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.31.29:766][829]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.31.29:766][829]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.31.29:766][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.29:766][829]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.31.29:992][851]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.31.29:992][851]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.31.29:992][851]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.29:992][851]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.31.30:088][861]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.12-09.31.30:088][861]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.31.30:088][861]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.12-09.31.30:088][861]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.31.30:088][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.30:088][861]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.31.33:705][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.31.33:745][272]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/Handle_Normal_OpenGL
+[2024.04.12-09.31.33:745][272]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Handle_Normal_OpenGLCF8494EB466B7E1D33BE7E8A71562CE3.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Handle_Normal_OpenGL.uasset'
+[2024.04.12-09.31.33:750][272]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/Handle_Metallic
+[2024.04.12-09.31.33:750][272]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Handle_Metallic240613004309099D9B49FEA659663085.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Handle_Metallic.uasset'
+[2024.04.12-09.31.33:761][272]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/Door_Ambient_Occlusion
+[2024.04.12-09.31.33:761][272]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Door_Ambient_OcclusionAE330DD54E7E7004903994A9015921E6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Door_Ambient_Occlusion.uasset'
+[2024.04.12-09.31.33:770][272]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/Handle_Base_Color
+[2024.04.12-09.31.33:771][272]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Handle_Base_ColorE6BF2DE24B533D1DD4E3D4B5FE717D01.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Handle_Base_Color.uasset'
+[2024.04.12-09.31.34:278][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/CageDoor/Door" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Door.uasset" SILENT=true
+[2024.04.12-09.31.34:279][272]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/Door
+[2024.04.12-09.31.34:279][272]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Door9B2E011347D7D95CC087F1B755377CAF.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Door.uasset'
+[2024.04.12-09.31.34:286][272]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/cage_door_low_poly_CageDoor
+[2024.04.12-09.31.34:286][272]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/cage_door_low_poly_CageDoorC5E5D83143DB3EB51FC9D38862123E24.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/cage_door_low_poly_CageDoor.uasset'
+[2024.04.12-09.31.34:298][272]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/Handle
+[2024.04.12-09.31.34:298][272]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Handle190A19624560C8784050A7BC33B08DBE.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Handle.uasset'
+[2024.04.12-09.31.34:305][272]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/cage_door_low_poly_Handle
+[2024.04.12-09.31.34:305][272]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/cage_door_low_poly_Handle14C552B9427AA369E4B465953376CDEB.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/cage_door_low_poly_Handle.uasset'
+[2024.04.12-09.31.34:310][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 606 ms (total: 3.14 sec)
+[2024.04.12-09.31.34:312][272]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-09.31.34:312][272]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/CageDoor/Handle_Normal_OpenGL.Handle_Normal_OpenGL
+[2024.04.12-09.31.34:312][272]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/CageDoor/Handle_Metallic.Handle_Metallic
+[2024.04.12-09.31.34:312][272]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/CageDoor/Door_Ambient_Occlusion.Door_Ambient_Occlusion
+[2024.04.12-09.31.34:312][272]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/CageDoor/Handle_Base_Color.Handle_Base_Color
+[2024.04.12-09.31.34:312][272]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/CageDoor/Door.Door
+[2024.04.12-09.31.34:312][272]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/CageDoor/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+[2024.04.12-09.31.34:312][272]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/CageDoor/Handle.Handle
+[2024.04.12-09.31.34:312][272]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/CageDoor/cage_door_low_poly_Handle.cage_door_low_poly_Handle
+[2024.04.12-09.31.35:588][405]LogMaterialEditor: Applying material Door
+[2024.04.12-09.31.35:644][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.12-09.31.36:032][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.31.36:459][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.31.36:991][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/CageDoor/Door" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Door.uasset" SILENT=true
+[2024.04.12-09.31.36:993][446]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/Door
+[2024.04.12-09.31.36:993][446]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorA5DEFA694B8F23AD4B8B43B19FE1AC88.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Door.uasset'
+[2024.04.12-09.31.36:997][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 538 ms (total: 3.68 sec)
+[2024.04.12-09.31.36:998][446]AssetCheck: New page: Asset Save: Door
+[2024.04.12-09.31.36:998][446]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/CageDoor/Door.Door
+[2024.04.12-09.31.36:999][446]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.12-09.31.36:999][446]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.31.36:999][446]MaterialEditorStats: MaxSampler: 255 instructions
+[2024.04.12-09.31.36:999][446]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-09.31.36:999][446]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.31.36:999][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.31.36:999][446]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.31.37:520][500]LogSlate: Window 'Door' being destroyed
+[2024.04.12-09.31.37:568][500]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-09.31.37:568][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.32.16:910][ 75]Cmd: TRANSACTION UNDO
+[2024.04.12-09.32.16:910][ 75]LogEditorTransaction: Undo Set Location
+[2024.04.12-09.32.40:913][862]Cmd: SELECT NONE
+[2024.04.12-09.32.47:681][608]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/CageDoor/Door.Door
+[2024.04.12-09.32.47:683][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-09.32.47:683][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-09.32.47:807][608]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.32.47:807][608]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.32.47:807][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.32.47:807][608]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.32.47:813][608]LogViewport: Scene viewport resized to 277x311, mode Windowed.
+[2024.04.12-09.32.48:159][639]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.32.48:159][639]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.32.48:159][639]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.32.48:159][639]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.32.48:259][650]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.12-09.32.48:259][650]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.32.48:259][650]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.12-09.32.48:259][650]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.32.48:259][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.32.48:259][650]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.32.49:811][803]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.32.49:811][803]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.32.49:811][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.32.49:811][803]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.32.49:847][805]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.12-09.32.49:847][805]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.32.49:847][805]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.12-09.32.49:847][805]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.32.49:847][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.32.49:847][805]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.32.52:274][ 52]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.32.52:274][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.32.52:274][ 52]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.32.52:274][ 52]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.32.52:437][ 67]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.32.52:437][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.32.52:437][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.32.52:437][ 67]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.32.52:536][ 78]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.12-09.32.52:536][ 78]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.32.52:536][ 78]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.12-09.32.52:536][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.32.52:536][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.32.52:536][ 78]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.32.53:858][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.12-09.32.53:862][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.32.53:905][221]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BT/4W891XXK5KNYPMLZP5HQ9U
+[2024.04.12-09.32.53:905][221]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/4W891XXK5KNYPMLZP5HQ9U8171064C4183283B1F36AC9967ABC582.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BT/4W891XXK5KNYPMLZP5HQ9U.uasset'
+[2024.04.12-09.32.53:911][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 3.73 sec)
+[2024.04.12-09.32.53:911][221]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_106838F234576CEB01_1100406353
+[2024.04.12-09.32.53:911][221]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_1100406353
+[2024.04.12-09.32.54:410][278]LogMaterialEditor: Applying material Door
+[2024.04.12-09.32.54:449][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.32.54:958][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.32.55:303][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.32.55:820][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/CageDoor/Door" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Door.uasset" SILENT=true
+[2024.04.12-09.32.55:822][314]LogSavePackage: Moving output files for package: /Game/Assets/CageDoor/Door
+[2024.04.12-09.32.55:822][314]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Door9B0EB2354F7AF3904E54F0A1C65798A6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/CageDoor/Door.uasset'
+[2024.04.12-09.32.55:827][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 523 ms (total: 4.26 sec)
+[2024.04.12-09.32.55:827][314]AssetCheck: New page: Asset Save: Door
+[2024.04.12-09.32.55:827][314]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/CageDoor/Door.Door
+[2024.04.12-09.32.55:827][314]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.12-09.32.55:827][314]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.32.55:827][314]MaterialEditorStats: MaxSampler: 272 instructions
+[2024.04.12-09.32.55:827][314]MaterialEditorStats: Texture samplers: 7/16
+[2024.04.12-09.32.55:827][314]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.32.55:827][314]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.32.55:827][314]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.32.57:312][486]LogSlate: Window 'Door' being destroyed
+[2024.04.12-09.32.57:315][486]LogSlate: Window 'Door' being destroyed
+[2024.04.12-09.32.57:326][486]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-09.32.57:326][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.33.11:355][125]Cmd: DELETE
+[2024.04.12-09.33.11:355][125]Cmd: ACTOR DELETE
+[2024.04.12-09.33.11:356][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.12-09.33.11:366][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.33.11:370][125]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.04.12-09.33.13:671][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.12-09.33.15:645][391]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-09.33.15:662][391]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Assets/CageDoor/Handle_Normal_OpenGL.Handle_Normal_OpenGL
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/CageDoor/Handle_Metallic.Handle_Metallic
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/CageDoor/Door_Ambient_Occlusion.Door_Ambient_Occlusion
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/CageDoor/Handle_Base_Color.Handle_Base_Color
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/CageDoor/Door.Door
+	Asset Type: Material
+	Asset Name: /Game/Assets/CageDoor/cage_door_low_poly_CageDoor.cage_door_low_poly_CageDoor
+	Asset Type: StaticMesh
+	Asset Name: /Game/Assets/CageDoor/Handle.Handle
+	Asset Type: Material
+	Asset Name: /Game/Assets/CageDoor/cage_door_low_poly_Handle.cage_door_low_poly_Handle
+	Asset Type: StaticMesh
+[2024.04.12-09.33.15:849][391]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.12-09.33.15:849][391]LogMaterial: Warning: PreviewMaterial_1: Requesting an invalid TextureIndex! (2 / 0)
+[2024.04.12-09.33.15:850][391]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.12-09.33.15:851][391]LogMaterial: Warning: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Assets\CageDoor\Door.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.12-09.33.15:852][391]LogMaterial: Warning: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Assets\CageDoor\Door.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.12-09.33.15:852][391]LogMaterial: Warning: [AssetLog] /Engine/Transient.Door: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.12-09.33.15:853][391]LogMaterial: Warning: [AssetLog] /Engine/Transient.Door: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.12-09.33.15:924][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.12-09.33.15:932][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.12-09.33.15:940][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.33.17:344][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.33.17:347][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.33.17:383][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.33.17:392][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.33.17:400][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.12-09.33.17:406][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 4.31 sec)
