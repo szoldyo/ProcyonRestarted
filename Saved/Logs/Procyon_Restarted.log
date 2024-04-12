@@ -1572,3 +1572,99 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-09.16.14:506][497]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Students/Stairs_1C5C0D41.Stairs_1C5C0D41
 [2024.04.12-09.16.14:506][497]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Students/Box_EF963892.Box_EF963892
 [2024.04.12-09.16.14:506][497]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Students/Box_11000D3D.Box_11000D3D
+[2024.04.12-09.17.01:570][566]LogViewport: Scene viewport resized to 1561x782, mode Windowed.
+[2024.04.12-09.18.10:672][433]LogSlate: Window 'Accept changes instead?' being destroyed
+[2024.04.12-09.18.10:675][433]Message dialog closed, result: Cancel, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2024.04.12-09.18.10:680][433]LogViewport: Scene viewport resized to 2035x782, mode Windowed.
+[2024.04.12-09.18.12:501][638]Cmd: TRANSACTION UNDO
+[2024.04.12-09.18.12:502][638]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.12-09.18.13:158][662]Cmd: TRANSACTION UNDO
+[2024.04.12-09.18.13:158][662]LogEditorTransaction: Undo Select None
+[2024.04.12-09.18.17:317][131]LogViewport: Scene viewport resized to 1561x782, mode Windowed.
+[2024.04.12-09.18.31:586][771]LogStaticMesh: Display: Building static mesh Box_EF963892...
+[2024.04.12-09.18.31:587][771]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/Students/Box_EF963892.Box_EF963892
+[2024.04.12-09.18.37:251][440]LogViewport: Scene viewport resized to 2035x782, mode Windowed.
+[2024.04.12-09.18.38:615][598]Cmd: SELECT NONE
+[2024.04.12-09.18.47:983][690]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.12-09.18.47:983][690]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.12-09.18.47:984][690]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1459040173
+[2024.04.12-09.18.47:992][690]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1459040173
+[2024.04.12-09.19.40:436][824]Cmd: SELECT NONE
+[2024.04.12-09.19.41:011][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.12-09.19.41:015][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.19.41:062][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XH/PHDMMTKNKW7C5F94EXDUAP
+[2024.04.12-09.19.41:063][891]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PHDMMTKNKW7C5F94EXDUAPC6C0BAEE498806C6DEBF94B2AF8165AF.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XH/PHDMMTKNKW7C5F94EXDUAP.uasset'
+[2024.04.12-09.19.41:064][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RN/MN07I3WGO7AJFJX2Q6CKXF
+[2024.04.12-09.19.41:064][891]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MN07I3WGO7AJFJX2Q6CKXF2E9F7CA743AD6AD8EE3BC593328404F5.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RN/MN07I3WGO7AJFJX2Q6CKXF.uasset'
+[2024.04.12-09.19.41:092][891]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/Students/Box_EF963892
+[2024.04.12-09.19.41:092][891]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Box_EF96389267F7923B407E6E7D4B9B4FB0CE9EF124.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/ThirdPerson/Maps/_GENERATED/Students/Box_EF963892.uasset'
+[2024.04.12-09.19.41:101][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 316 ms)
+[2024.04.12-09.19.41:103][891]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-09.19.41:103][891]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576AEB01_1822657992
+[2024.04.12-09.19.41:103][891]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1459040173
+[2024.04.12-09.19.41:103][891]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Maps/_GENERATED/Students/Box_EF963892.Box_EF963892
+[2024.04.12-09.19.47:071][572]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.12-09.19.49:878][877]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.12-09.19.49:896][877]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.12-09.19.49:901][878]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.12-09.19.52:265][162]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2024.04.12-09.19.52:266][162]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.12-09.19.55:858][557]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.04.12-09.19.55:863][557]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.04.12-09.19.55:878][559]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.04.12-09.20.01:558][241]LogContentBrowser: Attempting asset rename: NewMaterial -> DoorLight
+[2024.04.12-09.20.01:559][241]LogContentBrowser: End creating deferred item NewMaterial
+[2024.04.12-09.20.02:062][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.20.02:138][299]LogSavePackage: Moving output files for package: /Game/Assets/Materials/DoorLight
+[2024.04.12-09.20.02:138][299]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLight169AA9C748613D0FB8EF128DEEAD5A83.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Materials/DoorLight.uasset'
+[2024.04.12-09.20.02:143][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 397 ms)
+[2024.04.12-09.20.02:144][299]AssetCheck: New page: Asset Save: DoorLight
+[2024.04.12-09.20.02:144][299]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.20.03:769][484]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/DoorLight.DoorLight
+[2024.04.12-09.20.03:786][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-09.20.03:786][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-09.20.03:953][484]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.20.03:953][484]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.20.03:953][484]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.20.03:962][484]LogViewport: Scene viewport resized to 413x497, mode Windowed.
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: RAM used: 18.11 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 0.72 s
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 0.81
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Shader code size: average 29.613 KiB, min 29.613 KiB, max 29.613 KiB
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.81 s
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Average processing rate: 1.23 jobs/sec
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Total thread time: 0.291 s
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Total thread preprocess time: 0.239 s
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Percentage time preprocessing: 82.00%
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Effective parallelization: 0.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.04.12-09.20.04:804][573]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.20.04:915][586]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.20.04:915][586]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.20.04:915][586]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.20.04:915][586]MaterialEditorStats: Shader Count: 3
+[2024.04.12-09.20.05:018][598]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-09.20.05:018][598]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.20.05:018][598]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.20.05:018][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.20.05:018][598]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.20.06:393][747]LogViewport: Scene viewport resized to 412x511, mode Windowed.
+[2024.04.12-09.20.06:477][749]LogViewport: Scene viewport resized to 188x202, mode Windowed.
+[2024.04.12-09.20.06:496][750]LogViewport: Scene viewport resized to 149x147, mode Windowed.
+[2024.04.12-09.20.06:582][760]LogViewport: Scene viewport resized to 502x601, mode Windowed.
+[2024.04.12-09.20.06:951][803]LogSlate: Window 'DoorLight' being destroyed
+[2024.04.12-09.20.23:965][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
