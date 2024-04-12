@@ -4715,3 +4715,1103 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-12.54.13:941][925]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.12-12.54.13:941][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1292675172
 [2024.04.12-12.54.13:941][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1206011171
+[2024.04.12-13.03.21:520][735]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:44.034 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 60332 files in 46097 folders with total size 531 MiB.
+[2024.04.12-13.06.34:198][647]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.12-13.06.35:803][790]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.04.12-13.06.57:867][115]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.04.12-13.06.57:871][115]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.04.12-13.06.57:878][115]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.04.12-13.06.57:889][116]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.04.12-13.07.02:340][627]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PlayerUI
+[2024.04.12-13.07.02:345][627]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Player/PlayerUI.
+[2024.04.12-13.07.02:346][627]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.04.12-13.07.03:567][771]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Player/PlayerUI.PlayerUI
+[2024.04.12-13.07.03:567][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-13.07.03:567][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-13.07.03:573][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-13.07.03:573][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-13.07.03:577][771]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.12-13.07.03:766][771]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.12-13.07.03:769][771]LogSlate: Took 0.003092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.12-13.07.06:167][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.12-13.07.06:173][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.07.06:213][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerUI" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/PlayerUI.uasset" SILENT=true
+[2024.04.12-13.07.06:215][ 49]LogSavePackage: Moving output files for package: /Game/Player/PlayerUI
+[2024.04.12-13.07.06:215][ 49]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PlayerUID943A15F44CA3264834CF5B9DB9A4CCC.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/PlayerUI.uasset'
+[2024.04.12-13.07.06:217][ 49]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Player/PlayerUI.
+[2024.04.12-13.07.06:222][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 11.9 sec)
+[2024.04.12-13.07.06:222][ 49]AssetCheck: New page: Asset Save: PlayerUI
+[2024.04.12-13.07.06:222][ 49]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Player/PlayerUI.PlayerUI
+[2024.04.12-13.07.07:726][227]LogSlate: Window 'PlayerUI' being destroyed
+[2024.04.12-13.07.07:729][227]LogSlate: Window 'PlayerUI' being destroyed
+[2024.04.12-13.07.07:737][227]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-13.07.07:737][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-13.07.07:742][227]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-13.07.07:742][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-13.07.12:492][776]Cmd: SELECT NONE
+[2024.04.12-13.18.10:590][385]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Granite_Rock_visscjf/T_Granite_Rock_visscjf_1K_N.T_Granite_Rock_visscjf_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.04.12-13.18.10:590][385]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Granite_Rock_visscjf/T_GraniteRock_visscjf_1K_ORDp.T_GraniteRock_visscjf_1K_ORDp (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.18.10:591][385]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Granite_Rock_visscjf/T_Granite_Rock_visscjf_1K_D.T_Granite_Rock_visscjf_1K_D (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.18.24:802][ 79]LogSlate: Window 'Bridge' being destroyed
+[2024.04.12-13.18.24:806][ 79]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.04.12-13.18.24:806][ 79]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNwZW5jZXJzYXllcnMwMkBnbWFpbC5jb20iLCJzY29wZSI6WyJkZWZhdWx0OnVzZXIiLCJtZWdhc2NhbnM6dXNlciJdLCJlcGljQWNjb3VudElkIjoiNzUxMTJkM2U4YWY4NDBjZDhmOWEyMzM0N2UxODVhNjgiLCJpc1VucmVhbEVVTEFBY2NlcHRlZCI6dHJ1ZSwiaXNFcGljQWNjb3VudCI6dHJ1ZSwicXVpeGVsQWNjb3VudElkIjoiMjU1YjI4YWItNGI0MS00MzYyLWIzZWMtN2M3MmQzZGEwNjExIiwicmVhbG0iOiJtZWdhc2NhbnMiLCJldWxhc0FjY2VwdGVkIjpbInVlIiwiZXBpY19jb250ZW50Il0sImlhdCI6MTcxMjkxMjA1MiwiZXhwIjoxNzEyOTQwODUyLCJpc3MiOiJxdWl4ZWwtc3NvLXByb2QiLCJqdGkiOiJiZGRiZTI5Zi0xMDVjLTRlY2YtOGYzMC05YjBlMTQ0Y2JkNWEifQ.WS5bLFopSDunpH3dY86WWuvY9sJvBs_HaktDYrVIeREyJQFnwWvCAtrCWPNW_e2EIzmQHvbKugB9-4bxRaEk158zDjca1U5OzwOWf2bBGFk4OSQBAQnpXQxikH8M7TKLX9WPK1IDRe1FHsc5iLsQihHq8inc9Yp-CbzJ9qtsN-Wv1v9pQRhzEm-GGtNZXZCf4LhEVQlBdLJYZ1qxKpr-DW5X9Zes5K0v_5EuyKm-x4lgJcqe0EQCtVciih4pGtBRnvcpwh6-W1CSdU3-TDWSBPv1uI2lBFd-BWRpRPVwBuykWg1xw1FyJrNvGeJ2GUF39xyaCZMos2nIhf5swLeLmw&refreshToken=YmVmOTZiMjMtZWJkYS00ZTgyLWE4NTItNDkyNjgxMTI1MmRl#/megascans/?search=stone.
+[2024.04.12-13.19.00:185][108]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Gravel_Ground_xbnedjk/T_GravelGround_xbnedjk_1K_ORDp.T_GravelGround_xbnedjk_1K_ORDp (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.19.00:185][108]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Gravel_Ground_xbnedjk/T_Gravel_Ground_xbnedjk_1K_N.T_Gravel_Ground_xbnedjk_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.04.12-13.19.00:194][108]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Gravel_Ground_xbnedjk/T_Gravel_Ground_xbnedjk_1K_D.T_Gravel_Ground_xbnedjk_1K_D (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.19.14:162][757]LogSlate: Window 'Bridge' being destroyed
+[2024.04.12-13.19.14:165][757]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.04.12-13.19.14:165][757]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNwZW5jZXJzYXllcnMwMkBnbWFpbC5jb20iLCJzY29wZSI6WyJkZWZhdWx0OnVzZXIiLCJtZWdhc2NhbnM6dXNlciJdLCJlcGljQWNjb3VudElkIjoiNzUxMTJkM2U4YWY4NDBjZDhmOWEyMzM0N2UxODVhNjgiLCJpc1VucmVhbEVVTEFBY2NlcHRlZCI6dHJ1ZSwiaXNFcGljQWNjb3VudCI6dHJ1ZSwicXVpeGVsQWNjb3VudElkIjoiMjU1YjI4YWItNGI0MS00MzYyLWIzZWMtN2M3MmQzZGEwNjExIiwicmVhbG0iOiJtZWdhc2NhbnMiLCJldWxhc0FjY2VwdGVkIjpbInVlIiwiZXBpY19jb250ZW50Il0sImlhdCI6MTcxMjkxMjA1MiwiZXhwIjoxNzEyOTQwODUyLCJpc3MiOiJxdWl4ZWwtc3NvLXByb2QiLCJqdGkiOiJiZGRiZTI5Zi0xMDVjLTRlY2YtOGYzMC05YjBlMTQ0Y2JkNWEifQ.WS5bLFopSDunpH3dY86WWuvY9sJvBs_HaktDYrVIeREyJQFnwWvCAtrCWPNW_e2EIzmQHvbKugB9-4bxRaEk158zDjca1U5OzwOWf2bBGFk4OSQBAQnpXQxikH8M7TKLX9WPK1IDRe1FHsc5iLsQihHq8inc9Yp-CbzJ9qtsN-Wv1v9pQRhzEm-GGtNZXZCf4LhEVQlBdLJYZ1qxKpr-DW5X9Zes5K0v_5EuyKm-x4lgJcqe0EQCtVciih4pGtBRnvcpwh6-W1CSdU3-TDWSBPv1uI2lBFd-BWRpRPVwBuykWg1xw1FyJrNvGeJ2GUF39xyaCZMos2nIhf5swLeLmw&refreshToken=YmVmOTZiMjMtZWJkYS00ZTgyLWE4NTItNDkyNjgxMTI1MmRl#/megascans/?search=dirt.
+[2024.04.12-13.20.04:790][510]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Forest_Foor_xdfddec/T_Forest_Foor_xdfddec_1K_N.T_Forest_Foor_xdfddec_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.04.12-13.20.04:801][510]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Forest_Foor_xdfddec/T_Forest_Foor_xdfddec_1K_D.T_Forest_Foor_xdfddec_1K_D (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.20.04:801][510]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Forest_Foor_xdfddec/T_ForestFoor_xdfddec_1K_ORDp.T_ForestFoor_xdfddec_1K_ORDp (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.20.22:616][634]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/T_ForestGroundDriedLeaves_xeukeip_1K_ORDp.T_ForestGroundDriedLeaves_xeukeip_1K_ORDp (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.20.22:625][634]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/T_Forest_Ground_Dried_Leaves_xeukeip_1K_N.T_Forest_Ground_Dried_Leaves_xeukeip_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.04.12-13.20.22:625][634]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/T_Forest_Ground_Dried_Leaves_xeukeip_1K_D.T_Forest_Ground_Dried_Leaves_xeukeip_1K_D (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.21.43:794][239]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.04.12-13.21.43:794][239]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.04.12-13.21.51:836][130]Cmd: SELECT NONE
+[2024.04.12-13.22.36:637][280]LogContentBrowser: Deferred new asset file creation: MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst
+[2024.04.12-13.22.36:652][280]LogContentBrowser: Creating deferred item: MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst
+[2024.04.12-13.22.36:659][281]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst).
+[2024.04.12-13.22.38:371][487]LogContentBrowser: Attempting asset rename: MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst -> MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst
+[2024.04.12-13.22.38:372][487]LogContentBrowser: End creating deferred item MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst
+[2024.04.12-13.22.39:918][653]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst.MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst
+[2024.04.12-13.22.39:919][653]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-13.22.39:919][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-13.22.40:106][653]LogViewport: Scene viewport resized to 1002x641, mode Windowed.
+[2024.04.12-13.22.43:191][  3]LogSlate: Window 'MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst' being destroyed
+[2024.04.12-13.22.43:194][  3]LogSlate: Window 'MI_Forest_Ground_Dried_Leaves_xeukeip_1K_Inst' being destroyed
+[2024.04.12-13.22.43:206][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.12-13.22.43:299][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.12-13.22.43:340][  3]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-13.22.43:340][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-13.22.44:600][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.12-13.22.46:063][138]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-13.22.46:079][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-13.22.46:089][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.12-13.22.46:099][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-13.22.52:105][823]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.04.12-13.22.52:111][823]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.04.12-13.22.52:118][824]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.04.12-13.22.55:581][240]LogContentBrowser: Attempting asset rename: NewMaterial -> Floor
+[2024.04.12-13.22.55:581][240]LogContentBrowser: End creating deferred item NewMaterial
+[2024.04.12-13.22.56:083][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.22.56:167][296]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Forest_Foor_xdfddec/Floor
+[2024.04.12-13.22.56:167][296]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Floor1033F23947698634F1C372BEA1D0CF3E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/Surfaces/Forest_Foor_xdfddec/Floor.uasset'
+[2024.04.12-13.22.56:172][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 12.0 sec)
+[2024.04.12-13.22.56:172][296]AssetCheck: New page: Asset Save: Floor
+[2024.04.12-13.22.56:172][296]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Megascans/Surfaces/Forest_Foor_xdfddec/Floor.Floor
+[2024.04.12-13.22.57:433][440]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Megascans/Surfaces/Forest_Foor_xdfddec/Floor.Floor
+[2024.04.12-13.22.57:436][440]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-13.22.57:436][440]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-13.22.57:545][440]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.22.57:545][440]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.22.57:545][440]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.22.57:551][440]LogViewport: Scene viewport resized to 280x319, mode Windowed.
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: ================================================
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Total job queries 957, among them cache hits 655 (68.44%)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Tracking 302 distinct input hashes that result in 176 distinct outputs (58.28%)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: RAM used: 6.95 MiB of 1.60 GiB budget. Usage: 0.42%
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Shaders Compiled: 302
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Jobs assigned 302, completed 302 (100%)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Average time worker was idle: 52.83 s
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.37 s
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.92 s
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Job life time (pending + execution): average 0.31 s, max 1.01
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Shader code size: average 39.848 KiB, min 29.613 KiB, max 63.133 KiB
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.49 s
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Jobs were issued in 302 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Average processing rate: 13.43 jobs/sec
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Total thread time: 40.252 s
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Total thread preprocess time: 5.382 s
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Percentage time preprocessing: 13.37%
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   13 times, average 0.18 sec, max 0.24 sec, min 0.16 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 0.17 sec, max 0.22 sec, min 0.16 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   13 times, average 0.17 sec, max 0.22 sec, min 0.15 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   13 times, average 0.17 sec, max 0.22 sec, min 0.14 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   13 times, average 0.17 sec, max 0.22 sec, min 0.14 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.42% of total time (compiled   44 times, average 0.14 sec, max 0.45 sec, min 0.10 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.30% of total time (compiled   44 times, average 0.13 sec, max 0.15 sec, min 0.11 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.62% of total time (compiled   28 times, average 0.14 sec, max 0.37 sec, min 0.11 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.68% of total time (compiled   13 times, average 0.18 sec, max 0.24 sec, min 0.16 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.65% of total time (compiled   13 times, average 0.17 sec, max 0.22 sec, min 0.16 sec)
+[2024.04.12-13.22.57:576][441]LogShaderCompilers: Display: ================================================
+[2024.04.12-13.22.57:588][442]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-13.22.57:588][442]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-13.22.57:588][442]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.22.57:588][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.22.57:588][442]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.00:692][749]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.00:692][749]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.23.00:692][749]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.00:730][751]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-13.23.00:730][751]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-13.23.00:730][751]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.23.00:730][751]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.23.00:730][751]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.04:553][130]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.04:553][130]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.23.04:553][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.04:553][130]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.04:932][156]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.04.12-13.23.04:932][156]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.23.04:932][156]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-13.23.04:932][156]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.23.04:932][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.04:932][156]MaterialEditorStats: Shader Count: 3
+[2024.04.12-13.23.05:927][246]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.05:927][246]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.23.05:927][246]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.05:927][246]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.05:967][248]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.04.12-13.23.05:967][248]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.23.05:967][248]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-13.23.05:967][248]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.23.05:967][248]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.05:967][248]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.09:608][621]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.09:608][621]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.23.09:608][621]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.09:608][621]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.09:830][637]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.23.09:830][637]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.23.09:830][637]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.09:830][637]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.23.09:911][646]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.23.09:911][646]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.23.09:911][646]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.23.09:911][646]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.23.09:911][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.09:911][646]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.11:245][778]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.11:246][778]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.23.11:246][778]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.11:246][778]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.11:287][780]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.23.11:287][780]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.23.11:287][780]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.23.11:287][780]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.23.11:287][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.11:287][780]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.14:331][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.14:331][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.14:331][ 71]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.14:331][ 71]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.14:551][ 88]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.23.14:551][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.14:551][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.14:551][ 88]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.23.14:656][ 99]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.23.14:656][ 99]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.23.14:656][ 99]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.23.14:656][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.14:656][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.14:657][ 99]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.20:600][729]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.20:600][729]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.20:600][729]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.20:600][729]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.20:637][731]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.23.20:637][731]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.23.20:637][731]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.23.20:637][731]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.20:637][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.20:637][731]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.26:009][318]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.26:009][318]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.26:009][318]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.26:009][318]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.26:028][320]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.23.26:028][320]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.23.26:028][320]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.23.26:028][320]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.26:028][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.23.26:028][320]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.29:437][680]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.29:437][680]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.29:437][680]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.29:437][680]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.29:684][702]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.23.29:684][702]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.29:684][702]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.29:684][702]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.23.29:774][710]MaterialEditorStats: Base pass shader: 204 instructions
+[2024.04.12-13.23.29:774][710]MaterialEditorStats: Base pass vertex shader: 150 instructions
+[2024.04.12-13.23.29:774][710]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.23.29:774][710]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.29:774][710]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.29:774][710]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.31:534][883]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.31:534][883]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.31:534][883]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.31:534][883]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.31:756][902]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.23.31:756][902]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.31:756][902]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.31:756][902]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.23.31:857][912]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.23.31:857][912]MaterialEditorStats: Base pass vertex shader: 150 instructions
+[2024.04.12-13.23.31:857][912]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.23.31:857][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.31:857][912]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.31:857][912]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.33:765][ 94]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.23.33:765][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.33:765][ 94]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.33:765][ 94]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.23.33:957][111]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.23.33:957][111]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.33:957][111]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.33:957][111]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.23.34:063][121]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.23.34:063][121]MaterialEditorStats: Base pass vertex shader: 150 instructions
+[2024.04.12-13.23.34:063][121]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.23.34:063][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.34:063][121]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.34:063][121]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.37:136][450]LogMaterialEditor: Applying material Floor
+[2024.04.12-13.23.37:371][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.12-13.23.37:744][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.12-13.23.37:750][450]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-13.23.37:750][450]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.37:750][450]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.37:750][450]MaterialEditorStats: Shader Count: 2
+[2024.04.12-13.23.37:761][451]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.23.37:761][451]MaterialEditorStats: Base pass vertex shader: 150 instructions
+[2024.04.12-13.23.37:761][451]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.23.37:761][451]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.37:761][451]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.37:761][451]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.23.38:216][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.23.38:787][499]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Forest_Foor_xdfddec/Floor
+[2024.04.12-13.23.38:788][499]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Floor3F470E6143225559D53D8EB8C8350337.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/Surfaces/Forest_Foor_xdfddec/Floor.uasset'
+[2024.04.12-13.23.38:793][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 576 ms (total: 12.6 sec)
+[2024.04.12-13.23.38:793][499]AssetCheck: New page: Asset Save: Floor
+[2024.04.12-13.23.38:793][499]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Megascans/Surfaces/Forest_Foor_xdfddec/Floor.Floor
+[2024.04.12-13.23.38:794][499]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.23.38:794][499]MaterialEditorStats: Base pass vertex shader: 150 instructions
+[2024.04.12-13.23.38:794][499]MaterialEditorStats: MaxSampler: 268 instructions
+[2024.04.12-13.23.38:794][499]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-13.23.38:794][499]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.23.38:794][499]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2024.04.12-13.23.38:794][499]MaterialEditorStats: Shader Count: 16
+[2024.04.12-13.23.46:705][304]LogMaterial: Warning: [AssetLog] /Engine/Transient.Floor: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 51
+
+[2024.04.12-13.23.46:707][304]MaterialEditorStats: Error: [SM6] (Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 51
+[2024.04.12-13.23.55:042][215]LogMaterial: Warning: [AssetLog] /Engine/Transient.Floor: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 10
+
+[2024.04.12-13.23.55:043][215]MaterialEditorStats: Error: [SM6] (Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 10
+[2024.04.12-13.24.01:846][968]LogMaterial: Warning: [AssetLog] /Engine/Transient.Floor: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 9
+
+[2024.04.12-13.24.01:847][968]MaterialEditorStats: Error: [SM6] (Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 9
+[2024.04.12-13.24.04:019][203]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.24.04:019][203]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.04:019][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.04:019][203]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.24.04:050][205]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.24.04:050][205]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.24.04:050][205]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.24.04:050][205]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.04:050][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.04:050][205]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.24.24:720][438]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.24.24:720][438]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.24:720][438]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.24:720][438]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.24.24:760][440]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.24.24:760][440]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.24.24:760][440]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.24.24:760][440]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.24:760][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.24:760][440]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.24.32:719][303]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.24.32:719][303]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.32:719][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.32:719][303]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.24.32:746][305]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.24.32:746][305]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.24.32:746][305]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.24.32:746][305]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.32:746][305]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.32:746][305]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.24.34:688][508]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.24.34:688][508]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.34:688][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.34:688][508]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.24.34:715][510]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.24.34:715][510]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.24.34:715][510]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.24.34:715][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.34:715][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.34:715][510]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.24.36:665][711]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.24.36:666][711]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.36:666][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.36:666][711]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.24.36:699][713]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.24.36:699][713]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.24.36:699][713]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.24.36:699][713]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.36:699][713]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.36:699][713]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.24.39:891][ 59]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.24.39:892][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.39:892][ 59]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.39:892][ 59]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.24.40:231][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.24.40:231][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.40:231][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.40:231][ 93]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.24.40:336][104]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.24.40:336][104]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.24.40:336][104]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.24.40:336][104]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.40:336][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.40:336][104]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.24.40:890][162]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.24.40:890][162]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.40:890][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.40:890][162]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.24.41:106][185]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.24.41:106][185]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.41:106][185]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.41:106][185]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.24.41:206][196]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.24.41:206][196]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.24.41:206][196]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.24.41:206][196]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.41:206][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.41:206][196]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.24.42:500][332]LogMaterialEditor: Applying material Floor
+[2024.04.12-13.24.42:547][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.12-13.24.42:953][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.12-13.24.43:504][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.24.44:057][393]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Forest_Foor_xdfddec/Floor
+[2024.04.12-13.24.44:057][393]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Floor58E1655E406B329CB2775989ED920528.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/Surfaces/Forest_Foor_xdfddec/Floor.uasset'
+[2024.04.12-13.24.44:063][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 559 ms (total: 13.1 sec)
+[2024.04.12-13.24.44:064][393]AssetCheck: New page: Asset Save: Floor
+[2024.04.12-13.24.44:064][393]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Megascans/Surfaces/Forest_Foor_xdfddec/Floor.Floor
+[2024.04.12-13.24.44:064][393]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.24.44:064][393]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.24.44:064][393]MaterialEditorStats: MaxSampler: 269 instructions
+[2024.04.12-13.24.44:064][393]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-13.24.44:064][393]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.24.44:064][393]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.24.44:064][393]MaterialEditorStats: Shader Count: 16
+[2024.04.12-13.24.52:155][253]LogSlate: Window 'Floor' being destroyed
+[2024.04.12-13.24.52:158][253]LogSlate: Window 'Floor' being destroyed
+[2024.04.12-13.24.52:170][253]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-13.24.52:170][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-13.24.57:262][818]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.04.12-13.24.57:268][818]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.04.12-13.24.57:276][819]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.04.12-13.24.58:604][979]LogContentBrowser: Attempting asset rename: NewMaterial -> Flow
+[2024.04.12-13.24.58:605][979]LogContentBrowser: End creating deferred item NewMaterial
+[2024.04.12-13.24.59:395][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.24.59:471][ 70]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow
+[2024.04.12-13.24.59:471][ 70]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Flow95C0317E4F1787C960715880CFEBB04B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow.uasset'
+[2024.04.12-13.24.59:477][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 13.2 sec)
+[2024.04.12-13.24.59:477][ 70]AssetCheck: New page: Asset Save: Flow
+[2024.04.12-13.24.59:477][ 70]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow.Flow
+[2024.04.12-13.25.00:137][144]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow.Flow
+[2024.04.12-13.25.00:139][144]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-13.25.00:139][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-13.25.00:274][144]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.00:274][144]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.25.00:274][144]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.00:281][144]LogViewport: Scene viewport resized to 280x320, mode Windowed.
+[2024.04.12-13.25.00:316][146]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-13.25.00:316][146]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-13.25.00:316][146]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.00:316][146]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.25.00:316][146]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.03:028][428]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.03:028][428]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.25.03:028][428]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.03:066][430]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-13.25.03:066][430]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-13.25.03:066][430]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.03:066][430]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.25.03:066][430]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.04:790][603]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.04:790][603]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.25.04:790][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.04:790][603]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.04:847][605]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-13.25.04:847][605]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.04:847][605]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-13.25.04:847][605]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.25.04:847][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.04:847][605]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.07:573][899]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.07:573][899]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.25.07:573][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.07:573][899]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.07:612][901]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-13.25.07:612][901]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.07:612][901]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-13.25.07:612][901]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.25.07:612][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.07:612][901]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.12:859][457]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.12:860][457]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.25.12:860][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.12:860][457]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.13:196][491]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.25.13:196][491]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.13:196][491]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.13:196][491]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.25.13:196][491]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.13:196][491]MaterialEditorStats: Shader Count: 3
+[2024.04.12-13.25.14:200][585]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.14:200][585]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.25.14:200][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.14:200][585]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.14:241][587]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.25.14:241][587]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.14:241][587]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.14:241][587]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.25.14:241][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.14:241][587]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.15:626][725]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.15:626][725]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.15:626][725]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.15:626][725]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.15:836][744]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.15:836][744]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.15:836][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.15:836][744]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.25.15:930][751]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.25.15:930][751]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.15:930][751]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.15:930][751]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.15:930][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.15:930][751]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.19:516][134]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.19:516][134]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.19:516][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.19:516][134]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.19:554][136]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.25.19:554][136]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.19:554][136]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.19:554][136]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.19:554][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.19:554][136]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.22:725][470]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.22:725][470]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.22:725][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.22:725][470]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.22:756][472]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.25.22:756][472]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.22:756][472]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.22:756][472]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.22:756][472]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.22:756][472]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.25:043][700]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.25:043][700]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.25:043][700]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.25:043][700]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.25:074][702]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.25.25:074][702]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.25:074][702]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.25:074][702]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.25:074][702]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.25:074][702]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.26:628][859]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.26:628][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.26:628][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.26:628][859]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.26:659][861]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.25.26:659][861]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.26:659][861]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.26:659][861]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.26:659][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.26:659][861]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.30:377][253]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.30:377][253]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.30:377][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.30:377][253]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.30:520][267]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.30:520][267]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.30:520][267]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.30:520][267]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.25.30:629][277]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.30:629][277]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.30:629][277]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.30:629][277]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.30:629][277]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.30:629][277]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.31:310][349]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.31:310][349]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.31:310][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.31:310][349]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.31:502][368]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.31:502][368]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.31:502][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.31:502][368]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.25.31:600][378]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.31:600][378]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.31:600][378]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.31:600][378]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.31:600][378]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.31:600][378]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.32:316][456]LogMaterialEditor: Applying material Flow
+[2024.04.12-13.25.32:372][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.12-13.25.32:760][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.12-13.25.32:766][456]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-13.25.32:766][456]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.32:766][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.32:766][456]MaterialEditorStats: Shader Count: 2
+[2024.04.12-13.25.32:778][457]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.32:778][457]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.32:778][457]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.32:778][457]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.32:778][457]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.32:778][457]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.33:159][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.25.33:672][496]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow
+[2024.04.12-13.25.33:672][496]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Flow9BCE721244BE6D05FBCA399A40C3A716.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow.uasset'
+[2024.04.12-13.25.33:677][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 518 ms (total: 13.7 sec)
+[2024.04.12-13.25.33:678][496]AssetCheck: New page: Asset Save: Flow
+[2024.04.12-13.25.33:678][496]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow.Flow
+[2024.04.12-13.25.33:678][496]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.33:678][496]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.33:678][496]MaterialEditorStats: MaxSampler: 269 instructions
+[2024.04.12-13.25.33:678][496]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-13.25.33:678][496]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.33:678][496]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.33:678][496]MaterialEditorStats: Shader Count: 16
+[2024.04.12-13.25.40:291][156]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.40:291][156]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.40:291][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.40:291][156]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.40:517][179]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.40:517][179]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.40:517][179]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.40:517][179]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.25.40:625][190]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.40:625][190]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.40:625][190]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.40:625][190]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.40:625][190]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.40:625][190]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.41:027][229]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.41:027][229]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.41:027][229]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.41:027][229]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.41:172][243]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.41:172][243]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.41:172][243]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.41:172][243]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.25.41:274][254]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.41:274][254]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.41:274][254]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.41:274][254]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.41:274][254]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.41:274][254]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.42:541][378]LogMaterialEditor: Applying material Flow
+[2024.04.12-13.25.42:585][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.12-13.25.42:987][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.12-13.25.45:879][684]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.45:879][684]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.45:879][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.45:879][684]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.46:012][696]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.46:012][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.46:012][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.46:012][696]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.25.46:109][706]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.46:109][706]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.46:109][706]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.46:109][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.46:109][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.46:109][706]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.46:659][759]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.46:659][759]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.46:659][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.46:659][759]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.46:885][783]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.46:885][783]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.46:885][783]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.46:885][783]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.25.46:980][793]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.46:980][793]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.46:980][793]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.46:980][793]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.46:980][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.46:980][793]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.47:930][890]LogMaterialEditor: Applying material Flow
+[2024.04.12-13.25.47:973][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.04.12-13.25.48:357][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-13.25.56:854][819]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.56:854][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.56:854][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.56:854][819]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.57:015][835]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.57:015][835]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.57:015][835]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.57:015][835]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.25.57:121][846]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.57:121][846]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.57:121][846]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.57:121][846]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.57:121][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.57:121][846]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.57:706][906]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.25.57:706][906]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.57:706][906]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.57:706][906]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.25.57:875][923]LogShaderCompilers: Display: ================================================
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Total job queries 1,384, among them cache hits 958 (69.22%)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Tracking 423 distinct input hashes that result in 227 distinct outputs (53.66%)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: RAM used: 9.67 MiB of 1.60 GiB budget. Usage: 0.59%
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Shaders Compiled: 423
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Jobs assigned 426, completed 423 (99.30%)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Average time worker was idle: 279.79 s
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.37 s
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.92 s
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Job life time (pending + execution): average 0.31 s, max 1.01
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Shader code size: average 39.491 KiB, min 29.613 KiB, max 63.133 KiB
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 32.08 s
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Jobs were issued in 426 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Average processing rate: 13.19 jobs/sec
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Total thread time: 57.883 s
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Total thread preprocess time: 7.999 s
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Percentage time preprocessing: 13.82%
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Effective parallelization: 1.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 0.18 sec, max 0.25 sec, min 0.16 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   16 times, average 0.18 sec, max 0.25 sec, min 0.16 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   16 times, average 0.17 sec, max 0.24 sec, min 0.15 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   16 times, average 0.17 sec, max 0.23 sec, min 0.14 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   16 times, average 0.17 sec, max 0.23 sec, min 0.15 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.39% of total time (compiled   67 times, average 0.15 sec, max 0.46 sec, min 0.10 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.27% of total time (compiled   67 times, average 0.14 sec, max 0.39 sec, min 0.11 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.96% of total time (compiled   45 times, average 0.14 sec, max 0.37 sec, min 0.11 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.36% of total time (compiled   46 times, average 0.07 sec, max 0.29 sec, min 0.05 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.03% of total time (compiled   16 times, average 0.18 sec, max 0.25 sec, min 0.16 sec)
+[2024.04.12-13.25.57:876][923]LogShaderCompilers: Display: ================================================
+[2024.04.12-13.25.57:885][924]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.25.57:885][924]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.57:885][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.57:885][924]MaterialEditorStats: Shader Count: 1
+[2024.04.12-13.25.57:989][935]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.25.57:989][935]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.25.57:989][935]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.25.57:989][935]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.25.57:989][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.25.57:989][935]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.25.58:571][995]LogMaterialEditor: Applying material Flow
+[2024.04.12-13.25.58:614][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.12-13.25.59:017][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.12-13.25.59:763][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.26.00:281][ 74]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow
+[2024.04.12-13.26.00:281][ 74]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/FlowC5F9F2E74D1E4E23BAD96FAB59417698.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow.uasset'
+[2024.04.12-13.26.00:286][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 523 ms (total: 14.2 sec)
+[2024.04.12-13.26.00:287][ 74]AssetCheck: New page: Asset Save: Flow
+[2024.04.12-13.26.00:287][ 74]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Megascans/Surfaces/Forest_Ground_Dried_Leaves_xeukeip/Flow.Flow
+[2024.04.12-13.26.00:287][ 74]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.26.00:287][ 74]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.26.00:287][ 74]MaterialEditorStats: MaxSampler: 269 instructions
+[2024.04.12-13.26.00:287][ 74]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-13.26.00:287][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.26.00:287][ 74]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.26.00:287][ 74]MaterialEditorStats: Shader Count: 16
+[2024.04.12-13.26.02:978][362]LogSlate: Window 'Flow' being destroyed
+[2024.04.12-13.26.02:983][362]LogSlate: Window 'Flow' being destroyed
+[2024.04.12-13.26.03:024][362]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-13.26.03:024][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-13.26.04:905][572]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.12-13.26.04:910][572]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.12-13.26.04:910][572]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.12-13.26.04:911][572]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 15 ms)
+[2024.04.12-13.26.04:914][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.12-13.26.04:914][572]PIE: New page: PIE session: ThirdPersonMap (12 Apr 2024, 15:26:04)
+[2024.04.12-13.26.04:944][572]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.12-13.26.04:947][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002978s)
+[2024.04.12-13.26.04:947][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003001s)
+[2024.04.12-13.26.04:956][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.12-13.26.04:962][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-13.26.04:962][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-13.26.04:962][572]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.12-13.26.04:962][572]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.12-13.26.04:962][572]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.12-13.26.04:962][572]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.12-13.26.04:962][572]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.12-13.26.04:963][572]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.12-13.26.04:963][572]LogWorldPartition: Display: WorldPartition initialize took 826 us (total: 54 ms)
+[2024.04.12-13.26.04:963][572]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2024.04.12-13.26.04:963][572]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.12-13.26.04:963][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.12-13.26.04:963][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.12-13.26.04:963][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.12-13.26.04:963][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.12-13.26.04:963][572]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.12-13.26.04:963][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.12-13.26.04:963][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.12-13.26.04:963][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.12-13.26.04:964][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.12-13.26.04:964][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.12-13.26.04:964][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.12-13.26.04:965][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.12-13.26.04:985][572]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.12-13.26.04:986][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.12-13.26.04:986][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.12-13.26.04:986][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.12-13.26.04:986][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.12-13.26.04:986][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.12-13.26.04:987][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.12-13.26.04:987][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.12-13.26.04:987][572]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.12-13.26.04:987][572]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2024.04.12-13.26.04:987][572]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.12-13.26.04:989][572]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.12-13.26.04:993][572]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.12-14.26.04
+[2024.04.12-13.26.04:994][572]LogWorld: Bringing up level for play took: 0.004760
+[2024.04.12-13.26.04:996][572]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.04.12-13.26.04:998][572]PIE: Server logged in
+[2024.04.12-13.26.04:999][572]PIE: Play in editor total start time 0.089 seconds.
+[2024.04.12-13.26.14:467][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-13.26.14:467][695]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.12-13.26.14:467][695]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-13.26.14:468][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-13.26.14:468][695]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.12-13.26.14:470][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.12-13.26.14:473][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-13.26.14:483][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-13.26.14:484][695]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.12-13.26.14:484][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.12-13.26.14:485][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.12-13.26.14:491][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.12-13.26.14:570][697]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.04.12-13.26.36:147][241]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Concrete_Pavement_wfxjchj/T_ConcretePavement_wfxjchj_1K_ORDp.T_ConcretePavement_wfxjchj_1K_ORDp (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.26.36:153][241]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Concrete_Pavement_wfxjchj/T_Concrete_Pavement_wfxjchj_1K_N.T_Concrete_Pavement_wfxjchj_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.04.12-13.26.36:166][241]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Concrete_Pavement_wfxjchj/T_Concrete_Pavement_wfxjchj_1K_D.T_Concrete_Pavement_wfxjchj_1K_D (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.26.57:542][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.12-13.26.57:546][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/33/26MOEULJVVIOSMYKJAI120_Auto4
+[2024.04.12-13.26.57:546][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/26MOEULJVVIOSMYKJAI120_Auto48514B6524DE0D443713E0992E854FD0B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/33/26MOEULJVVIOSMYKJAI120_Auto4.uasset'
+[2024.04.12-13.26.57:547][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4
+[2024.04.12-13.26.57:547][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/NG2R9BPZVA7ZDN0Z4VSTG6_Auto415FB0F5444C41306240D0C9E51E9D5FF.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6_Auto4.uasset'
+[2024.04.12-13.26.57:548][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XG/ZTWM3FWX4Q2HQK4VX8OGXZ_Auto4
+[2024.04.12-13.26.57:548][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ZTWM3FWX4Q2HQK4VX8OGXZ_Auto437DE98564F908148D70FA9B3F8BF02F7.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XG/ZTWM3FWX4Q2HQK4VX8OGXZ_Auto4.uasset'
+[2024.04.12-13.26.57:549][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3T/72IC5Z9QS35TGI01JDT1WH_Auto4
+[2024.04.12-13.26.57:549][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/72IC5Z9QS35TGI01JDT1WH_Auto47BEC8E314666C0FED61CE58E8188D4F9.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3T/72IC5Z9QS35TGI01JDT1WH_Auto4.uasset'
+[2024.04.12-13.26.57:550][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0M/UAXUO0YQO7U3BEAAZ0XCIH_Auto4
+[2024.04.12-13.26.57:550][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/UAXUO0YQO7U3BEAAZ0XCIH_Auto49FFA32CF4F4A48903CA6EEB4052D50A9.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0M/UAXUO0YQO7U3BEAAZ0XCIH_Auto4.uasset'
+[2024.04.12-13.26.57:551][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VE/8YT8V55MWGJBQ3FVH5GLPO_Auto4
+[2024.04.12-13.26.57:551][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/8YT8V55MWGJBQ3FVH5GLPO_Auto44AF64F354EBE335B2423318DDF1F60BF.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VE/8YT8V55MWGJBQ3FVH5GLPO_Auto4.uasset'
+[2024.04.12-13.26.57:553][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/86/NB4KEG7K8ONITOJ9JGOVUY_Auto4
+[2024.04.12-13.26.57:553][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/NB4KEG7K8ONITOJ9JGOVUY_Auto4B06B8B75448B098CC269B094BAA9B554.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/86/NB4KEG7K8ONITOJ9JGOVUY_Auto4.uasset'
+[2024.04.12-13.26.57:553][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PY/AM06BX9BIRXCAZIQK4IIGB_Auto4
+[2024.04.12-13.26.57:553][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AM06BX9BIRXCAZIQK4IIGB_Auto4EA990ACA4023CC6A58AD32AA1A4537B0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PY/AM06BX9BIRXCAZIQK4IIGB_Auto4.uasset'
+[2024.04.12-13.26.57:555][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Y6/O3PTMS3B21XFAUPUFGL5EY_Auto4
+[2024.04.12-13.26.57:555][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/O3PTMS3B21XFAUPUFGL5EY_Auto4DF6C1C6741042BBF03E48D909C5C25B8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Y6/O3PTMS3B21XFAUPUFGL5EY_Auto4.uasset'
+[2024.04.12-13.26.57:556][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/J0/A0T48JDBXCHLPRT3JH4VZS_Auto4
+[2024.04.12-13.26.57:556][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/A0T48JDBXCHLPRT3JH4VZS_Auto4C75AAAE7403B4A6B16BBDB8FC726D10F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/J0/A0T48JDBXCHLPRT3JH4VZS_Auto4.uasset'
+[2024.04.12-13.26.57:557][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0P/YCTVPNM8QG1QFC1UJS8Y5H_Auto4
+[2024.04.12-13.26.57:557][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/YCTVPNM8QG1QFC1UJS8Y5H_Auto4A190338E4410264EFA6D508712354889.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0P/YCTVPNM8QG1QFC1UJS8Y5H_Auto4.uasset'
+[2024.04.12-13.26.57:558][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/X5/PWQLOO0TSX9P1LW32EFE8S_Auto4
+[2024.04.12-13.26.57:558][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PWQLOO0TSX9P1LW32EFE8S_Auto4E7AE16154A50EFAF3DFA66B9863C5C13.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/X5/PWQLOO0TSX9P1LW32EFE8S_Auto4.uasset'
+[2024.04.12-13.26.57:559][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NQ/4V8TFAXH170GBIF2FJZ8RM_Auto4
+[2024.04.12-13.26.57:559][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/4V8TFAXH170GBIF2FJZ8RM_Auto4546C7B224C9D7975BF89BCABF953F879.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NQ/4V8TFAXH170GBIF2FJZ8RM_Auto4.uasset'
+[2024.04.12-13.26.57:560][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KZ/I3F6EY0Y4R0VFKXWPN47L4_Auto4
+[2024.04.12-13.26.57:560][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/I3F6EY0Y4R0VFKXWPN47L4_Auto4E776225E4DC65808EAFE95A34F3F0327.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KZ/I3F6EY0Y4R0VFKXWPN47L4_Auto4.uasset'
+[2024.04.12-13.26.57:561][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4L/YC7KIXP0EFUWRNQPZDXK20_Auto4
+[2024.04.12-13.26.57:561][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/YC7KIXP0EFUWRNQPZDXK20_Auto4A5D96D82495876567812A78800A1D0BC.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4L/YC7KIXP0EFUWRNQPZDXK20_Auto4.uasset'
+[2024.04.12-13.26.57:562][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AY/AL6N5MGSSV2IIP1SJ1THNR_Auto4
+[2024.04.12-13.26.57:562][733]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AL6N5MGSSV2IIP1SJ1THNR_Auto4B85252B74D4F9890EF0BF89D9A52FDCC.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AY/AL6N5MGSSV2IIP1SJ1THNR_Auto4.uasset'
+[2024.04.12-13.26.57:562][733]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2024.04.12-13.26.57:562][733]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2024.04.12-13.27.21:485][579]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wild_Mossy_Grass_vbvjahvfw/T_WildMossyGrass_vbvjahvfw_1K_ORDp.T_WildMossyGrass_vbvjahvfw_1K_ORDp (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.27.21:487][579]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wild_Mossy_Grass_vbvjahvfw/T_Wild_Mossy_Grass_vbvjahvfw_1K_N.T_Wild_Mossy_Grass_vbvjahvfw_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.04.12-13.27.21:502][579]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Wild_Mossy_Grass_vbvjahvfw/T_Wild_Mossy_Grass_vbvjahvfw_1K_D.T_Wild_Mossy_Grass_vbvjahvfw_1K_D (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 125.770823 MB), EncodeSpeed: Fast
+[2024.04.12-13.28.42:943][ 33]Cmd: SELECT NONE
+[2024.04.12-13.28.52:265][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-13.28.52:271][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.28.52:328][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/33/26MOEULJVVIOSMYKJAI120
+[2024.04.12-13.28.52:329][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/26MOEULJVVIOSMYKJAI120DDC930D1407A1B48F87CDE8B55DE7517.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/33/26MOEULJVVIOSMYKJAI120.uasset'
+[2024.04.12-13.28.52:330][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XH/PHDMMTKNKW7C5F94EXDUAP
+[2024.04.12-13.28.52:330][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PHDMMTKNKW7C5F94EXDUAP58A13A9B4C727684238E6E8D72B812CC.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XH/PHDMMTKNKW7C5F94EXDUAP.uasset'
+[2024.04.12-13.28.52:332][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BL/IKSINYQI5J6GOYVH8UMSX6
+[2024.04.12-13.28.52:332][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/IKSINYQI5J6GOYVH8UMSX663A76E9D49D0AEBC24B90FAB931F1B45.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BL/IKSINYQI5J6GOYVH8UMSX6.uasset'
+[2024.04.12-13.28.52:333][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2024.04.12-13.28.52:333][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/NG2R9BPZVA7ZDN0Z4VSTG6AFF3DA77461D563F44484E86AEEC8BCD.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2024.04.12-13.28.52:335][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XG/ZTWM3FWX4Q2HQK4VX8OGXZ
+[2024.04.12-13.28.52:335][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ZTWM3FWX4Q2HQK4VX8OGXZ0605DFA04300B617178159B0D3295FDF.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XG/ZTWM3FWX4Q2HQK4VX8OGXZ.uasset'
+[2024.04.12-13.28.52:336][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QY/MH6E1W7GTGJ1ABX3N6N34O
+[2024.04.12-13.28.52:337][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MH6E1W7GTGJ1ABX3N6N34O421317184AA4B82993FCE29377768A90.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QY/MH6E1W7GTGJ1ABX3N6N34O.uasset'
+[2024.04.12-13.28.52:338][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3T/72IC5Z9QS35TGI01JDT1WH
+[2024.04.12-13.28.52:338][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/72IC5Z9QS35TGI01JDT1WH8606B3FB4848A32E0D805582C23E24AD.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3T/72IC5Z9QS35TGI01JDT1WH.uasset'
+[2024.04.12-13.28.52:340][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0M/UAXUO0YQO7U3BEAAZ0XCIH
+[2024.04.12-13.28.52:340][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/UAXUO0YQO7U3BEAAZ0XCIHFAE4BEF7455DA5622CC60D962FDE4192.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0M/UAXUO0YQO7U3BEAAZ0XCIH.uasset'
+[2024.04.12-13.28.52:341][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VE/8YT8V55MWGJBQ3FVH5GLPO
+[2024.04.12-13.28.52:341][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/8YT8V55MWGJBQ3FVH5GLPO8E7586C749A34D0B61D4F49A8FF8DCC2.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VE/8YT8V55MWGJBQ3FVH5GLPO.uasset'
+[2024.04.12-13.28.52:343][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/72/N7V4P81X20J1OHRBTQ27UY
+[2024.04.12-13.28.52:343][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/N7V4P81X20J1OHRBTQ27UYE436B11447DEFC325BE152AA06869E31.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/72/N7V4P81X20J1OHRBTQ27UY.uasset'
+[2024.04.12-13.28.52:344][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KC/XWTB82V0JZSE4G36QIGPG5
+[2024.04.12-13.28.52:345][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/XWTB82V0JZSE4G36QIGPG5F886400A438BD8252844688E747A6CDC.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KC/XWTB82V0JZSE4G36QIGPG5.uasset'
+[2024.04.12-13.28.52:345][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/86/NB4KEG7K8ONITOJ9JGOVUY
+[2024.04.12-13.28.52:346][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/NB4KEG7K8ONITOJ9JGOVUYD611CB644D9F69EFCE17D8B667BC615F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/86/NB4KEG7K8ONITOJ9JGOVUY.uasset'
+[2024.04.12-13.28.52:348][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PY/AM06BX9BIRXCAZIQK4IIGB
+[2024.04.12-13.28.52:348][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AM06BX9BIRXCAZIQK4IIGBBE66BBEA4851134A21AF0CAFB4D26E97.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PY/AM06BX9BIRXCAZIQK4IIGB.uasset'
+[2024.04.12-13.28.52:349][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Y6/O3PTMS3B21XFAUPUFGL5EY
+[2024.04.12-13.28.52:349][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/O3PTMS3B21XFAUPUFGL5EY1FF46B4E4FB810D642B66189575B6DF6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Y6/O3PTMS3B21XFAUPUFGL5EY.uasset'
+[2024.04.12-13.28.52:351][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/J0/A0T48JDBXCHLPRT3JH4VZS
+[2024.04.12-13.28.52:351][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/A0T48JDBXCHLPRT3JH4VZSF0649CE442FA70F0C2795B9BA2901386.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/J0/A0T48JDBXCHLPRT3JH4VZS.uasset'
+[2024.04.12-13.28.52:352][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0P/YCTVPNM8QG1QFC1UJS8Y5H
+[2024.04.12-13.28.52:352][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/YCTVPNM8QG1QFC1UJS8Y5HFEA88D8C4B016BDA83B70C94C7771BD4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0P/YCTVPNM8QG1QFC1UJS8Y5H.uasset'
+[2024.04.12-13.28.52:354][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/X5/PWQLOO0TSX9P1LW32EFE8S
+[2024.04.12-13.28.52:354][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PWQLOO0TSX9P1LW32EFE8SCB68443F41D554CB25D94D8FC5330E93.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/X5/PWQLOO0TSX9P1LW32EFE8S.uasset'
+[2024.04.12-13.28.52:355][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NQ/4V8TFAXH170GBIF2FJZ8RM
+[2024.04.12-13.28.52:356][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/4V8TFAXH170GBIF2FJZ8RM260DA4CC4AD691F229056AA1F75CB9F7.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NQ/4V8TFAXH170GBIF2FJZ8RM.uasset'
+[2024.04.12-13.28.52:357][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KZ/I3F6EY0Y4R0VFKXWPN47L4
+[2024.04.12-13.28.52:357][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/I3F6EY0Y4R0VFKXWPN47L4DAB3F45547C87D584ADDFDBE2F7BE591.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KZ/I3F6EY0Y4R0VFKXWPN47L4.uasset'
+[2024.04.12-13.28.52:358][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4L/YC7KIXP0EFUWRNQPZDXK20
+[2024.04.12-13.28.52:359][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/YC7KIXP0EFUWRNQPZDXK20B1C154C248C396A2F61DA7B643C0CBFB.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4L/YC7KIXP0EFUWRNQPZDXK20.uasset'
+[2024.04.12-13.28.52:360][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AY/AL6N5MGSSV2IIP1SJ1THNR
+[2024.04.12-13.28.52:360][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AL6N5MGSSV2IIP1SJ1THNR229A42004E793AD3206925B7FEBB94DC.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AY/AL6N5MGSSV2IIP1SJ1THNR.uasset'
+[2024.04.12-13.28.52:361][147]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/QR/SKYZ0BMBA4NAHZ0A6CQ3LA
+[2024.04.12-13.28.52:362][147]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/SKYZ0BMBA4NAHZ0A6CQ3LA58E37BD34B7AECB3436379989A5EF873.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/QR/SKYZ0BMBA4NAHZ0A6CQ3LA.uasset'
+[2024.04.12-13.28.52:367][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 14.3 sec)
+[2024.04.12-13.28.52:367][147]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F23457CDEA01_1740866347
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576AEB01_1822657992
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1292675172
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F23457D7EA01_1953058109
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1206011171
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1310086799
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1330729800
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1356384801
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576AEB01_1335518991
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576AEB01_1238460990
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407330804
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407331805
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407332806
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407332807
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407333808
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407333809
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444365810
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444366811
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444366812
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444366813
+[2024.04.12-13.28.52:367][147]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1146046170
+[2024.04.12-13.29.01:820][222]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.04.12-13.29.01:836][222]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.04.12-13.29.01:841][223]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.04.12-13.29.03:654][441]LogContentBrowser: Attempting asset rename: NewMaterial -> Wall
+[2024.04.12-13.29.03:655][441]LogContentBrowser: End creating deferred item NewMaterial
+[2024.04.12-13.29.04:377][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.29.04:447][524]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Granite_Rock_visscjf/Wall
+[2024.04.12-13.29.04:447][524]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/WallFEE966C04FA1E35544E181B4945600FA.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/Surfaces/Granite_Rock_visscjf/Wall.uasset'
+[2024.04.12-13.29.04:452][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 14.4 sec)
+[2024.04.12-13.29.04:453][524]AssetCheck: New page: Asset Save: Wall
+[2024.04.12-13.29.04:453][524]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Megascans/Surfaces/Granite_Rock_visscjf/Wall.Wall
+[2024.04.12-13.29.04:918][576]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Megascans/Surfaces/Granite_Rock_visscjf/Wall.Wall
+[2024.04.12-13.29.04:921][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-13.29.04:921][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-13.29.05:042][576]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.05:042][576]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.29.05:042][576]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.05:048][576]LogViewport: Scene viewport resized to 281x321, mode Windowed.
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: ================================================
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Total job queries 1,410, among them cache hits 972 (68.94%)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Tracking 438 distinct input hashes that result in 236 distinct outputs (53.88%)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: RAM used: 10.04 MiB of 1.60 GiB budget. Usage: 0.61%
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Shaders Compiled: 438
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Jobs assigned 438, completed 438 (100%)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Average time worker was idle: 272.25 s
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.37 s
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.92 s
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Job life time (pending + execution): average 0.31 s, max 1.01
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Shader code size: average 39.653 KiB, min 29.613 KiB, max 63.133 KiB
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 32.89 s
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Jobs were issued in 438 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Average processing rate: 13.32 jobs/sec
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Total thread time: 60.147 s
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Total thread preprocess time: 8.232 s
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Percentage time preprocessing: 13.69%
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Effective parallelization: 1.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   17 times, average 0.18 sec, max 0.25 sec, min 0.16 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   17 times, average 0.18 sec, max 0.25 sec, min 0.16 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   17 times, average 0.17 sec, max 0.24 sec, min 0.15 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   17 times, average 0.17 sec, max 0.23 sec, min 0.14 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   17 times, average 0.17 sec, max 0.22 sec, min 0.14 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.99% of total time (compiled   68 times, average 0.15 sec, max 0.46 sec, min 0.10 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.89% of total time (compiled   68 times, average 0.14 sec, max 0.39 sec, min 0.11 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.79% of total time (compiled   46 times, average 0.14 sec, max 0.37 sec, min 0.11 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.17% of total time (compiled   17 times, average 0.18 sec, max 0.25 sec, min 0.16 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.16% of total time (compiled   46 times, average 0.07 sec, max 0.29 sec, min 0.05 sec)
+[2024.04.12-13.29.05:070][577]LogShaderCompilers: Display: ================================================
+[2024.04.12-13.29.05:083][578]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-13.29.05:083][578]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-13.29.05:083][578]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.29.05:083][578]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.29.05:083][578]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.06:887][759]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.06:887][759]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.29.06:887][759]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.06:921][761]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.04.12-13.29.06:922][761]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-13.29.06:922][761]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-13.29.06:922][761]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-13.29.06:922][761]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.08:440][925]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.08:440][925]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.29.08:440][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.08:440][925]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.08:486][927]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-13.29.08:486][927]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.08:486][927]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-13.29.08:486][927]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.29.08:486][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.08:486][927]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.11:233][214]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.11:233][214]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.29.11:233][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.11:233][214]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.11:271][216]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-13.29.11:271][216]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.11:271][216]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-13.29.11:271][216]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-13.29.11:271][216]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.11:271][216]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.13:486][446]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.13:486][446]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.29.13:486][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.13:486][446]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.13:518][448]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.29.13:518][448]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.13:518][448]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.13:518][448]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.29.13:518][448]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.13:518][448]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.17:001][817]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.17:001][817]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.29.17:001][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.17:001][817]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.17:040][819]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.29.17:040][819]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.17:040][819]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.17:040][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-13.29.17:040][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.17:040][819]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.20:305][170]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.20:305][170]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.20:305][170]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.20:305][170]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.20:347][172]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.29.20:347][172]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.20:347][172]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.20:347][172]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.20:347][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.20:347][172]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.24:520][641]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.24:520][641]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.24:520][641]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.24:520][641]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.24:556][643]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.29.24:556][643]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.24:556][643]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.24:556][643]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.24:556][643]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.24:556][643]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.27:436][960]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.27:436][960]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.27:436][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.27:436][960]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.27:463][962]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.29.27:463][962]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.27:463][962]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.27:463][962]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.27:463][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.27:463][962]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.29:598][184]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.29:598][184]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.29:598][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.29:598][184]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.29:631][186]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.29.29:631][186]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.29:631][186]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.29:631][186]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.29:631][186]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.29:631][186]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.31:383][376]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.31:383][376]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.31:383][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.31:383][376]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.31:416][378]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.12-13.29.31:416][378]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.31:416][378]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.31:416][378]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.31:416][378]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.31:416][378]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.34:048][680]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.34:048][680]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.34:048][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.34:048][680]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.34:071][682]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.29.34:071][682]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.34:071][682]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.34:071][682]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.34:071][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.34:071][682]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.35:155][807]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-13.29.35:155][807]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.35:155][807]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.35:155][807]MaterialEditorStats: Shader Count: 0
+[2024.04.12-13.29.35:176][809]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.29.35:176][809]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.35:176][809]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.35:176][809]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.35:176][809]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.35:176][809]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.36:636][981]LogMaterialEditor: Applying material Wall
+[2024.04.12-13.29.36:686][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.12-13.29.36:861][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.12-13.29.36:866][981]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-13.29.36:866][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.36:866][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.36:866][981]MaterialEditorStats: Shader Count: 2
+[2024.04.12-13.29.36:876][982]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.29.36:876][982]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.36:876][982]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-13.29.36:876][982]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.36:876][982]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.36:876][982]MaterialEditorStats: Shader Count: 4
+[2024.04.12-13.29.39:252][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-13.29.39:255][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.29.39:301][221]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XG/ZTWM3FWX4Q2HQK4VX8OGXZ
+[2024.04.12-13.29.39:301][221]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ZTWM3FWX4Q2HQK4VX8OGXZ4C7D1EDA49063444F6AC7DA347E13516.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XG/ZTWM3FWX4Q2HQK4VX8OGXZ.uasset'
+[2024.04.12-13.29.39:316][221]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Granite_Rock_visscjf/Wall
+[2024.04.12-13.29.39:316][221]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Wall5B2C59E04F1E854CFC41E2B26C67141D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/Surfaces/Granite_Rock_visscjf/Wall.uasset'
+[2024.04.12-13.29.39:321][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 14.5 sec)
+[2024.04.12-13.29.39:322][221]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-13.29.39:322][221]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F23457D7EA01_1953058109
+[2024.04.12-13.29.39:322][221]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Megascans/Surfaces/Granite_Rock_visscjf/Wall.Wall
+[2024.04.12-13.29.39:322][221]MaterialEditorStats: Base pass shader: 203 instructions
+[2024.04.12-13.29.39:322][221]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-13.29.39:322][221]MaterialEditorStats: MaxSampler: 269 instructions
+[2024.04.12-13.29.39:322][221]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-13.29.39:322][221]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-13.29.39:323][221]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-13.29.39:323][221]MaterialEditorStats: Shader Count: 16
+[2024.04.12-13.29.42:924][628]LogSlate: Window 'Wall' being destroyed
+[2024.04.12-13.29.42:926][628]LogSlate: Window 'Wall' being destroyed
+[2024.04.12-13.29.42:958][628]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-13.29.42:958][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
