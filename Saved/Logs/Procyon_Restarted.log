@@ -2505,3 +2505,546 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-09.33.17:392][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
 [2024.04.12-09.33.17:400][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2024.04.12-09.33.17:406][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 4.31 sec)
+[2024.04.12-09.37.59:192][513]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.12-09.37.59:209][513]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.12-09.37.59:214][514]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.12-09.38.00:369][653]LogContentBrowser: Attempting asset rename: NewFolder -> Door
+[2024.04.12-09.38.00:369][653]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.12-09.38.06:040][ 60]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Students\Downloads\metal-door-01\source\Metal_Door_01.fbx)
+[2024.04.12-09.38.06:043][ 60]LogFbx: Loading FBX Scene from C:\Users\Students\Downloads\metal-door-01\source\Metal_Door_01.fbx
+[2024.04.12-09.38.06:046][ 60]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.12-09.38.07:250][ 60]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.12-09.38.07:306][ 60]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\amluk\Downloads\gate-3095586_1920.png
+[2024.04.12-09.38.07:309][ 60]LogFbx: Display: Triangulating static mesh Frame
+[2024.04.12-09.38.07:310][ 60]LogStaticMesh: Display: Building static mesh Metal_Door_01_Frame...
+[2024.04.12-09.38.07:313][ 60]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Door/Metal_Door_01_Frame.Metal_Door_01_Frame
+[2024.04.12-09.38.07:321][ 60]LogFbx: Display: Triangulating static mesh Door.001
+[2024.04.12-09.38.07:322][ 60]LogStaticMesh: Display: Building static mesh Metal_Door_01_Door_001...
+[2024.04.12-09.38.07:325][ 60]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Door/Metal_Door_01_Door_001.Metal_Door_01_Door_001
+[2024.04.12-09.38.07:379][ 60]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'gate-3095586_1920' was renamed 'gate-3095586_1920_ncl1_1' 
+[2024.04.12-09.38.07:379][ 60]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Total job queries 503, among them cache hits 321 (63.82%)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Tracking 182 distinct input hashes that result in 107 distinct outputs (58.79%)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: RAM used: 4.11 MiB of 1.60 GiB budget. Usage: 0.25%
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Shaders Compiled: 182
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Jobs assigned 182, completed 182 (100%)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Average time worker was idle: 30.17 s
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.28 s
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.92 s
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Job life time (pending + execution): average 0.30 s, max 1.01
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Shader code size: average 39.099 KiB, min 29.613 KiB, max 63.133 KiB
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.86 s
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Jobs were issued in 182 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Average processing rate: 13.13 jobs/sec
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Total thread time: 23.811 s
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Total thread preprocess time: 3.444 s
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Percentage time preprocessing: 14.47%
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 0.17 sec, max 0.17 sec, min 0.16 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 0.17 sec, max 0.18 sec, min 0.16 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 0.16 sec, max 0.17 sec, min 0.15 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    7 times, average 0.16 sec, max 0.18 sec, min 0.14 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 0.16 sec, max 0.17 sec, min 0.15 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.74% of total time (compiled   32 times, average 0.14 sec, max 0.45 sec, min 0.10 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.42% of total time (compiled   32 times, average 0.13 sec, max 0.15 sec, min 0.11 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.15% of total time (compiled   17 times, average 0.14 sec, max 0.37 sec, min 0.11 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.18% of total time (compiled   17 times, average 0.07 sec, max 0.29 sec, min 0.05 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.91% of total time (compiled    7 times, average 0.17 sec, max 0.17 sec, min 0.16 sec)
+[2024.04.12-09.38.07:534][ 63]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.38.12:906][117]LogSlate: Window 'Message Log' being destroyed
+[2024.04.12-09.38.12:909][117]LogSlate: Window 'Message Log' being destroyed
+[2024.04.12-09.38.16:216][319]LogInterchangeEngine: [Pending] Importing
+[2024.04.12-09.38.16:216][319]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do...tal-door-01/textures/gate-3095586_1920.png]
+[2024.04.12-09.38.16:226][320]LogInterchangeEngine: [Pending] Importing
+[2024.04.12-09.38.16:263][320]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.04.12-09.38.16:577][320]LogTexture: Display: Building textures: /Game/Assets/Door/gate-3095586.gate-3095586 (BGRA8, 1382x1920 x1x1x1) (Required Memory Estimate: 77.665039 MB), EncodeSpeed: Fast
+[2024.04.12-09.38.16:584][320]LogInterchangeEngine: [Success] Import Done
+[2024.04.12-09.38.16:593][321]LogInterchangeEngine: [Success] Import Done
+[2024.04.12-09.38.20:407][406]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Door/Door.Door
+[2024.04.12-09.38.20:409][406]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-09.38.20:410][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-09.38.20:540][406]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.38.20:540][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.38.20:540][406]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.38.20:545][406]LogViewport: Scene viewport resized to 277x312, mode Windowed.
+[2024.04.12-09.38.20:579][408]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.38.20:579][408]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.38.20:579][408]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.38.20:579][408]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.38.20:579][408]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.38.23:090][661]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.38.23:090][661]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.38.23:090][661]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.38.23:123][663]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.38.23:123][663]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.38.23:123][663]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.38.23:123][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.38.23:123][663]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.38.25:676][944]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.38.25:676][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.38.25:676][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.38.25:676][944]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.38.26:004][970]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.12-09.38.26:004][970]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.38.26:004][970]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.38.26:004][970]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.38.26:106][982]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-09.38.26:106][982]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.38.26:106][982]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.38.26:106][982]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.38.26:106][982]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.38.26:106][982]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.38.26:860][ 65]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.38.26:860][ 65]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.38.26:860][ 65]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.38.26:860][ 65]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.38.26:890][ 67]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-09.38.26:890][ 67]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.38.26:890][ 67]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.38.26:890][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.38.26:890][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.38.26:890][ 67]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.38.28:605][269]LogMaterialEditor: Applying material Door
+[2024.04.12-09.38.28:648][269]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_1100406353 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BT/4W891XXK5KNYPMLZP5HQ9U.PackageMetaData in its package
+[2024.04.12-09.38.28:660][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.12-09.38.29:039][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.12-09.38.29:054][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.38.29:055][269]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.12-09.38.29:055][269]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.38.29:055][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.38.29:055][269]MaterialEditorStats: Shader Count: 2
+[2024.04.12-09.38.29:062][270]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-09.38.29:062][270]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.38.29:062][270]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.38.29:062][270]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.38.29:062][270]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.38.29:062][270]MaterialEditorStats: Shader Count: 6
+[2024.04.12-09.38.29:471][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.38.29:556][318]LogSavePackage: Moving output files for package: /Game/Assets/Door/gate-3095586
+[2024.04.12-09.38.29:556][318]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/gate-3095586A42F516849011565781D4F8F0AACF8C0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/gate-3095586.uasset'
+[2024.04.12-09.38.29:566][318]LogSavePackage: Moving output files for package: /Game/Assets/Door/Metal_Door_01_Door_001
+[2024.04.12-09.38.29:566][318]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Metal_Door_01_Door_0017C4F462E44212F90801B00A8A24025ED.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/Metal_Door_01_Door_001.uasset'
+[2024.04.12-09.38.30:156][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Door/Door" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/Door.uasset" SILENT=true
+[2024.04.12-09.38.30:158][318]LogSavePackage: Moving output files for package: /Game/Assets/Door/Door
+[2024.04.12-09.38.30:158][318]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorEE64043947623D42D2BF96A730F01C8C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/Door.uasset'
+[2024.04.12-09.38.30:165][318]LogSavePackage: Moving output files for package: /Game/Assets/Door/Metal_Door_01_Frame
+[2024.04.12-09.38.30:165][318]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Metal_Door_01_Frame5E0F2C3B40F0C18AB826EF822F5CCF38.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/Metal_Door_01_Frame.uasset'
+[2024.04.12-09.38.30:170][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 699 ms (total: 5.01 sec)
+[2024.04.12-09.38.30:171][318]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-09.38.30:171][318]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Door/gate-3095586.gate-3095586
+[2024.04.12-09.38.30:171][318]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Door/Metal_Door_01_Door_001.Metal_Door_01_Door_001
+[2024.04.12-09.38.30:171][318]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Door/Door.Door
+[2024.04.12-09.38.30:171][318]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Door/Metal_Door_01_Frame.Metal_Door_01_Frame
+[2024.04.12-09.38.30:171][318]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-09.38.30:171][318]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.38.30:171][318]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.04.12-09.38.30:171][318]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-09.38.30:171][318]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.38.30:171][318]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.38.30:171][318]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.38.30:681][376]LogSlate: Window 'Door' being destroyed
+[2024.04.12-09.38.30:716][376]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-09.38.30:716][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.38.32:662][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Door/Metal_Door_01_Door_001.Metal_Door_01_Door_001
+[2024.04.12-09.38.32:662][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Door/Metal_Door_01_Door_001.Metal_Door_01_Door_001
+[2024.04.12-09.38.32:662][582]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Door/Metal_Door_01_Door_001.Metal_Door_01_Door_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.04.12-09.38.33:339][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Door/Metal_Door_01_Door_001.Metal_Door_01_Door_001
+[2024.04.12-09.38.33:339][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Door/Metal_Door_01_Door_001.Metal_Door_01_Door_001
+[2024.04.12-09.38.33:340][662]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Door/Metal_Door_01_Door_001.Metal_Door_01_Door_001 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_1570654354
+[2024.04.12-09.38.41:368][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.12-09.38.42:875][584]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-09.38.42:895][584]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Door/Door.Door
+	Asset Type: Material
+[2024.04.12-09.38.43:078][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.38.43:088][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.12-09.38.43:097][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.38.46:746][997]Cmd: DELETE
+[2024.04.12-09.38.46:746][997]Cmd: ACTOR DELETE
+[2024.04.12-09.38.46:747][997]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.12-09.38.46:756][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.38.46:758][997]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.04.12-09.38.48:854][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.38.49:890][244]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-09.38.49:902][244]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_1570654354 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/67/0EJHY02KA7XNOGYTOWNOFP.PackageMetaData in its package
+[2024.04.12-09.38.49:903][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-09.38.49:912][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.38.49:919][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.38.49:937][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.43.12:037][ 28]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.12-09.43.12:059][ 28]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.12-09.43.12:064][ 29]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.12-09.43.13:586][212]LogContentBrowser: Attempting asset rename: NewFolder -> Gate
+[2024.04.12-09.43.13:586][212]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.12-09.43.30:394][808]LogAssetTools: Warning: Failed to import 'C:\Users\Students\Downloads\modular-chain-link-fence-set\source\Fence.blend'. Unknown extension 'blend'.
+[2024.04.12-09.43.41:643][859]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Students\Downloads\wire-fence\source\WireFence_V2.fbx)
+[2024.04.12-09.43.41:646][859]LogFbx: Loading FBX Scene from C:\Users\Students\Downloads\wire-fence\source\WireFence_V2.fbx
+[2024.04.12-09.43.41:649][859]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.12-09.43.42:681][859]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.12-09.43.42:749][859]LogFbx: Display: Triangulating static mesh Plane.016
+[2024.04.12-09.43.42:753][859]LogStaticMesh: Display: Building static mesh WireFence_V2...
+[2024.04.12-09.43.42:756][859]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Gate/WireFence_V2.WireFence_V2
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Total job queries 563, among them cache hits 365 (64.83%)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Tracking 198 distinct input hashes that result in 117 distinct outputs (59.09%)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: RAM used: 4.51 MiB of 1.60 GiB budget. Usage: 0.28%
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Shaders Compiled: 198
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Jobs assigned 198, completed 198 (100%)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Average time worker was idle: 41.68 s
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.37 s
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Job execution time: average 0.24 s, max 0.92 s
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Job life time (pending + execution): average 0.31 s, max 1.01
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Shader code size: average 39.391 KiB, min 29.613 KiB, max 63.133 KiB
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.09 s
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Jobs were issued in 198 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Average processing rate: 13.12 jobs/sec
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Total thread time: 26.475 s
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Total thread preprocess time: 3.838 s
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Percentage time preprocessing: 14.50%
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Effective parallelization: 1.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 0.18 sec, max 0.24 sec, min 0.16 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    8 times, average 0.17 sec, max 0.22 sec, min 0.16 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 0.17 sec, max 0.22 sec, min 0.15 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    8 times, average 0.17 sec, max 0.22 sec, min 0.14 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    8 times, average 0.16 sec, max 0.22 sec, min 0.15 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.46% of total time (compiled   33 times, average 0.14 sec, max 0.45 sec, min 0.10 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.23% of total time (compiled   33 times, average 0.13 sec, max 0.15 sec, min 0.11 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.67% of total time (compiled   18 times, average 0.14 sec, max 0.37 sec, min 0.11 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.32% of total time (compiled    8 times, average 0.18 sec, max 0.24 sec, min 0.16 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.21% of total time (compiled    8 times, average 0.17 sec, max 0.22 sec, min 0.16 sec)
+[2024.04.12-09.43.42:839][862]LogShaderCompilers: Display: ================================================
+[2024.04.12-09.43.45:381][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2
+[2024.04.12-09.43.45:381][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2
+[2024.04.12-09.43.45:382][138]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.04.12-09.43.45:997][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2
+[2024.04.12-09.43.45:997][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2
+[2024.04.12-09.43.45:998][211]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2024.04.12-09.43.46:372][255]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2
+[2024.04.12-09.43.46:372][255]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2
+[2024.04.12-09.43.46:374][255]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_1883687355
+[2024.04.12-09.43.58:485][205]LogInterchangeEngine: [Pending] Importing
+[2024.04.12-09.43.58:485][205]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/internal_ground_ao_texture.jpeg]
+[2024.04.12-09.43.58:485][205]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.12-09.43.58:485][205]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/lambert1_Metallic_Utility_-_Raw.png]
+[2024.04.12-09.43.58:485][205]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.12-09.43.58:485][205]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/lambert1_Normal_Utility_-_Raw.png]
+[2024.04.12-09.43.58:486][205]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.12-09.43.58:486][205]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/lambert1_Opacity_Utility_-_Raw.png]
+[2024.04.12-09.43.58:486][205]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.12-09.43.58:486][205]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/lambert1_Roughness_Utility_-_Raw.png]
+[2024.04.12-09.43.58:486][205]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.04.12-09.43.58:486][205]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/M_wood_fence_Metallic_Utility_-_Raw.png]
+[2024.04.12-09.43.58:487][205]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.04.12-09.43.58:487][205]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/M_wood_fence_Mixed_AO_Utility_-_Raw.png]
+[2024.04.12-09.43.58:487][205]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.04.12-09.43.58:487][205]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.04.12-09.43.58:487][205]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.04.12-09.43.58:488][205]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.04.12-09.43.58:492][206]LogInterchangeImport: JPEG file [C:/Users/Students/Downloads/wire-fence/textures/internal_ground_ao_texture.jpeg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.12-09.43.58:502][206]LogTexture: Display: Building textures: /Game/Assets/Gate/internal_ground_ao_texture.internal_ground_ao_texture (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.58:504][206]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.04.12-09.43.58:852][206]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.04.12-09.43.58:852][206]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.04.12-09.43.58:852][206]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/M_wood_fence_Normal_Utility_-_Raw.png]
+[2024.04.12-09.43.58:853][206]LogTexture: Display: Building textures: /Game/Assets/Gate/M_wood_fence_Metallic_Utility_-_Raw.M_wood_fence_Metallic_Utility_-_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.58:854][206]LogTexture: Display: Building textures: /Game/Assets/Gate/lambert1_Opacity_Utility_-_Raw.lambert1_Opacity_Utility_-_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.58:857][206]LogTexture: Display: Building textures: /Game/Assets/Gate/M_wood_fence_Mixed_AO_Utility_-_Raw.M_wood_fence_Mixed_AO_Utility_-_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.58:861][206]LogTexture: Display: Building textures: /Game/Assets/Gate/lambert1_Roughness_Utility_-_Raw.lambert1_Roughness_Utility_-_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.58:861][206]LogTexture: Display: Building textures: /Game/Assets/Gate/lambert1_Metallic_Utility_-_Raw.lambert1_Metallic_Utility_-_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.58:894][206]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.12-09.43.58:902][207]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.04.12-09.43.58:902][207]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.04.12-09.43.58:902][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/M_wood_fence_Roughness_Utility_-_Raw.png]
+[2024.04.12-09.43.58:902][207]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.04.12-09.43.58:902][207]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.04.12-09.43.58:902][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/wire_BaseColor.tga.png]
+[2024.04.12-09.43.58:902][207]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.04.12-09.43.58:902][207]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.04.12-09.43.58:903][207]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Students/Do.../wire-fence/textures/wood_BaseColor.tga.png]
+[2024.04.12-09.43.58:903][207]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.04.12-09.43.58:903][207]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.12-09.43.58:903][207]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.12-09.43.58:982][207]LogTexture: Display: Building textures: /Game/Assets/Gate/lambert1_Normal_Utility_-_Raw.lambert1_Normal_Utility_-_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.59:253][207]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.12-09.43.59:256][207]LogTexture: Display: Building textures: /Game/Assets/Gate/M_wood_fence_Normal_Utility_-_Raw.M_wood_fence_Normal_Utility_-_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.59:263][207]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.04.12-09.43.59:263][207]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.12-09.43.59:590][208]LogTexture: Display: Building textures: /Game/Assets/Gate/M_wood_fence_Roughness_Utility_-_Raw.M_wood_fence_Roughness_Utility_-_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.59:591][208]LogTexture: Display: Building textures: /Game/Assets/Gate/wire_BaseColor_tga.wire_BaseColor_tga (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.59:593][208]LogTexture: Display: Building textures: /Game/Assets/Gate/wood_BaseColor_tga.wood_BaseColor_tga (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.12-09.43.59:600][208]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.12-09.43.59:600][208]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.12-09.43.59:656][208]LogInterchangeEngine: [Success] Import Done
+[2024.04.12-09.43.59:670][209]LogInterchangeEngine: [Success] Import Done
+[2024.04.12-09.44.10:731][538]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Gate/lambert1.lambert1
+[2024.04.12-09.44.10:734][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-09.44.10:734][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-09.44.10:856][538]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.10:856][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.44.10:856][538]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.10:864][538]LogViewport: Scene viewport resized to 277x313, mode Windowed.
+[2024.04.12-09.44.10:899][540]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.44.10:899][540]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.44.10:899][540]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.44.10:899][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.44.10:899][540]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.44.31:573][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.12-09.44.31:577][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.44.31:617][322]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7U/ZZRLWF8POK4G7SHA0MS68I
+[2024.04.12-09.44.31:617][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ZZRLWF8POK4G7SHA0MS68I3B027F3E44EFE9D9CEF244BFE158E861.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7U/ZZRLWF8POK4G7SHA0MS68I.uasset'
+[2024.04.12-09.44.31:626][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/WireFence_V2
+[2024.04.12-09.44.31:626][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/WireFence_V214ED0A2F4730E6552F99CA8B3EA256EF.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/WireFence_V2.uasset'
+[2024.04.12-09.44.31:637][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gate/lambert1" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/lambert1.uasset" SILENT=true
+[2024.04.12-09.44.31:638][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/lambert1
+[2024.04.12-09.44.31:638][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/lambert1D3E095494C254629AC292BABFF1A2145.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/lambert1.uasset'
+[2024.04.12-09.44.31:650][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/M_wood_fence
+[2024.04.12-09.44.31:650][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/M_wood_fence98AEBC7D4B055D002F04C79CA384A1FD.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/M_wood_fence.uasset'
+[2024.04.12-09.44.31:653][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/internal_ground_ao_texture
+[2024.04.12-09.44.31:653][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/internal_ground_ao_texture8144EF114320386B939D4EA7BCA554E4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/internal_ground_ao_texture.uasset'
+[2024.04.12-09.44.31:663][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/lambert1_Metallic_Utility_-_Raw
+[2024.04.12-09.44.31:663][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/lambert1_Metallic_Utility_-_Raw01EA701B43A731DDCA5F30818CD2F14F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/lambert1_Metallic_Utility_-_Raw.uasset'
+[2024.04.12-09.44.31:691][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/lambert1_Normal_Utility_-_Raw
+[2024.04.12-09.44.31:692][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/lambert1_Normal_Utility_-_RawC564A59D4348D26274D706ACD97E2DE1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/lambert1_Normal_Utility_-_Raw.uasset'
+[2024.04.12-09.44.31:701][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/lambert1_Opacity_Utility_-_Raw
+[2024.04.12-09.44.31:701][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/lambert1_Opacity_Utility_-_RawA574978F47C8075866212D8AB602A4F0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/lambert1_Opacity_Utility_-_Raw.uasset'
+[2024.04.12-09.44.31:716][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/lambert1_Roughness_Utility_-_Raw
+[2024.04.12-09.44.31:716][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/lambert1_Roughness_Utility_-_Raw45F7B88944F6ADD7A05709AF1ACC1A3F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/lambert1_Roughness_Utility_-_Raw.uasset'
+[2024.04.12-09.44.31:725][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/M_wood_fence_Metallic_Utility_-_Raw
+[2024.04.12-09.44.31:725][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/M_wood_fence_Metallic_Utility_-_6B2F77CB4A0BCDB49F992CA129BF7BF1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/M_wood_fence_Metallic_Utility_-_Raw.uasset'
+[2024.04.12-09.44.31:740][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/M_wood_fence_Mixed_AO_Utility_-_Raw
+[2024.04.12-09.44.31:740][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/M_wood_fence_Mixed_AO_Utility_-_CC1072324E374FC4F7E6B79ECF1A6FF5.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/M_wood_fence_Mixed_AO_Utility_-_Raw.uasset'
+[2024.04.12-09.44.31:781][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/M_wood_fence_Normal_Utility_-_Raw
+[2024.04.12-09.44.31:781][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/M_wood_fence_Normal_Utility_-_RaD077175F4D6CBFA2558BEC88CCB2284B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/M_wood_fence_Normal_Utility_-_Raw.uasset'
+[2024.04.12-09.44.31:812][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/wire_BaseColor_tga
+[2024.04.12-09.44.31:812][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/wire_BaseColor_tga84EDB7E441177EF1A7641186F0B1B770.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/wire_BaseColor_tga.uasset'
+[2024.04.12-09.44.31:829][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/M_wood_fence_Roughness_Utility_-_Raw
+[2024.04.12-09.44.31:829][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/M_wood_fence_Roughness_Utility_-BA96E57A4BC4C8D114BCF0A7DAD460B4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/M_wood_fence_Roughness_Utility_-_Raw.uasset'
+[2024.04.12-09.44.31:869][322]LogSavePackage: Moving output files for package: /Game/Assets/Gate/wood_BaseColor_tga
+[2024.04.12-09.44.31:869][322]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/wood_BaseColor_tga78F822FE453BF50279421CB1F918A851.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/wood_BaseColor_tga.uasset'
+[2024.04.12-09.44.31:875][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 297 ms (total: 5.31 sec)
+[2024.04.12-09.44.31:877][322]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576CEB01_1883687355
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Gate/WireFence_V2.WireFence_V2
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Gate/lambert1.lambert1
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Gate/M_wood_fence.M_wood_fence
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/internal_ground_ao_texture.internal_ground_ao_texture
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/lambert1_Metallic_Utility_-_Raw.lambert1_Metallic_Utility_-_Raw
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/lambert1_Normal_Utility_-_Raw.lambert1_Normal_Utility_-_Raw
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/lambert1_Opacity_Utility_-_Raw.lambert1_Opacity_Utility_-_Raw
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/lambert1_Roughness_Utility_-_Raw.lambert1_Roughness_Utility_-_Raw
+[2024.04.12-09.44.31:877][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/M_wood_fence_Metallic_Utility_-_Raw.M_wood_fence_Metallic_Utility_-_Raw
+[2024.04.12-09.44.31:878][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/M_wood_fence_Mixed_AO_Utility_-_Raw.M_wood_fence_Mixed_AO_Utility_-_Raw
+[2024.04.12-09.44.31:878][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/M_wood_fence_Normal_Utility_-_Raw.M_wood_fence_Normal_Utility_-_Raw
+[2024.04.12-09.44.31:878][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/wire_BaseColor_tga.wire_BaseColor_tga
+[2024.04.12-09.44.31:878][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/M_wood_fence_Roughness_Utility_-_Raw.M_wood_fence_Roughness_Utility_-_Raw
+[2024.04.12-09.44.31:878][322]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Gate/wood_BaseColor_tga.wood_BaseColor_tga
+[2024.04.12-09.44.34:049][549]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.34:049][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.44.34:049][549]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.34:084][551]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.04.12-09.44.34:084][551]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.12-09.44.34:084][551]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.44.34:084][551]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.12-09.44.34:084][551]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.44.36:417][758]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.36:417][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.44.36:417][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.36:417][758]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.36:754][791]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.12-09.44.36:754][791]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.44.36:754][791]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.36:754][791]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.44.36:853][801]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.04.12-09.44.36:853][801]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.44.36:853][801]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.44.36:853][801]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.44.36:853][801]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.36:853][801]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.44.38:433][976]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.38:433][976]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.44.38:433][976]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.38:434][976]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.38:463][978]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.12-09.44.38:463][978]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.44.38:463][978]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.44.38:463][978]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.44.38:463][978]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.38:463][978]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.44.40:795][227]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.40:795][227]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.44.40:795][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.40:795][227]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.40:831][229]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.12-09.44.40:831][229]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.44.40:831][229]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.44.40:831][229]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.12-09.44.40:831][229]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.40:831][229]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.44.42:811][434]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.42:811][434]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.44.42:811][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.42:811][434]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.43:034][455]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.12-09.44.43:034][455]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.44.43:034][455]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.43:034][455]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.44.43:134][466]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-09.44.43:134][466]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.44.43:134][466]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-09.44.43:134][466]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.44.43:134][466]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.43:134][466]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.44.47:720][960]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.47:720][960]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.44.47:720][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.47:720][960]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.47:757][962]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.12-09.44.47:757][962]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.44.47:757][962]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.12-09.44.47:757][962]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.12-09.44.47:757][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.47:757][962]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.44.50:615][238]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.50:615][238]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.44.50:615][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.50:615][238]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.50:749][251]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.12-09.44.50:749][251]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.44.50:749][251]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.50:749][251]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.44.50:849][261]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.04.12-09.44.50:849][261]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.44.50:849][261]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.12-09.44.50:849][261]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.44.50:849][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.50:849][261]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.44.53:273][489]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.53:273][489]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.44.53:273][489]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.53:273][489]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.53:312][491]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.04.12-09.44.53:312][491]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.44.53:312][491]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.12-09.44.53:312][491]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.12-09.44.53:312][491]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.53:312][491]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.44.56:148][768]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.44.56:148][768]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.44.56:148][768]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.56:148][768]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.44.56:375][784]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.44.56:375][784]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.44.56:375][784]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.56:375][784]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.44.56:471][794]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.12-09.44.56:471][794]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.44.56:471][794]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-09.44.56:471][794]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.44.56:471][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.44.56:471][794]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.45.08:285][958]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.45.08:285][958]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.45.08:285][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.45.08:285][958]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.45.08:327][960]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.12-09.45.08:327][960]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.45.08:327][960]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-09.45.08:327][960]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.45.08:327][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.45.08:327][960]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.45.10:169][140]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.45.10:169][140]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.45.10:169][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.45.10:169][140]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.45.10:397][158]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.12-09.45.10:397][158]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.45.10:397][158]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.45.10:397][158]MaterialEditorStats: Shader Count: 1
+[2024.04.12-09.45.10:480][167]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.12-09.45.10:480][167]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.45.10:480][167]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-09.45.10:480][167]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.45.10:480][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.45.10:480][167]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.45.24:130][664]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.12-09.45.24:130][664]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.45.24:130][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.45.24:130][664]MaterialEditorStats: Shader Count: 0
+[2024.04.12-09.45.24:174][666]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.12-09.45.24:174][666]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.45.24:174][666]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.12-09.45.24:174][666]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.45.24:174][666]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.45.24:174][666]MaterialEditorStats: Shader Count: 4
+[2024.04.12-09.45.26:338][899]LogMaterialEditor: Applying material lambert1
+[2024.04.12-09.45.26:380][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-09.45.26:785][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.12-09.45.36:984][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-09.45.37:533][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gate/lambert1" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/lambert1.uasset" SILENT=true
+[2024.04.12-09.45.37:535][802]LogSavePackage: Moving output files for package: /Game/Assets/Gate/lambert1
+[2024.04.12-09.45.37:535][802]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/lambert1D5902F5344687358A07DD4A07023B760.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Gate/lambert1.uasset'
+[2024.04.12-09.45.37:540][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 556 ms (total: 5.87 sec)
+[2024.04.12-09.45.37:541][802]AssetCheck: New page: Asset Save: lambert1
+[2024.04.12-09.45.37:541][802]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Gate/lambert1.lambert1
+[2024.04.12-09.45.37:541][802]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.12-09.45.37:541][802]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.12-09.45.37:541][802]MaterialEditorStats: MaxSampler: 258 instructions
+[2024.04.12-09.45.37:541][802]MaterialEditorStats: Texture samplers: 7/16
+[2024.04.12-09.45.37:541][802]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.12-09.45.37:541][802]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.12-09.45.37:541][802]MaterialEditorStats: Shader Count: 16
+[2024.04.12-09.45.39:025][965]LogSlate: Window 'lambert1' being destroyed
+[2024.04.12-09.45.39:029][965]LogSlate: Window 'lambert1' being destroyed
+[2024.04.12-09.45.39:075][965]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-09.45.39:075][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-09.45.39:891][ 48]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.12-09.45.41:757][265]Cmd: TRANSACTION UNDO
+[2024.04.12-09.45.41:757][265]LogEditorTransaction: Undo Create Actors
+[2024.04.12-09.45.47:130][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.45.49:069][839]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.12-09.45.49:087][839]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/Assets/Gate/wood_BaseColor_tga.wood_BaseColor_tga
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Gate/M_wood_fence_Roughness_Utility_-_Raw.M_wood_fence_Roughness_Utility_-_Raw
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Gate/wire_BaseColor_tga.wire_BaseColor_tga
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Gate/M_wood_fence_Normal_Utility_-_Raw.M_wood_fence_Normal_Utility_-_Raw
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Gate/M_wood_fence_Mixed_AO_Utility_-_Raw.M_wood_fence_Mixed_AO_Utility_-_Raw
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Gate/M_wood_fence_Metallic_Utility_-_Raw.M_wood_fence_Metallic_Utility_-_Raw
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Gate/lambert1_Roughness_Utility_-_Raw.lambert1_Roughness_Utility_-_Raw
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Gate/lambert1_Opacity_Utility_-_Raw.lambert1_Opacity_Utility_-_Raw
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Gate/lambert1_Normal_Utility_-_Raw.lambert1_Normal_Utility_-_Raw
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Gate/lambert1_Metallic_Utility_-_Raw.lambert1_Metallic_Utility_-_Raw
+	Asset Type: Texture2D
+[2024.04.12-09.45.49:249][839]LogMaterial: Warning: [AssetLog] /Engine/Transient.lambert1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.12-09.45.49:250][839]LogMaterial: Warning: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Assets\Gate\lambert1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.12-09.45.49:359][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.45.49:368][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-09.45.49:376][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-09.45.51:041][ 25]Cmd: SELECT NONE
