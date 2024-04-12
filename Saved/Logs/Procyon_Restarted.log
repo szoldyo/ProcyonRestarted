@@ -4055,3 +4055,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-10.33.51:360][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
 [2024.04.12-10.33.55:521][941]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
 [2024.04.12-10.33.55:521][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-11.03.21:465][476]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:43.979 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 60311 files in 46078 folders with total size 530 MiB.
+[2024.04.12-12.03.21:493][465]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:44.007 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 60311 files in 46078 folders with total size 530 MiB.
