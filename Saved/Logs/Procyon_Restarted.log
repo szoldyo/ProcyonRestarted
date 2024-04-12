@@ -1139,3 +1139,88 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-07.59.50:118][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.04.12-07.59.51:121][ 68]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.04.12-08.03.19:758][438]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:42.273 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 59685 files in 45447 folders with total size 500 MiB.
+[2024.04.12-08.34.18:974][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.34.19:028][263]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-08.34.19:697][328]Cmd: DELETE
+[2024.04.12-08.34.19:698][328]Cmd: ACTOR DELETE
+[2024.04.12-08.34.19:703][328]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.12-08.34.19:707][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.12-08.34.19:708][328]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.04.12-08.37.01:474][455]Cmd: MODE ROTGRID=0
+[2024.04.12-08.37.01:841][497]Cmd: MODE ROTGRID=1
+[2024.04.12-08.37.18:765][479]Cmd: MODE ROTGRID=0
+[2024.04.12-08.39.35:151][566]Cmd: MODE GRID=0
+[2024.04.12-08.40.27:755][804]Cmd: MODE GRID=1
+[2024.04.12-08.40.28:618][903]Cmd: MODE ROTGRID=1
+[2024.04.12-08.41.55:329][747]Cmd: SELECT NONE
+[2024.04.12-08.42.34:327][145]Cmd: DELETE
+[2024.04.12-08.42.34:327][145]Cmd: ACTOR DELETE
+[2024.04.12-08.42.34:328][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.12-08.42.34:331][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.12-08.42.34:333][145]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2024.04.12-08.42.35:532][282]Cmd: DELETE
+[2024.04.12-08.42.35:532][282]Cmd: ACTOR DELETE
+[2024.04.12-08.42.35:533][282]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.12-08.42.35:535][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.04.12-08.42.35:537][282]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2024.04.12-08.43.09:303][ 59]Cmd: SELECT NONE
+[2024.04.12-08.44.47:496][379]Cmd: SELECT NONE
+[2024.04.12-08.44.52:126][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.12-08.44.52:131][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-08.44.52:169][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.04.12-08.44.52:171][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.04.12-08.44.52:174][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.04.12-08.44.52:179][925]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.003492 seconds
+[2024.04.12-08.44.52:180][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/33/26MOEULJVVIOSMYKJAI120
+[2024.04.12-08.44.52:181][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/26MOEULJVVIOSMYKJAI120205220CC44F692E86FA7EDBD25E0B38F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/33/26MOEULJVVIOSMYKJAI120.uasset'
+[2024.04.12-08.44.52:182][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XG/ZTWM3FWX4Q2HQK4VX8OGXZ
+[2024.04.12-08.44.52:182][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/ZTWM3FWX4Q2HQK4VX8OGXZ7A8AAE3B44A40E231FDC95935EC07287.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XG/ZTWM3FWX4Q2HQK4VX8OGXZ.uasset'
+[2024.04.12-08.44.52:184][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3T/72IC5Z9QS35TGI01JDT1WH
+[2024.04.12-08.44.52:184][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/72IC5Z9QS35TGI01JDT1WH4598F28747D95B3E8CBA2BA4633E151E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3T/72IC5Z9QS35TGI01JDT1WH.uasset'
+[2024.04.12-08.44.52:185][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0M/UAXUO0YQO7U3BEAAZ0XCIH
+[2024.04.12-08.44.52:185][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/UAXUO0YQO7U3BEAAZ0XCIH4F9DA939462BD79DD6A925A3207B64BA.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0M/UAXUO0YQO7U3BEAAZ0XCIH.uasset'
+[2024.04.12-08.44.52:186][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VE/8YT8V55MWGJBQ3FVH5GLPO
+[2024.04.12-08.44.52:186][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/8YT8V55MWGJBQ3FVH5GLPO455B5D394D176A85FE97CC9F31C99266.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VE/8YT8V55MWGJBQ3FVH5GLPO.uasset'
+[2024.04.12-08.44.52:187][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JH/COGEW46A8AQ4FYX0OMR06P
+[2024.04.12-08.44.52:187][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/COGEW46A8AQ4FYX0OMR06P06135C7747F47186147444858E02417D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/JH/COGEW46A8AQ4FYX0OMR06P.uasset'
+[2024.04.12-08.44.52:188][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PU/B4H6CN5PB5EI7ZR48M6AUI
+[2024.04.12-08.44.52:188][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/B4H6CN5PB5EI7ZR48M6AUI53C574804F08D955D25763BDE5688F03.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PU/B4H6CN5PB5EI7ZR48M6AUI.uasset'
+[2024.04.12-08.44.52:189][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/86/NB4KEG7K8ONITOJ9JGOVUY
+[2024.04.12-08.44.52:189][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/NB4KEG7K8ONITOJ9JGOVUY4B504FBF4BACA2DA14233CBFCC1C6B16.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/86/NB4KEG7K8ONITOJ9JGOVUY.uasset'
+[2024.04.12-08.44.52:190][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PY/AM06BX9BIRXCAZIQK4IIGB
+[2024.04.12-08.44.52:190][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AM06BX9BIRXCAZIQK4IIGB06BFDBC049CBD436817E81A2A6C1655B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PY/AM06BX9BIRXCAZIQK4IIGB.uasset'
+[2024.04.12-08.44.52:191][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Y6/O3PTMS3B21XFAUPUFGL5EY
+[2024.04.12-08.44.52:191][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/O3PTMS3B21XFAUPUFGL5EY12C5B7E240B8270F562241AEF636EE4E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Y6/O3PTMS3B21XFAUPUFGL5EY.uasset'
+[2024.04.12-08.44.52:193][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/J0/A0T48JDBXCHLPRT3JH4VZS
+[2024.04.12-08.44.52:193][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/A0T48JDBXCHLPRT3JH4VZS12552DCF43E71585EE3B889501AA9986.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/J0/A0T48JDBXCHLPRT3JH4VZS.uasset'
+[2024.04.12-08.44.52:194][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0P/YCTVPNM8QG1QFC1UJS8Y5H
+[2024.04.12-08.44.52:194][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/YCTVPNM8QG1QFC1UJS8Y5H9008C56F408B86C013E33F9D41204B15.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0P/YCTVPNM8QG1QFC1UJS8Y5H.uasset'
+[2024.04.12-08.44.52:195][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/X5/PWQLOO0TSX9P1LW32EFE8S
+[2024.04.12-08.44.52:195][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PWQLOO0TSX9P1LW32EFE8S172E535443A9588EDDD6BABB5B121092.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/X5/PWQLOO0TSX9P1LW32EFE8S.uasset'
+[2024.04.12-08.44.52:196][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NQ/4V8TFAXH170GBIF2FJZ8RM
+[2024.04.12-08.44.52:196][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/4V8TFAXH170GBIF2FJZ8RMEAC3CEF34169132925520A86E0D24EB1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NQ/4V8TFAXH170GBIF2FJZ8RM.uasset'
+[2024.04.12-08.44.52:197][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KZ/I3F6EY0Y4R0VFKXWPN47L4
+[2024.04.12-08.44.52:197][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/I3F6EY0Y4R0VFKXWPN47L4F78C73D94BB15412878F67A67A6E1091.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KZ/I3F6EY0Y4R0VFKXWPN47L4.uasset'
+[2024.04.12-08.44.52:198][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4L/YC7KIXP0EFUWRNQPZDXK20
+[2024.04.12-08.44.52:198][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/YC7KIXP0EFUWRNQPZDXK20C53AD05141CCCF1B99D3D3AB609F1D22.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4L/YC7KIXP0EFUWRNQPZDXK20.uasset'
+[2024.04.12-08.44.52:199][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AY/AL6N5MGSSV2IIP1SJ1THNR
+[2024.04.12-08.44.52:199][925]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/AL6N5MGSSV2IIP1SJ1THNRE99D3E1548181F08338D4A885279779D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AY/AL6N5MGSSV2IIP1SJ1THNR.uasset'
+[2024.04.12-08.44.52:206][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms
+[2024.04.12-08.44.52:211][925]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F23457CDEA01_1740866347
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F23457D7EA01_1953058109
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1310086799
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1330729800
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1356384801
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1356385802
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1356385803
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407330804
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407331805
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407332806
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407332807
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407333808
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1407333809
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444365810
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444366811
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444366812
+[2024.04.12-08.44.52:211][925]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F2345769EB01_1444366813
