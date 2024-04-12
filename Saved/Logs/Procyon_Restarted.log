@@ -4006,3 +4006,52 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-10.32.16:016][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 8.77 sec)
 [2024.04.12-10.32.16:016][496]AssetCheck: New page: Asset Save: BP_Player
 [2024.04.12-10.32.16:016][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.12-10.32.54:509][823]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.12-10.32.54:509][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-10.32.54:509][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-10.33.06:293][207]LogSlate: Took 0.003121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.12-10.33.11:464][808]BlueprintLog: New page: Compile BP_ProcyonGameInstance
+[2024.04.12-10.33.11:476][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.12-10.33.11:868][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.12-10.33.11:872][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-10.33.11:906][850]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.12-10.33.11:907][850]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstanceE7BC384C4D23C2915C6C53B63195BD1D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.12-10.33.11:911][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 8.81 sec)
+[2024.04.12-10.33.11:912][850]AssetCheck: New page: Asset Save: BP_ProcyonGameInstance
+[2024.04.12-10.33.11:912][850]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.12-10.33.20:030][817]BlueprintLog: New page: Compile BP_ProcyonGameInstance
+[2024.04.12-10.33.20:041][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.12-10.33.20:271][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-10.33.20:275][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-10.33.20:313][841]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.12-10.33.20:313][841]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstanceC8E8B62448E887A8981C7882C73E448A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.12-10.33.20:318][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 8.85 sec)
+[2024.04.12-10.33.20:319][841]AssetCheck: New page: Asset Save: BP_ProcyonGameInstance
+[2024.04.12-10.33.20:319][841]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.12-10.33.26:362][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.12-10.33.26:366][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-10.33.26:402][539]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.12-10.33.26:402][539]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstanceFAAF077C41D52B2D34C02A9D9103FA04.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.12-10.33.26:406][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 8.89 sec)
+[2024.04.12-10.33.26:407][539]AssetCheck: New page: Asset Save: BP_ProcyonGameInstance
+[2024.04.12-10.33.26:407][539]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.12-10.33.45:878][827]BlueprintLog: New page: Compile BP_ProcyonGameInstance
+[2024.04.12-10.33.45:888][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.12-10.33.46:229][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.12-10.33.46:232][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-10.33.46:269][863]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.12-10.33.46:270][863]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstanceCE0AA11E409B20FA2D4FD89CB26439BB.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.12-10.33.46:274][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 8.93 sec)
+[2024.04.12-10.33.46:275][863]AssetCheck: New page: Asset Save: BP_ProcyonGameInstance
+[2024.04.12-10.33.46:275][863]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.12-10.33.50:243][330]BlueprintLog: New page: Compile BP_ProcyonGameInstance
+[2024.04.12-10.33.50:254][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.12-10.33.51:305][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.12-10.33.51:308][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-10.33.51:354][447]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.12-10.33.51:354][447]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstanceD7FC4F6149E5595F9EF95B91536BAE7E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.12-10.33.51:359][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 8.98 sec)
+[2024.04.12-10.33.51:360][447]AssetCheck: New page: Asset Save: BP_ProcyonGameInstance
+[2024.04.12-10.33.51:360][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.12-10.33.55:521][941]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-10.33.55:521][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
