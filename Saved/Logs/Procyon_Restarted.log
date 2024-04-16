@@ -16217,3 +16217,32 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.16-10.58.41:161][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
 [2024.04.16-10.58.41:202][515]LogPlayLevel: Display: Destroying online subsystem :Context_116
 [2024.04.16-11.57.29:869][520]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:45.980 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 61395 files in 47043 folders with total size 599 MiB.
+[2024.04.16-12.49.10:992][487]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.16-12.49.10:998][487]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.16-12.49.11:002][487]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.16-12.49.11:012][488]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.16-12.49.16:292][805]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EnemyPool
+[2024.04.16-12.49.16:296][805]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/BP_EnemyPool.
+[2024.04.16-12.49.16:297][805]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.16-12.49.18:421][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-12.49.18:476][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-12.49.18:477][931]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-12.49.18:477][931]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool804FA16D47F4E54DFF48A4AEEECC2561.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-12.49.18:478][931]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/BP_EnemyPool.
+[2024.04.16-12.49.18:483][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 15.8 sec)
+[2024.04.16-12.49.18:484][931]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-12.49.18:484][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-12.52.47:367][459]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-12.52.47:367][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-12.52.47:367][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-12.52.51:529][703]LogEditorTransaction: Undo Delete current selection
+[2024.04.16-12.52.55:781][932]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-12.52.55:803][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.16-12.52.56:079][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-12.52.56:084][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-12.52.56:129][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-12.52.56:130][946]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-12.52.56:130][946]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool80A4D62649B6306082096B9B22829B64.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-12.52.56:135][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 15.8 sec)
+[2024.04.16-12.52.56:136][946]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-12.52.56:136][946]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
