@@ -16246,3 +16246,71 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.16-12.52.56:135][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 15.8 sec)
 [2024.04.16-12.52.56:136][946]AssetCheck: New page: Asset Save: BP_EnemyPool
 [2024.04.16-12.52.56:136][946]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-12.54.43:934][258]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-12.54.43:951][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.16-12.54.44:642][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-12.54.44:647][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-12.54.44:704][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-12.54.44:705][297]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-12.54.44:705][297]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool01C2833A43521D14209F61A9A76D5C5C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-12.54.44:710][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 15.9 sec)
+[2024.04.16-12.54.44:710][297]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-12.54.44:710][297]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-12.55.34:141][396]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-12.55.34:157][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.16-12.55.34:926][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-12.55.34:931][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-12.55.34:982][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-12.55.34:984][437]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-12.55.34:984][437]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPoolC87836D44A6660D7C835E4AAC05E81EF.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-12.55.34:988][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 15.9 sec)
+[2024.04.16-12.55.34:989][437]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-12.55.34:989][437]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-12.55.39:688][639]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-12.55.39:706][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.16-12.55.40:519][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-12.55.40:524][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-12.55.40:568][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-12.55.40:570][685]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-12.55.40:571][685]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool82D5644444863FFFC9EB148CF4942F8A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-12.55.40:575][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 16.0 sec)
+[2024.04.16-12.55.40:576][685]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-12.55.40:576][685]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-12.57.29:893][245]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:46.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 61395 files in 47043 folders with total size 599 MiB.
+[2024.04.16-13.00.35:334][159]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-13.00.35:353][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.16-13.00.36:159][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.16-13.00.36:164][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-13.00.36:221][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-13.00.36:223][204]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-13.00.36:224][204]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool66753EF2448FF5E3F13ED3B9E39FDB27.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-13.00.36:228][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 16.1 sec)
+[2024.04.16-13.00.36:229][204]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-13.00.36:229][204]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-13.01.35:608][713]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-13.01.35:627][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.16-13.01.56:977][968]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-13.01.56:996][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.16-13.01.57:568][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-13.01.57:573][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-13.01.57:625][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-13.01.57:627][999]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-13.01.57:628][999]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool8796552040BD5078079A00A3457F876C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-13.01.57:633][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 16.1 sec)
+[2024.04.16-13.01.57:634][999]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-13.01.57:634][999]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-13.02.33:298][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.16-13.02.33:303][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-13.02.33:355][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-13.02.33:357][104]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-13.02.33:358][104]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool965BAF8847390A5B9206099753D76050.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-13.02.33:362][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 16.2 sec)
+[2024.04.16-13.02.33:363][104]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-13.02.33:363][104]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-13.02.40:733][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.16-13.02.40:737][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-13.02.40:796][534]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/90/IPORRP3GX8075JZT06EXMW
+[2024.04.16-13.02.40:796][534]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/IPORRP3GX8075JZT06EXMWE0C5E64D427A6E0F9D0E3E9A5C9AABD0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/90/IPORRP3GX8075JZT06EXMW.uasset'
+[2024.04.16-13.02.40:804][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 16.2 sec)
+[2024.04.16-13.02.40:805][534]AssetCheck: New page: Asset Save: BP_EnemyBase_C_UAID_106838F23457CBEA01_2098944991
+[2024.04.16-13.02.40:805][534]LogContentValidation: Display: Validating /Game/Enemy/BP_EnemyBase.BP_EnemyBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyBase_C_UAID_106838F23457CBEA01_2098944991
