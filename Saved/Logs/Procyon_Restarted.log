@@ -1157,3 +1157,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.16-08.53.52:434][ 42]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.04.16-08.53.52:434][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.04.16-08.53.52:490][ 42]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
+[2024.04.16-08.57.29:168][708]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:45.280 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 61354 files in 47002 folders with total size 597 MiB.
