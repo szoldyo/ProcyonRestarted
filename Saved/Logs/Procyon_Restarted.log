@@ -19075,3 +19075,150 @@ Script Stack (5 frames) :
 [2024.04.16-14.50.55:859][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 20.9 sec)
 [2024.04.16-14.50.55:860][981]AssetCheck: New page: Asset Save: BP_Player
 [2024.04.16-14.50.55:860][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-14.51.13:119][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.16-14.51.13:125][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.51.13:156][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.16-14.51.13:167][439]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.16-14.51.13:168][439]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBaseF8CFFEB446BA5AC0F6DCD2A6E5E82114.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.16-14.51.13:175][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 20.9 sec)
+[2024.04.16-14.51.13:175][439]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.04.16-14.51.13:175][439]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.16-14.51.28:516][835]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.16-14.51.28:577][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.16-14.52.03:925][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.16-14.52.03:943][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2024.04.16-14.52.03:943][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/BP_EnemyBase] ([2] browsable assets)...
+[2024.04.16-14.52.03:973][565]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase]
+[2024.04.16-14.52.03:973][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/BP_EnemyBase]
+[2024.04.16-14.52.03:985][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/BP_EnemyBase_Auto5
+[2024.04.16-14.52.03:985][565]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBase_Auto50071CF184C101A0A00DEC98B4D6CF27E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/Enemy/BP_EnemyBase_Auto5.uasset'
+[2024.04.16-14.52.03:986][565]LogFileHelpers: Auto-saving content packages took 0.043
+[2024.04.16-14.54.22:733][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.16-14.54.22:740][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.54.22:804][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.16-14.54.22:816][218]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.16-14.54.22:816][218]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBase7367CA9941D015458FE45BB1E0E27739.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.16-14.54.22:817][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-14.54.22:820][218]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-14.54.22:820][218]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool1251B3B549677249DE02AE85DFD39FCA.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-14.54.22:826][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 21.0 sec)
+[2024.04.16-14.54.22:827][218]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-14.54.22:827][218]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.16-14.54.22:827][218]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-14.54.52:360][809]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-14.54.52:362][809]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Enemy\BP_EnemyPool.uasset: [Compiler] This blueprint (self) is not a BP_EnemyBase_C, therefore ' Target ' must have a connection.
+[2024.04.16-14.54.52:390][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.16-14.54.53:756][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.16-14.55.22:069][501]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-14.55.22:071][501]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Enemy\BP_EnemyPool.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_EnemyBase  to imply a specific type.
+[2024.04.16-14.55.22:071][501]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Enemy\BP_EnemyPool.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.04.16-14.55.22:098][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.16-14.57.28:061][585]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-14.57.28:090][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.16-14.57.28:538][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.16-14.57.28:544][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.57.28:593][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-14.57.28:596][608]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-14.57.28:597][608]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool121C0B51423177E11C7675997F9207A8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-14.57.28:602][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 21.1 sec)
+[2024.04.16-14.57.28:603][608]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-14.57.28:603][608]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-14.57.28:943][629]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:45.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 61411 files in 47059 folders with total size 599 MiB.
+[2024.04.16-14.57.39:753][254]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-14.57.39:782][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.16-14.57.40:399][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.16-14.57.40:405][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.57.40:453][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-14.57.40:456][288]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-14.57.40:456][288]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool1BB3174146DF4E3D449F1CB0C6E885F6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-14.57.40:462][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 21.1 sec)
+[2024.04.16-14.57.40:463][288]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-14.57.40:463][288]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-14.57.47:444][671]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-14.57.47:475][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.16-14.57.47:871][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.16-14.57.47:877][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.57.47:926][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-14.57.47:930][691]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-14.57.47:930][691]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool01A415344C3E0C0DBC98CDBB4D941E2A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-14.57.47:935][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 21.2 sec)
+[2024.04.16-14.57.47:936][691]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-14.57.47:936][691]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-14.57.56:218][182]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-14.57.56:223][182]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-14.57.56:223][182]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-14.57.56:224][182]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 154 ms)
+[2024.04.16-14.57.56:224][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-14.57.56:224][182]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 16:57:56)
+[2024.04.16-14.57.56:224][182]LogPlayLevel: Display: Creating online subsystem for client :Context_157
+[2024.04.16-14.57.56:226][182]LogOnline: OSS: Created online subsystem instance for: :Context_157
+[2024.04.16-14.57.56:234][183]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-14.57.56:239][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004122s)
+[2024.04.16-14.57.56:239][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004152s)
+[2024.04.16-14.57.56:250][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.16-14.57.56:254][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-14.57.56:254][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-14.57.56:254][183]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-14.57.56:254][183]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-14.57.56:254][183]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-14.57.56:254][183]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-14.57.56:254][183]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-14.57.56:256][183]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-14.57.56:256][183]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 540 ms)
+[2024.04.16-14.57.56:256][183]LogPlayLevel: PIE: World Init took: (0.001988s)
+[2024.04.16-14.57.56:256][183]LogAudio: Display: Creating Audio Device:                 Id: 122, Scope: Unique, Realtime: True
+[2024.04.16-14.57.56:256][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-14.57.56:256][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-14.57.56:256][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-14.57.56:256][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-14.57.56:256][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-14.57.56:256][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-14.57.56:256][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-14.57.56:256][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-14.57.56:256][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-14.57.56:256][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-14.57.56:256][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-14.57.56:258][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-14.57.56:276][183]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-14.57.56:277][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-14.57.56:277][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-14.57.56:277][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-14.57.56:277][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=122
+[2024.04.16-14.57.56:277][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=122
+[2024.04.16-14.57.56:278][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=122
+[2024.04.16-14.57.56:279][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=122
+[2024.04.16-14.57.56:279][183]LogInit: FAudioDevice initialized with ID 122.
+[2024.04.16-14.57.56:279][183]LogAudio: Display: Audio Device (ID: 122) registered with world 'ThirdPersonMap'.
+[2024.04.16-14.57.56:279][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 122
+[2024.04.16-14.57.56:316][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.57.56:316][183]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-14.57.56:318][183]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-15.57.56
+[2024.04.16-14.57.56:318][183]LogWorld: Bringing up level for play took: 0.001676
+[2024.04.16-14.57.56:329][183]PIE: Server logged in
+[2024.04.16-14.57.56:329][183]PIE: Play in editor total start time 0.106 seconds.
+[2024.04.16-14.57.56:334][183]LogViewport: Scene viewport resized to 1572x1066, mode Windowed.
+[2024.04.16-14.57.59:639][361]LogBlueprintUserMessages: [BP_EnemyPool] Hello
+[2024.04.16-14.58.00:507][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-14.58.00:507][411]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-14.58.00:508][411]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-14.58.00:512][411]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-14.58.00:512][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.58.00:512][411]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-14.58.00:514][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-14.58.00:518][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-14.58.00:532][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-14.58.00:533][411]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 122
+[2024.04.16-14.58.00:533][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=122
+[2024.04.16-14.58.00:534][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=122
+[2024.04.16-14.58.00:540][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.16-14.58.00:573][413]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2024.04.16-14.58.03:586][590]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.16-14.58.03:615][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.16-14.58.04:017][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.16-14.58.04:023][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-14.58.04:056][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.16-14.58.04:060][611]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.16-14.58.04:060][611]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPoolCC0B719843D7729ED875BB9A4B04170C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.16-14.58.04:065][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 21.2 sec)
+[2024.04.16-14.58.04:066][611]AssetCheck: New page: Asset Save: BP_EnemyPool
+[2024.04.16-14.58.04:066][611]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
