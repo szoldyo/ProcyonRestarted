@@ -16216,3 +16216,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.16-10.58.41:155][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
 [2024.04.16-10.58.41:161][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
 [2024.04.16-10.58.41:202][515]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2024.04.16-11.57.29:869][520]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:45.980 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 61395 files in 47043 folders with total size 599 MiB.
