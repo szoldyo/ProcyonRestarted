@@ -8680,3 +8680,1340 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.16-09.51.17:543][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 4.48 sec)
 [2024.04.16-09.51.17:544][770]AssetCheck: New page: Asset Save: BP_Player
 [2024.04.16-09.51.17:544][770]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.52.47:682][459]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.52.47:692][459]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Player\BP_Player.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_ProcyonGameInstance  to imply a specific type.
+[2024.04.16-09.52.47:693][459]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Player\BP_Player.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.04.16-09.52.47:729][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.16-09.52.48:032][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.16-09.52.48:039][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.52.48:117][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.52.48:141][465]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.52.48:141][465]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player9B605CAA4B1854E7C47D838D6948D738.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.52.48:148][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 4.58 sec)
+[2024.04.16-09.52.48:149][465]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.52.48:149][465]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.53.09:309][691]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.53.09:321][691]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Player\BP_Player.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_ProcyonGameInstance  to imply a specific type.
+[2024.04.16-09.53.09:322][691]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Player\BP_Player.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.04.16-09.53.09:354][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.16-09.53.25:038][594]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.53.25:086][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.16-09.53.28:567][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.53.28:572][778]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.53.28:572][778]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.53.28:573][778]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 40 ms)
+[2024.04.16-09.53.28:575][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.53.28:575][778]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:53:28)
+[2024.04.16-09.53.28:575][778]LogPlayLevel: Display: Creating online subsystem for client :Context_48
+[2024.04.16-09.53.28:577][778]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.04.16-09.53.28:585][779]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.53.28:589][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003798s)
+[2024.04.16-09.53.28:589][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003824s)
+[2024.04.16-09.53.28:598][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-09.53.28:604][779]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.53.28:604][779]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.53.28:604][779]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.53.28:604][779]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.53.28:604][779]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.53.28:604][779]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.53.28:604][779]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.53.28:605][779]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.53.28:605][779]LogWorldPartition: Display: WorldPartition initialize took 991 us (total: 449 ms)
+[2024.04.16-09.53.28:605][779]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2024.04.16-09.53.28:605][779]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.04.16-09.53.28:605][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.53.28:605][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.53.28:605][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.53.28:605][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.53.28:605][779]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.53.28:605][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.53.28:605][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.53.28:605][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.53.28:606][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.53.28:606][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.53.28:606][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.53.28:607][779]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.53.28:625][779]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.53.28:625][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.53.28:625][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.53.28:625][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.53.28:627][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.04.16-09.53.28:627][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.04.16-09.53.28:628][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.04.16-09.53.28:628][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.04.16-09.53.28:628][779]LogInit: FAudioDevice initialized with ID 32.
+[2024.04.16-09.53.28:628][779]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.53.28:628][779]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.04.16-09.53.28:656][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.53.28:656][779]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.53.28:660][779]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.53.28
+[2024.04.16-09.53.28:662][779]LogWorld: Bringing up level for play took: 0.005488
+[2024.04.16-09.53.28:669][779]PIE: Server logged in
+[2024.04.16-09.53.28:673][779]PIE: Play in editor total start time 0.101 seconds.
+[2024.04.16-09.53.28:674][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.28:674][779]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.28:682][779]LogViewport: Scene viewport resized to 1430x1470, mode Windowed.
+[2024.04.16-09.53.28:692][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.28:692][780]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.28:916][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.28:916][781]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.28:988][782]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.28:988][782]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:005][783]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:005][783]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:021][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:021][784]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:038][785]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:038][785]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:055][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:055][786]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:071][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:071][787]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:088][788]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:088][788]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:105][789]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:105][789]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:121][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:121][790]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:138][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:138][791]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:155][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:155][792]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:172][793]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:172][793]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:188][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:188][794]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:205][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:205][795]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:222][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:222][796]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:238][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:238][797]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:255][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:255][798]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:271][799]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:271][799]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:288][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:288][800]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:305][801]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:305][801]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:321][802]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:321][802]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:338][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:338][803]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:355][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:355][804]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:371][805]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:371][805]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:388][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:388][806]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:404][807]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:404][807]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:422][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:422][808]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:438][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:438][809]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:455][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:455][810]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:471][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:471][811]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:488][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:488][812]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:510][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:510][813]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:521][814]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:521][814]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:538][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:538][815]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:554][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:554][816]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:571][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:571][817]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:588][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:588][818]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:605][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:605][819]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:621][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:621][820]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:638][821]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:638][821]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:655][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:655][822]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:672][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:672][823]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:688][824]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:688][824]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:705][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:705][825]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:721][826]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:722][826]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:738][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:738][827]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:755][828]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:755][828]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:771][829]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:788][830]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:788][830]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:805][831]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:805][831]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:821][832]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:821][832]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:838][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:838][833]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:855][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:855][834]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:871][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:871][835]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:888][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:888][836]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:905][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:905][837]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:921][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:921][838]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:938][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:938][839]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:954][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:954][840]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:971][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:971][841]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.29:988][842]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.29:988][842]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:005][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:005][843]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:021][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:021][844]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:038][845]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:038][845]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:055][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:055][846]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:071][847]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:071][847]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:088][848]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:088][848]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:105][849]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:105][849]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:121][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:121][850]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:138][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:138][851]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:155][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:155][852]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:171][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:171][853]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:188][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:188][854]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:205][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:205][855]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:221][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:221][856]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:238][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:238][857]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:255][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:255][858]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:271][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:272][859]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:288][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:288][860]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:305][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:305][861]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:321][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:321][862]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:338][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:338][863]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:354][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:355][864]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:371][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:371][865]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:388][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:388][866]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:404][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:404][867]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:421][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:421][868]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:438][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:438][869]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:455][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:455][870]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:471][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:471][871]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:488][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:488][872]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:505][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:505][873]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:522][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:522][874]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:538][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:538][875]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:555][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:555][876]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:571][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:571][877]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:588][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:588][878]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:604][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:604][879]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:622][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:622][880]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:638][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:638][881]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:655][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:655][882]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:672][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:672][883]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:688][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:688][884]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:705][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:705][885]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:722][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:722][886]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:738][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:738][887]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:755][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:755][888]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:771][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:771][889]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:788][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:788][890]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:805][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:805][891]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:821][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:821][892]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:838][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:838][893]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:854][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:854][894]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:871][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:871][895]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:888][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:888][896]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:905][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:905][897]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:921][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:921][898]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:938][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:938][899]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:955][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:955][900]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:971][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:971][901]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.30:988][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.30:988][902]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:004][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:005][903]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:021][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:021][904]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:038][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:038][905]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:054][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:055][906]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:071][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:071][907]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:088][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:088][908]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:105][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:105][909]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:121][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:122][910]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:138][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:138][911]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:155][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:155][912]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:172][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:172][913]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:188][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:188][914]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:205][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:205][915]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:221][916]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:238][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:238][917]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:254][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:254][918]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:271][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:272][919]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:288][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:288][920]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:305][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:305][921]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:321][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:321][922]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:337][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:338][923]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:355][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:355][924]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:371][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:371][925]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:388][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:388][926]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:405][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:405][927]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:421][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:421][928]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:438][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:438][929]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:455][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:455][930]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:471][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:471][931]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:488][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:488][932]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:505][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:505][933]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:521][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:521][934]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:538][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:538][935]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:554][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:555][936]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:571][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:571][937]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:588][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:588][938]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:604][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:604][939]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:621][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:621][940]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:638][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:638][941]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:654][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:654][942]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:671][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:671][943]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:688][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:688][944]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:704][945]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:704][945]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:721][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:721][946]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:738][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:738][947]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:755][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:755][948]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:772][949]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.53.31:772][949]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.53.31:801][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.53.31:801][949]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.53.31:801][949]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.53.31:805][949]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.53.31:805][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.53.31:805][949]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.53.31:807][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.53.31:810][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.53.31:822][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-09.53.31:822][949]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.04.16-09.53.31:822][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.04.16-09.53.31:823][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.04.16-09.53.31:829][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.16-09.53.31:890][950]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.04.16-09.54.17:313][579]BlueprintLog: New page: Compile BP_ProcyonGameInstance
+[2024.04.16-09.54.17:340][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-09.54.17:887][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-09.54.17:897][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.54.18:049][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.54.18:074][605]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.54.18:075][605]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player9D02B0FF4FAC95922290D69B0E8906EE.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.54.18:079][605]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.16-09.54.18:079][605]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstance40F71CCC4CA8D1F0FACFABA385A2BD05.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.16-09.54.18:085][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 4.77 sec)
+[2024.04.16-09.54.18:086][605]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-09.54.18:086][605]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.54.18:086][605]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.16-09.54.34:573][558]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.54.34:620][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.16-09.54.35:190][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-09.54.35:197][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.54.35:333][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.54.35:357][581]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.54.35:357][581]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player0E2F514F485D980CCAA9FDBB0227E76D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.54.35:364][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 4.94 sec)
+[2024.04.16-09.54.35:366][581]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.54.35:366][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.54.38:797][713]LogSlate: Window 'Delete Variable' being destroyed
+[2024.04.16-09.55.15:708][869]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.55.15:754][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.16-09.55.17:081][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.16-09.55.17:087][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.55.17:237][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.55.17:261][937]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.55.17:262][937]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_PlayerCB3242654D7C1A758948C88B31EA69B6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.55.17:268][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 5.12 sec)
+[2024.04.16-09.55.17:269][937]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.55.17:269][937]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.55.17:910][976]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.55.17:915][976]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.55.17:915][976]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.55.17:916][976]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 42 ms)
+[2024.04.16-09.55.17:918][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.55.17:919][976]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:55:17)
+[2024.04.16-09.55.17:919][976]LogPlayLevel: Display: Creating online subsystem for client :Context_49
+[2024.04.16-09.55.17:920][976]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.04.16-09.55.17:928][977]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.55.17:932][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003802s)
+[2024.04.16-09.55.17:932][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003834s)
+[2024.04.16-09.55.17:940][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.16-09.55.17:944][977]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_31] 100.0
+[2024.04.16-09.55.17:944][977]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_31] 100.0
+[2024.04.16-09.55.17:944][977]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.55.17:944][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.55.17:944][977]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.55.17:944][977]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.55.17:944][977]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.55.17:944][977]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.55.17:944][977]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.55.17:945][977]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.55.17:945][977]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 450 ms)
+[2024.04.16-09.55.17:945][977]LogPlayLevel: PIE: World Init took: (0.001900s)
+[2024.04.16-09.55.17:946][977]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.04.16-09.55.17:946][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.55.17:946][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.55.17:946][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.55.17:946][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.55.17:946][977]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.55.17:946][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.55.17:946][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.55.17:946][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.55.17:946][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.55.17:946][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.55.17:946][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.55.17:947][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.55.17:965][977]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.55.17:966][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.55.17:966][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.55.17:966][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.55.17:967][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.04.16-09.55.17:967][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.04.16-09.55.17:968][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.04.16-09.55.17:968][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.04.16-09.55.17:968][977]LogInit: FAudioDevice initialized with ID 33.
+[2024.04.16-09.55.17:968][977]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.55.17:968][977]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.04.16-09.55.18:014][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.55.18:014][977]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.55.18:018][977]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.55.18
+[2024.04.16-09.55.18:020][977]LogWorld: Bringing up level for play took: 0.005546
+[2024.04.16-09.55.18:024][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.55.18:024][977]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.55.18:024][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.55.18:024][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Update Heath UI Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.55.18:024][977]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.55.18:024][977]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_31.PlayerUI_C_0
+[2024.04.16-09.55.18:028][977]PIE: Server logged in
+[2024.04.16-09.55.18:032][977]PIE: Play in editor total start time 0.117 seconds.
+[2024.04.16-09.55.18:041][977]LogViewport: Scene viewport resized to 1432x1480, mode Windowed.
+[2024.04.16-09.55.22:323][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.55.22:323][217]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.55.22:324][217]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.55.22:327][217]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.55.22:328][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.55.22:328][217]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.55.22:329][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.55.22:333][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.55.22:345][217]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.04.16-09.55.22:345][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.04.16-09.55.22:346][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.04.16-09.55.22:352][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.16-09.55.22:398][218]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.04.16-09.55.44:816][521]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.55.44:862][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.16-09.55.45:195][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-09.55.45:203][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.55.45:342][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.55.45:368][529]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.55.45:368][529]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player7FB047E840031F329781AB90A0524BFD.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.55.45:374][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 5.29 sec)
+[2024.04.16-09.55.45:375][529]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.55.45:375][529]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.55.46:134][575]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.55.46:139][575]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.55.46:139][575]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.55.46:141][575]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 43 ms)
+[2024.04.16-09.55.46:143][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.55.46:143][575]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:55:46)
+[2024.04.16-09.55.46:143][575]LogPlayLevel: Display: Creating online subsystem for client :Context_50
+[2024.04.16-09.55.46:144][575]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.04.16-09.55.46:152][576]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.55.46:156][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003570s)
+[2024.04.16-09.55.46:156][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003597s)
+[2024.04.16-09.55.46:165][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-09.55.46:168][576]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_32] 100.0
+[2024.04.16-09.55.46:168][576]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_32] 100.0
+[2024.04.16-09.55.46:168][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.55.46:168][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.55.46:168][576]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.55.46:169][576]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.55.46:169][576]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.55.46:169][576]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.55.46:169][576]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.55.46:170][576]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.55.46:170][576]LogWorldPartition: Display: WorldPartition initialize took 975 us (total: 451 ms)
+[2024.04.16-09.55.46:170][576]LogPlayLevel: PIE: World Init took: (0.001800s)
+[2024.04.16-09.55.46:170][576]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.04.16-09.55.46:170][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.55.46:170][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.55.46:170][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.55.46:170][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.55.46:170][576]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.55.46:170][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.55.46:170][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.55.46:170][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.55.46:170][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.55.46:170][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.55.46:170][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.55.46:172][576]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.55.46:189][576]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.55.46:189][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.55.46:189][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.55.46:189][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.55.46:190][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.04.16-09.55.46:190][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.04.16-09.55.46:191][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.04.16-09.55.46:191][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.04.16-09.55.46:191][576]LogInit: FAudioDevice initialized with ID 34.
+[2024.04.16-09.55.46:191][576]LogAudio: Display: Audio Device (ID: 34) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.55.46:191][576]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.04.16-09.55.46:251][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.55.46:251][576]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.55.46:255][576]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.55.46
+[2024.04.16-09.55.46:257][576]LogWorld: Bringing up level for play took: 0.005277
+[2024.04.16-09.55.46:260][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.55.46:260][576]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.55.46:260][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.55.46:260][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Update Heath UI Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.55.46:260][576]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.55.46:260][576]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_32.PlayerUI_C_0
+[2024.04.16-09.55.46:265][576]PIE: Server logged in
+[2024.04.16-09.55.46:269][576]PIE: Play in editor total start time 0.129 seconds.
+[2024.04.16-09.55.46:279][576]LogViewport: Scene viewport resized to 1434x1490, mode Windowed.
+[2024.04.16-09.55.49:413][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.55.49:413][743]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.55.49:414][743]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.55.49:417][743]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.55.49:417][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.55.49:417][743]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.55.49:419][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.55.49:423][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.55.49:435][743]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.04.16-09.55.49:435][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.04.16-09.55.49:436][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.04.16-09.55.49:441][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.16-09.55.49:506][744]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.04.16-09.56.00:516][380]BlueprintLog: New page: Compile BP_ProcyonGameInstance
+[2024.04.16-09.56.00:542][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-09.56.00:798][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-09.56.15:444][245]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Divide_DoubleDouble' [Element not found.]
+[2024.04.16-09.56.19:517][452]BlueprintLog: New page: Compile PlayerUI
+[2024.04.16-09.56.19:567][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.16-09.56.19:922][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.16-09.56.19:927][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.56.20:041][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.56.20:066][470]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.56.20:066][470]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player36C510A24BB5DD1BF329F0A41FAFE9D1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.56.20:069][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerUI" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/PlayerUI.uasset" SILENT=true
+[2024.04.16-09.56.20:073][470]LogSavePackage: Moving output files for package: /Game/Player/PlayerUI
+[2024.04.16-09.56.20:074][470]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PlayerUI3B1231A5479041F30D9334AAD9DC4A95.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/PlayerUI.uasset'
+[2024.04.16-09.56.20:079][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 5.44 sec)
+[2024.04.16-09.56.20:080][470]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-09.56.20:080][470]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.56.20:080][470]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Player/PlayerUI.PlayerUI
+[2024.04.16-09.56.21:186][537]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.56.21:192][537]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.56.21:192][537]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.56.21:193][537]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 44 ms)
+[2024.04.16-09.56.21:194][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.56.21:194][537]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:56:21)
+[2024.04.16-09.56.21:194][537]LogPlayLevel: Display: Creating online subsystem for client :Context_51
+[2024.04.16-09.56.21:197][537]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.04.16-09.56.21:203][538]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.56.21:207][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003785s)
+[2024.04.16-09.56.21:207][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003810s)
+[2024.04.16-09.56.21:217][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.16-09.56.21:219][538]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_33] 100.0
+[2024.04.16-09.56.21:219][538]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_33] 100.0
+[2024.04.16-09.56.21:219][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.56.21:220][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.56.21:220][538]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.56.21:220][538]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.56.21:220][538]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.56.21:220][538]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.56.21:220][538]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.56.21:221][538]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.56.21:221][538]LogWorldPartition: Display: WorldPartition initialize took 990 us (total: 452 ms)
+[2024.04.16-09.56.21:221][538]LogPlayLevel: PIE: World Init took: (0.001867s)
+[2024.04.16-09.56.21:221][538]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.04.16-09.56.21:221][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.56.21:221][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.56.21:221][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.56.21:221][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.56.21:221][538]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.56.21:221][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.56.21:221][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.56.21:221][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.56.21:222][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.56.21:222][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.56.21:222][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.56.21:223][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.56.21:241][538]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.56.21:241][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.56.21:241][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.56.21:241][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.56.21:242][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.04.16-09.56.21:242][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.04.16-09.56.21:243][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.04.16-09.56.21:243][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.04.16-09.56.21:243][538]LogInit: FAudioDevice initialized with ID 35.
+[2024.04.16-09.56.21:243][538]LogAudio: Display: Audio Device (ID: 35) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.56.21:243][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.04.16-09.56.21:301][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.56.21:301][538]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.56.21:305][538]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.56.21
+[2024.04.16-09.56.21:307][538]LogWorld: Bringing up level for play took: 0.005127
+[2024.04.16-09.56.21:310][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.56.21:310][538]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.56.21:310][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.56.21:310][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.56.21:310][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.56.21:310][538]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.56.21:310][538]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_33.PlayerUI_C_0
+[2024.04.16-09.56.21:310][538]PIE: Server logged in
+[2024.04.16-09.56.21:311][538]PIE: Play in editor total start time 0.12 seconds.
+[2024.04.16-09.56.21:318][538]LogViewport: Scene viewport resized to 1436x1500, mode Windowed.
+[2024.04.16-09.56.22:464][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.56.22:464][594]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.56.22:465][594]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.56.22:468][594]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.56.22:469][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.56.22:469][594]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.56.22:470][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.56.22:474][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.56.22:484][594]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.04.16-09.56.22:484][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.04.16-09.56.22:486][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.04.16-09.56.22:491][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.16-09.56.22:597][595]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.04.16-09.56.27:125][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.56.31:150][ 87]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.56.31:150][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.57.29:895][549]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:46.007 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 61354 files in 47002 folders with total size 597 MiB.
+[2024.04.16-09.58.06:353][667]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.58.06:362][667]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Player\BP_Player.uasset: [Compiler] In use pin  Current Health  no longer exists on node  Update Heath UI . Please refresh node or break links to remove pin.
+[2024.04.16-09.58.06:398][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.16-09.58.06:750][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-09.58.06:759][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.58.06:880][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.58.06:903][676]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.58.06:904][676]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_PlayerCFFB138F496E0DB592528E861671FC41.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.58.06:911][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 5.59 sec)
+[2024.04.16-09.58.06:912][676]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.58.06:912][676]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.58.23:193][627]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.58.23:238][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.16-09.58.23:654][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-09.58.23:660][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.58.23:793][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.58.23:819][636]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.58.23:819][636]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_PlayerCBD1646641957777BD0DAAAC79A25198.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.58.23:825][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 5.76 sec)
+[2024.04.16-09.58.23:825][636]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.58.23:825][636]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.58.24:234][661]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.58.24:240][661]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.58.24:240][661]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.58.24:241][661]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 45 ms)
+[2024.04.16-09.58.24:241][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.58.24:241][661]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:58:24)
+[2024.04.16-09.58.24:241][661]LogPlayLevel: Display: Creating online subsystem for client :Context_53
+[2024.04.16-09.58.24:243][661]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.04.16-09.58.24:251][662]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.58.24:255][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004042s)
+[2024.04.16-09.58.24:255][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004069s)
+[2024.04.16-09.58.24:263][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.16-09.58.24:265][662]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_34] 100.0
+[2024.04.16-09.58.24:265][662]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_34] 100.0
+[2024.04.16-09.58.24:265][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.58.24:265][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.58.24:266][662]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.58.24:266][662]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.58.24:266][662]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.58.24:266][662]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.58.24:266][662]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.58.24:267][662]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.58.24:267][662]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 453 ms)
+[2024.04.16-09.58.24:267][662]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2024.04.16-09.58.24:267][662]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.04.16-09.58.24:267][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.58.24:267][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.58.24:267][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.58.24:267][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.58.24:267][662]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.58.24:267][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.58.24:267][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.58.24:267][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.58.24:268][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.58.24:268][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.58.24:268][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.58.24:269][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.58.24:288][662]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.58.24:288][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.58.24:288][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.58.24:288][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.58.24:289][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.04.16-09.58.24:289][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.04.16-09.58.24:290][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.04.16-09.58.24:290][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.04.16-09.58.24:290][662]LogInit: FAudioDevice initialized with ID 36.
+[2024.04.16-09.58.24:290][662]LogAudio: Display: Audio Device (ID: 36) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.58.24:290][662]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.04.16-09.58.24:340][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.58.24:340][662]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.58.24:344][662]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.58.24
+[2024.04.16-09.58.24:345][662]LogWorld: Bringing up level for play took: 0.005109
+[2024.04.16-09.58.24:348][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.24:348][662]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.24:348][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.24:348][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.58.24:348][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.58.24:348][662]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.58.24:348][662]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_34.PlayerUI_C_0
+[2024.04.16-09.58.24:353][662]PIE: Server logged in
+[2024.04.16-09.58.24:356][662]PIE: Play in editor total start time 0.117 seconds.
+[2024.04.16-09.58.24:366][662]LogViewport: Scene viewport resized to 1438x1510, mode Windowed.
+[2024.04.16-09.58.25:594][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.58.25:594][719]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.58.25:595][719]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.58.25:599][719]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.58.25:599][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.58.25:599][719]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.58.25:601][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.58.25:604][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.58.25:616][719]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.04.16-09.58.25:616][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.04.16-09.58.25:617][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.04.16-09.58.25:622][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.16-09.58.25:671][720]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.04.16-09.58.50:332][126]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.58.50:379][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.16-09.58.50:803][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-09.58.50:808][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.58.50:947][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.58.50:973][139]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.58.50:973][139]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_PlayerF75C4B41496E7FA096D1E0BD1F7BCBE8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.58.50:979][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 5.93 sec)
+[2024.04.16-09.58.50:980][139]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.58.50:981][139]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.58.51:832][188]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.58.51:836][188]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.58.51:836][188]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.58.51:838][188]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 47 ms)
+[2024.04.16-09.58.51:838][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.58.51:838][188]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:58:51)
+[2024.04.16-09.58.51:838][188]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2024.04.16-09.58.51:840][188]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.04.16-09.58.51:848][189]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.58.51:852][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003568s)
+[2024.04.16-09.58.51:852][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003607s)
+[2024.04.16-09.58.51:861][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-09.58.51:863][189]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_35] 100.0
+[2024.04.16-09.58.51:863][189]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_35] 100.0
+[2024.04.16-09.58.51:864][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.58.51:864][189]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.58.51:864][189]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.58.51:865][189]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.58.51:865][189]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.58.51:865][189]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.58.51:865][189]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.58.51:866][189]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.58.51:866][189]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 454 ms)
+[2024.04.16-09.58.51:866][189]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2024.04.16-09.58.51:866][189]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.04.16-09.58.51:866][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.58.51:866][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.58.51:866][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.58.51:866][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.58.51:866][189]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.58.51:866][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.58.51:866][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.58.51:866][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.58.51:866][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.58.51:866][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.58.51:866][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.58.51:868][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.58.51:886][189]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.58.51:886][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.58.51:886][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.58.51:886][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.58.51:887][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.04.16-09.58.51:887][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.04.16-09.58.51:888][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.04.16-09.58.51:888][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.04.16-09.58.51:888][189]LogInit: FAudioDevice initialized with ID 37.
+[2024.04.16-09.58.51:888][189]LogAudio: Display: Audio Device (ID: 37) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.58.51:888][189]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.04.16-09.58.51:930][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.58.51:930][189]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.58.51:935][189]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.58.51
+[2024.04.16-09.58.51:936][189]LogWorld: Bringing up level for play took: 0.005879
+[2024.04.16-09.58.51:940][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.51:940][189]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.51:940][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.51:940][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.58.51:940][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.58.51:940][189]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.58.51:940][189]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_35.PlayerUI_C_0
+[2024.04.16-09.58.51:940][189]LogBlueprintUserMessages: [BP_Player_C_0] Current health set to
+[2024.04.16-09.58.51:940][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.51:940][189]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.58.51:945][189]PIE: Server logged in
+[2024.04.16-09.58.51:949][189]PIE: Play in editor total start time 0.112 seconds.
+[2024.04.16-09.58.51:959][189]LogViewport: Scene viewport resized to 1440x1520, mode Windowed.
+[2024.04.16-09.58.54:795][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.58.54:795][342]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.58.54:796][342]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.58.54:800][342]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.58.54:800][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.58.54:800][342]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.58.54:802][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.58.54:805][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.58.54:817][342]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.04.16-09.58.54:817][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.04.16-09.58.54:818][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.04.16-09.58.54:823][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.16-09.58.54:880][343]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.04.16-09.58.59:018][567]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.58.59:023][567]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.58.59:023][567]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.58.59:025][567]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 48 ms)
+[2024.04.16-09.58.59:025][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.58.59:025][567]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:58:59)
+[2024.04.16-09.58.59:025][567]LogPlayLevel: Display: Creating online subsystem for client :Context_55
+[2024.04.16-09.58.59:027][567]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2024.04.16-09.58.59:035][568]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.58.59:038][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003536s)
+[2024.04.16-09.58.59:038][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003563s)
+[2024.04.16-09.58.59:049][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-09.58.59:051][568]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_36] 100.0
+[2024.04.16-09.58.59:051][568]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_36] 100.0
+[2024.04.16-09.58.59:051][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.58.59:051][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.58.59:052][568]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.58.59:052][568]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.58.59:052][568]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.58.59:052][568]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.58.59:052][568]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.58.59:053][568]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.58.59:053][568]LogWorldPartition: Display: WorldPartition initialize took 989 us (total: 455 ms)
+[2024.04.16-09.58.59:053][568]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2024.04.16-09.58.59:053][568]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.04.16-09.58.59:053][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.58.59:053][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.58.59:053][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.58.59:053][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.58.59:053][568]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.58.59:053][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.58.59:053][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.58.59:053][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.58.59:053][568]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.58.59:053][568]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.58.59:053][568]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.58.59:055][568]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.58.59:073][568]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.58.59:073][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.58.59:073][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.58.59:073][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.58.59:075][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.04.16-09.58.59:075][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.04.16-09.58.59:076][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.04.16-09.58.59:076][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.04.16-09.58.59:076][568]LogInit: FAudioDevice initialized with ID 38.
+[2024.04.16-09.58.59:076][568]LogAudio: Display: Audio Device (ID: 38) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.58.59:076][568]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.04.16-09.58.59:118][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.58.59:118][568]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.58.59:122][568]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.58.59
+[2024.04.16-09.58.59:123][568]LogWorld: Bringing up level for play took: 0.005124
+[2024.04.16-09.58.59:126][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.59:126][568]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.59:126][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.59:126][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.58.59:126][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.58.59:127][568]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.58.59:127][568]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_36.PlayerUI_C_0
+[2024.04.16-09.58.59:127][568]LogBlueprintUserMessages: [BP_Player_C_0] Current health set to
+[2024.04.16-09.58.59:127][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.58.59:127][568]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.58.59:131][568]PIE: Server logged in
+[2024.04.16-09.58.59:135][568]PIE: Play in editor total start time 0.111 seconds.
+[2024.04.16-09.58.59:144][568]LogViewport: Scene viewport resized to 1442x1530, mode Windowed.
+[2024.04.16-09.59.00:126][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.59.00:126][610]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.59.00:126][610]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.59.00:129][610]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.59.00:130][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.00:130][610]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.59.00:132][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.59.00:135][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.00:147][610]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.04.16-09.59.00:147][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.04.16-09.59.00:148][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.04.16-09.59.00:153][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.16-09.59.00:217][611]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.04.16-09.59.30:446][381]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.59.30:493][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.16-09.59.31:899][449]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.59.31:904][449]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.59.31:904][449]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.59.31:904][449]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 49 ms)
+[2024.04.16-09.59.31:905][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.59.31:905][449]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:59:31)
+[2024.04.16-09.59.31:905][449]LogPlayLevel: Display: Creating online subsystem for client :Context_56
+[2024.04.16-09.59.31:907][449]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.04.16-09.59.31:915][450]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.59.31:919][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003513s)
+[2024.04.16-09.59.31:919][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003539s)
+[2024.04.16-09.59.31:929][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-09.59.31:937][450]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_37] 100.0
+[2024.04.16-09.59.31:937][450]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_37] 100.0
+[2024.04.16-09.59.31:937][450]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.59.31:937][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.59.31:937][450]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.59.31:937][450]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.59.31:937][450]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.59.31:937][450]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.59.31:937][450]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.59.31:938][450]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.59.31:938][450]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 456 ms)
+[2024.04.16-09.59.31:939][450]LogPlayLevel: PIE: World Init took: (0.001841s)
+[2024.04.16-09.59.31:939][450]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.04.16-09.59.31:939][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.59.31:939][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.59.31:939][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.59.31:939][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.59.31:939][450]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.59.31:939][450]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.59.31:939][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.59.31:939][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.59.31:939][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.59.31:939][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.59.31:939][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.59.31:940][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.59.31:959][450]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.59.31:959][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.59.31:959][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.59.31:959][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.59.31:959][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.04.16-09.59.31:959][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.04.16-09.59.31:961][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.04.16-09.59.31:961][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.04.16-09.59.31:961][450]LogInit: FAudioDevice initialized with ID 39.
+[2024.04.16-09.59.31:961][450]LogAudio: Display: Audio Device (ID: 39) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.59.31:961][450]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.04.16-09.59.32:014][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.59.32:014][450]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.59.32:018][450]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.59.32
+[2024.04.16-09.59.32:019][450]LogWorld: Bringing up level for play took: 0.005569
+[2024.04.16-09.59.32:023][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.32:023][450]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.32:023][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.32:023][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.32:023][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.32:023][450]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.59.32:023][450]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_37.PlayerUI_C_0
+[2024.04.16-09.59.32:027][450]PIE: Server logged in
+[2024.04.16-09.59.32:031][450]PIE: Play in editor total start time 0.127 seconds.
+[2024.04.16-09.59.32:040][450]LogViewport: Scene viewport resized to 1444x1540, mode Windowed.
+[2024.04.16-09.59.33:266][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.59.33:266][510]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.59.33:267][510]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.59.33:271][510]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.59.33:271][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.33:271][510]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.59.33:273][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.59.33:277][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.33:288][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.16-09.59.33:288][510]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.04.16-09.59.33:288][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.04.16-09.59.33:290][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.04.16-09.59.33:295][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.16-09.59.33:357][511]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.04.16-09.59.37:953][767]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.59.37:958][767]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.59.37:958][767]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.59.37:959][767]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 50 ms)
+[2024.04.16-09.59.37:959][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.59.37:959][767]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:59:37)
+[2024.04.16-09.59.37:959][767]LogPlayLevel: Display: Creating online subsystem for client :Context_57
+[2024.04.16-09.59.37:961][767]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.04.16-09.59.37:969][768]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.59.37:973][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003659s)
+[2024.04.16-09.59.37:973][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003691s)
+[2024.04.16-09.59.37:983][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-09.59.37:986][768]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_38] 100.0
+[2024.04.16-09.59.37:986][768]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_38] 100.0
+[2024.04.16-09.59.37:986][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.59.37:986][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.59.37:987][768]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.59.37:987][768]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.59.37:987][768]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.59.37:987][768]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.59.37:987][768]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.59.37:988][768]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.59.37:988][768]LogWorldPartition: Display: WorldPartition initialize took 994 us (total: 457 ms)
+[2024.04.16-09.59.37:988][768]LogPlayLevel: PIE: World Init took: (0.001845s)
+[2024.04.16-09.59.37:988][768]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.04.16-09.59.37:988][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.59.37:988][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.59.37:988][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.59.37:988][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.59.37:988][768]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.59.37:988][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.59.37:988][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.59.37:988][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.59.37:988][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.59.37:988][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.59.37:988][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.59.37:990][768]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.59.38:008][768]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.59.38:008][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.59.38:008][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.59.38:008][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.59.38:008][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.04.16-09.59.38:008][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.04.16-09.59.38:010][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.04.16-09.59.38:010][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.04.16-09.59.38:010][768]LogInit: FAudioDevice initialized with ID 40.
+[2024.04.16-09.59.38:010][768]LogAudio: Display: Audio Device (ID: 40) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.59.38:010][768]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.16-09.59.38:051][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.59.38:051][768]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.59.38:055][768]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.59.38
+[2024.04.16-09.59.38:057][768]LogWorld: Bringing up level for play took: 0.005013
+[2024.04.16-09.59.38:059][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.38:059][768]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.38:059][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.38:060][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.38:060][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.38:060][768]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.59.38:060][768]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_38.PlayerUI_C_0
+[2024.04.16-09.59.38:064][768]PIE: Server logged in
+[2024.04.16-09.59.38:068][768]PIE: Play in editor total start time 0.11 seconds.
+[2024.04.16-09.59.38:077][768]LogViewport: Scene viewport resized to 1446x1550, mode Windowed.
+[2024.04.16-09.59.38:716][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.59.38:716][789]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.59.38:717][789]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.59.38:720][789]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.59.38:720][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.38:721][789]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.59.38:722][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.59.38:726][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.38:737][789]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.04.16-09.59.38:737][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.16-09.59.38:739][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.04.16-09.59.38:744][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.16-09.59.38:801][790]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.04.16-09.59.40:565][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.16-09.59.40:570][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.59.40:658][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.59.40:683][877]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.59.40:684][877]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player394EA3AD478953DA65E2178CB2FB3567.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.59.40:690][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 6.05 sec)
+[2024.04.16-09.59.40:691][877]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.59.40:691][877]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.59.41:584][931]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.59.41:589][931]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.59.41:589][931]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.59.41:590][931]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 51 ms)
+[2024.04.16-09.59.41:590][931]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.16-09.59.41:591][931]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2024.04.16-09.59.41:699][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.16-09.59.41:709][931]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (1 blueprints)
+[2024.04.16-09.59.41:709][931]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:59:41)
+[2024.04.16-09.59.41:709][931]LogPlayLevel: Display: Creating online subsystem for client :Context_58
+[2024.04.16-09.59.41:710][931]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.04.16-09.59.41:833][932]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.59.41:837][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004028s)
+[2024.04.16-09.59.41:837][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004056s)
+[2024.04.16-09.59.41:847][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-09.59.41:850][932]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_39] 100.0
+[2024.04.16-09.59.41:850][932]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_39] 100.0
+[2024.04.16-09.59.41:850][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.59.41:850][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.59.41:851][932]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.59.41:851][932]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.59.41:851][932]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.59.41:851][932]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.59.41:851][932]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.59.41:852][932]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.59.41:852][932]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 459 ms)
+[2024.04.16-09.59.41:852][932]LogPlayLevel: PIE: World Init took: (0.001872s)
+[2024.04.16-09.59.41:852][932]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.04.16-09.59.41:852][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.59.41:852][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.59.41:852][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.59.41:852][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.59.41:852][932]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.59.41:852][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.59.41:852][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.59.41:852][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.59.41:852][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.59.41:852][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.59.41:852][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.59.41:854][932]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.59.41:872][932]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.59.41:872][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.59.41:872][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.59.41:872][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.59.41:873][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.04.16-09.59.41:873][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.04.16-09.59.41:874][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.04.16-09.59.41:874][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.04.16-09.59.41:874][932]LogInit: FAudioDevice initialized with ID 41.
+[2024.04.16-09.59.41:874][932]LogAudio: Display: Audio Device (ID: 41) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.59.41:874][932]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.16-09.59.41:905][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.59.41:905][932]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.59.41:910][932]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.59.41
+[2024.04.16-09.59.41:912][932]LogWorld: Bringing up level for play took: 0.006036
+[2024.04.16-09.59.41:914][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.41:914][932]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.41:914][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.41:920][932]PIE: Server logged in
+[2024.04.16-09.59.41:923][932]PIE: Play in editor total start time 0.334 seconds.
+[2024.04.16-09.59.41:944][932]LogViewport: Scene viewport resized to 1448x1560, mode Windowed.
+[2024.04.16-09.59.43:197][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.59.43:197][996]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.59.43:197][996]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.59.43:200][996]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.59.43:201][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.43:201][996]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.59.43:203][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.59.43:206][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.43:218][996]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.04.16-09.59.43:218][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.16-09.59.43:220][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.04.16-09.59.43:224][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.16-09.59.43:287][997]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.04.16-09.59.47:506][233]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.59.47:511][233]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.59.47:511][233]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.59.47:512][233]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 53 ms)
+[2024.04.16-09.59.47:513][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.59.47:513][233]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:59:47)
+[2024.04.16-09.59.47:513][233]LogPlayLevel: Display: Creating online subsystem for client :Context_59
+[2024.04.16-09.59.47:514][233]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.04.16-09.59.47:523][234]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.59.47:526][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003695s)
+[2024.04.16-09.59.47:526][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003721s)
+[2024.04.16-09.59.47:536][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-09.59.47:539][234]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_40] 100.0
+[2024.04.16-09.59.47:539][234]LogBlueprintUserMessages: [BP_ProcyonGameInstance_C_40] 100.0
+[2024.04.16-09.59.47:539][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.59.47:539][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.59.47:539][234]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.59.47:539][234]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.59.47:539][234]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.59.47:539][234]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.59.47:540][234]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.59.47:540][234]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.59.47:540][234]LogWorldPartition: Display: WorldPartition initialize took 983 us (total: 459 ms)
+[2024.04.16-09.59.47:541][234]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2024.04.16-09.59.47:541][234]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.04.16-09.59.47:541][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.59.47:541][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.59.47:541][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.59.47:541][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.59.47:541][234]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.59.47:541][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.59.47:541][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.59.47:541][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.59.47:541][234]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.59.47:541][234]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.59.47:541][234]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.59.47:542][234]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.59.47:560][234]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.59.47:561][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.59.47:561][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.59.47:561][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.59.47:561][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.04.16-09.59.47:561][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.04.16-09.59.47:562][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.04.16-09.59.47:562][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.04.16-09.59.47:562][234]LogInit: FAudioDevice initialized with ID 42.
+[2024.04.16-09.59.47:562][234]LogAudio: Display: Audio Device (ID: 42) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.59.47:562][234]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.16-09.59.47:611][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.59.47:612][234]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.59.47:616][234]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.59.47
+[2024.04.16-09.59.47:617][234]LogWorld: Bringing up level for play took: 0.005520
+[2024.04.16-09.59.47:620][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.47:620][234]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.47:620][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentHealth Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.47:625][234]PIE: Server logged in
+[2024.04.16-09.59.47:629][234]PIE: Play in editor total start time 0.118 seconds.
+[2024.04.16-09.59.47:638][234]LogViewport: Scene viewport resized to 1450x1570, mode Windowed.
+[2024.04.16-09.59.48:718][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.48:718][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.48:718][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.48:718][288]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.48:718][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.48:718][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.48:718][288]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.59.48:718][288]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_40.PlayerUI_C_0
+[2024.04.16-09.59.48:718][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.48:718][288]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.59.48:801][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.49:934][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.49:934][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.49:934][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.49:934][361]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.49:934][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.49:934][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.49:934][361]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.59.49:934][361]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_40.PlayerUI_C_0
+[2024.04.16-09.59.49:934][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.49:934][361]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.59.50:051][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.50:451][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.51:001][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.51:001][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.51:001][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.51:001][425]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.51:001][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.51:001][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.51:001][425]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.59.51:001][425]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_40.PlayerUI_C_0
+[2024.04.16-09.59.51:001][425]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.51:001][425]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.59.51:068][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.52:167][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.52:168][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.52:168][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.52:168][495]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.52:168][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.52:168][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set Percent Graph:  EventGraph Function:  Execute Ubergraph Player UI Blueprint:  PlayerUI
+[2024.04.16-09.59.52:168][495]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.59.52:168][495]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_40.PlayerUI_C_0
+[2024.04.16-09.59.52:168][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Print String Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.52:168][495]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2024.04.16-09.59.52:318][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.59.53:367][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.59.53:367][564]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.59.53:367][564]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.59.53:371][564]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.59.53:371][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.53:371][564]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.59.53:373][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.59.53:376][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.59.53:388][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.04.16-09.59.53:388][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.16-09.59.53:389][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.04.16-09.59.53:395][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.16-09.59.53:447][565]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.04.16-10.00.39:979][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-10.00.39:984][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-10.00.40:093][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-10.00.40:119][332]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-10.00.40:119][332]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player85CC1BC4435C43A7D5B96494C71788C7.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-10.00.40:125][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 6.19 sec)
+[2024.04.16-10.00.40:126][332]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-10.00.40:126][332]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
