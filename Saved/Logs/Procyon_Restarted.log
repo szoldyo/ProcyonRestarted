@@ -1158,3 +1158,354 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.16-08.53.52:434][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.04.16-08.53.52:490][ 42]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemy/AI/BT_EnemyBase.BT_EnemyBase
 [2024.04.16-08.57.29:168][708]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:45.280 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 61354 files in 47002 folders with total size 597 MiB.
+[2024.04.16-09.00.52:679][103]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.16-09.00.52:754][106]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.00.52:803][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.00.52:827][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: ================================================
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: RAM used: 39.58 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.16-09.00.52:856][109]LogShaderCompilers: Display: ================================================
+[2024.04.16-09.00.52:898][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.00.52:969][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.00.59:470][877]LogSlate: Window 'Open Asset' being destroyed
+[2024.04.16-09.01.02:911][276]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.16-09.01.02:911][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.01.02:911][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.01.02:965][276]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.16-09.01.59:128][884]BlueprintLog: New page: Compile BP_ProcyonGameInstance
+[2024.04.16-09.01.59:142][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.16-09.01.59:946][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.16-09.01.59:950][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.02.00:008][976]LogPackageLocalizationCache: Processed 50 localized package path(s) for 1 prioritized culture(s) in 0.006070 seconds
+[2024.04.16-09.02.00:012][976]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.16-09.02.00:012][976]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstanceDA253B6149CCCD254CD91398B8BF4CAA.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.16-09.02.00:019][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms
+[2024.04.16-09.02.00:019][976]AssetCheck: New page: Asset Save: BP_ProcyonGameInstance
+[2024.04.16-09.02.00:020][976]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.16-09.03.19:796][122]BlueprintLog: New page: Compile BP_ProcyonGameInstance
+[2024.04.16-09.03.19:808][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.16-09.03.20:965][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.16-09.03.20:969][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.03.21:005][256]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.16-09.03.21:006][256]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstance945001964E712188DA115C8EFDF62E02.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.16-09.03.21:010][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 110 ms)
+[2024.04.16-09.03.21:010][256]AssetCheck: New page: Asset Save: BP_ProcyonGameInstance
+[2024.04.16-09.03.21:010][256]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.16-09.03.22:743][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.04.16:714][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.16-09.04.16:718][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.04.16:770][649]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ProcyonGameInstance
+[2024.04.16-09.04.16:770][649]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_ProcyonGameInstance8890C9D64D5566BC0856ABB9275C81D6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Blueprints/BP_ProcyonGameInstance.uasset'
+[2024.04.16-09.04.16:776][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 168 ms)
+[2024.04.16-09.04.16:777][649]AssetCheck: New page: Asset Save: BP_ProcyonGameInstance
+[2024.04.16-09.04.16:777][649]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ProcyonGameInstance.BP_ProcyonGameInstance
+[2024.04.16-09.04.31:330][336]LogSlate: Took 0.003250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.16-09.05.53:861][874]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.05.53:897][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.16-09.06.07:215][443]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.06.07:220][443]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.06.07:220][443]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.06.07:221][443]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms
+[2024.04.16-09.06.07:225][443]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.16-09.06.07:226][443]LogPlayLevel: [PlayLevel] Compiling BP_ProcyonGameInstance before play...
+[2024.04.16-09.06.07:272][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.16-09.06.07:274][443]LogPlayLevel: PlayLevel: Blueprint regeneration took 49 ms (1 blueprints)
+[2024.04.16-09.06.07:276][443]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:06:07)
+[2024.04.16-09.06.07:277][443]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2024.04.16-09.06.07:279][443]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.04.16-09.06.07:385][444]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.06.07:389][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003866s)
+[2024.04.16-09.06.07:389][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003899s)
+[2024.04.16-09.06.07:398][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.16-09.06.07:401][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.06.07:401][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.06.07:401][444]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.06.07:401][444]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.06.07:401][444]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.06.07:401][444]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.06.07:401][444]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.06.07:402][444]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.06.07:402][444]LogWorldPartition: Display: WorldPartition initialize took 983 us (total: 419 ms)
+[2024.04.16-09.06.07:402][444]LogPlayLevel: PIE: World Init took: (0.001826s)
+[2024.04.16-09.06.07:402][444]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.16-09.06.07:402][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.06.07:402][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.06.07:402][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.06.07:402][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.06.07:402][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.06.07:402][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.06.07:402][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.06.07:402][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.06.07:403][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.06.07:403][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.06.07:403][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.06.07:404][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.06.07:424][444]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.06.07:424][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.06.07:424][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.06.07:424][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.06.07:424][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.16-09.06.07:424][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.16-09.06.07:425][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.16-09.06.07:425][444]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.16-09.06.07:425][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.16-09.06.07:425][444]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.06.07:425][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.16-09.06.07:479][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.06.07:479][444]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.06.07:484][444]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.06.07
+[2024.04.16-09.06.07:487][444]LogWorld: Bringing up level for play took: 0.007632
+[2024.04.16-09.06.07:503][444]PIE: Server logged in
+[2024.04.16-09.06.07:507][444]PIE: Play in editor total start time 0.286 seconds.
+[2024.04.16-09.06.07:518][444]LogViewport: Scene viewport resized to 1370x1170, mode Windowed.
+[2024.04.16-09.06.08:855][511]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:091C
+[2024.04.16-09.06.08:855][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set CurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.06.08:855][511]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0986
+[2024.04.16-09.06.08:855][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Update Stamina UI Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.06.08:855][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.06.08:855][511]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_0.PlayerUI_C_0
+[2024.04.16-09.06.10:604][616]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:091C
+[2024.04.16-09.06.10:604][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set CurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.06.10:604][616]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0986
+[2024.04.16-09.06.10:604][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Update Stamina UI Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.06.10:604][616]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.06.10:604][616]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_0.PlayerUI_C_0
+[2024.04.16-09.06.11:676][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.06.11:676][678]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.06.11:676][678]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.06.11:680][678]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.06.11:680][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.06.11:680][678]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.06.11:683][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.06.11:686][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.06.11:694][678]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.16-09.06.11:694][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.16-09.06.11:696][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.16-09.06.11:701][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.16-09.06.11:821][679]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.04.16-09.06.34:233][882]LogSlate: Window 'Message Log' being destroyed
+[2024.04.16-09.06.34:236][882]LogSlate: Window 'Message Log' being destroyed
+[2024.04.16-09.07.58:176][824]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.07.58:211][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.16-09.07.58:638][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-09.07.58:641][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.07.58:673][838]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.07.58:801][838]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.07.58:843][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.07.58:868][838]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.07.58:868][838]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player30F6720745BCD9FE91955589119E4768.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.07.58:874][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 232 ms (total: 400 ms)
+[2024.04.16-09.07.58:875][838]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.07.58:875][838]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.08.25:192][377]BlueprintLog: New page: Compile BP_Player
+[2024.04.16-09.08.25:232][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-09.08.25:783][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-09.08.25:786][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.08.25:921][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.08.25:945][400]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.08.25:946][400]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player639BBE3440125A09F6F04EB82787D337.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.08.25:951][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 566 ms)
+[2024.04.16-09.08.25:952][400]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.08.25:952][400]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.08.43:086][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.16-09.08.43:090][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.08.43:145][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.08.43:169][423]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.08.43:169][423]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player4AE02CF2400ACC9C9D7DFBAE9A8A0569.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.08.43:174][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 650 ms)
+[2024.04.16-09.08.43:174][423]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.16-09.08.43:174][423]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.08.48:895][754]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.08.48:901][754]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.08.48:901][754]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.08.48:902][754]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 2 ms)
+[2024.04.16-09.08.48:904][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.08.48:904][754]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 11:08:48)
+[2024.04.16-09.08.48:904][754]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2024.04.16-09.08.48:907][754]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.04.16-09.08.48:914][755]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.08.48:918][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003683s)
+[2024.04.16-09.08.48:918][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003711s)
+[2024.04.16-09.08.48:927][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.16-09.08.48:929][755]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.08.48:930][755]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.08.48:930][755]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-09.08.48:930][755]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-09.08.48:930][755]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-09.08.48:930][755]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-09.08.48:930][755]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-09.08.48:931][755]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-09.08.48:931][755]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 421 ms)
+[2024.04.16-09.08.48:931][755]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2024.04.16-09.08.48:931][755]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.16-09.08.48:931][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-09.08.48:931][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-09.08.48:931][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-09.08.48:931][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-09.08.48:931][755]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-09.08.48:931][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-09.08.48:931][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-09.08.48:931][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-09.08.48:932][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-09.08.48:932][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-09.08.48:932][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-09.08.48:933][755]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-09.08.48:953][755]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-09.08.48:953][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-09.08.48:953][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-09.08.48:953][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-09.08.48:954][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.16-09.08.48:954][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.16-09.08.48:955][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.16-09.08.48:955][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.16-09.08.48:955][755]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.16-09.08.48:955][755]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.04.16-09.08.48:955][755]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.16-09.08.48:984][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.08.48:984][755]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-09.08.48:989][755]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-10.08.48
+[2024.04.16-09.08.48:990][755]LogWorld: Bringing up level for play took: 0.005400
+[2024.04.16-09.08.48:997][755]PIE: Server logged in
+[2024.04.16-09.08.49:001][755]PIE: Play in editor total start time 0.1 seconds.
+[2024.04.16-09.08.49:012][755]LogViewport: Scene viewport resized to 1372x1180, mode Windowed.
+[2024.04.16-09.08.50:204][806]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:08DC
+[2024.04.16-09.08.50:204][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.50:204][806]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0932
+[2024.04.16-09.08.50:204][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.50:204][806]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:095C
+[2024.04.16-09.08.50:204][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.50:204][806]LogScript: Warning: Attempted to assign to None
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0971
+[2024.04.16-09.08.50:204][806]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.50:204][806]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:09A9
+[2024.04.16-09.08.50:204][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Update Stamina UI Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.50:204][806]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:09C8
+[2024.04.16-09.08.50:204][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Update Stamina UI Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.50:204][806]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.08.50:204][806]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_1.PlayerUI_C_0
+[2024.04.16-09.08.51:754][899]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:08DC
+[2024.04.16-09.08.51:754][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.51:754][899]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0932
+[2024.04.16-09.08.51:754][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.51:754][899]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:095C
+[2024.04.16-09.08.51:754][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.51:754][899]LogScript: Warning: Attempted to assign to None
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0971
+[2024.04.16-09.08.51:754][899]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set PlayerCurrentStamina Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.51:754][899]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:09A9
+[2024.04.16-09.08.51:754][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Update Stamina UI Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.51:754][899]LogScript: Warning: Accessed None trying to read property GameInstanceRef
+	BP_Player_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_0
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:09C8
+[2024.04.16-09.08.51:754][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstanceRef". Node:  Update Stamina UI Graph:  EventGraph Function:  Execute Ubergraph BP Player Blueprint:  BP_Player
+[2024.04.16-09.08.51:754][899]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.16-09.08.51:754][899]LogScript: Warning: Script Msg called by: PlayerUI_C /Engine/Transient.UnrealEdEngine_0:BP_ProcyonGameInstance_C_1.PlayerUI_C_0
+[2024.04.16-09.08.52:348][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-09.08.52:348][932]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-09.08.52:349][932]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.16-09.08.52:352][932]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-09.08.52:353][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.08.52:353][932]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-09.08.52:354][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-09.08.52:357][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-09.08.52:368][932]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.16-09.08.52:368][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.16-09.08.52:369][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.16-09.08.52:374][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.16-09.08.52:503][933]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.16-09.08.54:837][ 59]LogSlate: Window 'Message Log' being destroyed
+[2024.04.16-09.08.54:842][ 59]LogSlate: Window 'Message Log' being destroyed
+[2024.04.16-09.09.01:631][453]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.09.01:676][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.09.01:705][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.09.03:887][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.09.05:966][704]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Player/PlayerUI.PlayerUI
+[2024.04.16-09.09.05:967][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.09.05:967][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.09.05:974][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-09.09.05:974][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-09.09.05:980][704]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.16-09.09.06:102][704]LogSlate: Window 'Open Asset' being destroyed
+[2024.04.16-09.09.06:214][704]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.16-09.09.06:217][704]LogSlate: Took 0.003444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.16-09.09.08:599][831]LogSlate: Window 'PlayerUI' being destroyed
+[2024.04.16-09.10.20:509][ 97]LogEditorTransaction: Undo Move Node
+[2024.04.16-09.10.20:722][101]LogEditorTransaction: Undo Move Node
+[2024.04.16-09.10.23:716][267]LogEditorTransaction: Undo Add Node
+[2024.04.16-09.10.23:936][280]LogEditorTransaction: Undo Add Node
+[2024.04.16-09.10.24:256][299]LogEditorTransaction: Undo Add Node
+[2024.04.16-09.10.24:518][304]LogEditorTransaction: Undo Remove Parameter
+[2024.04.16-09.10.25:168][330]LogEditorTransaction: Undo Remove Parameter
+[2024.04.16-09.10.43:359][404]BlueprintLog: New page: Compile PlayerUI
+[2024.04.16-09.10.43:368][404]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Player\BP_Player.uasset: [Compiler] In use pin  Max Stamina  no longer exists on node  Update Stamina UI . Please refresh node or break links to remove pin.
+[2024.04.16-09.10.43:368][404]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Player\BP_Player.uasset: [Compiler] In use pin  Max Stamina  no longer exists on node  Update Stamina UI . Please refresh node or break links to remove pin.
+[2024.04.16-09.10.43:368][404]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Player\BP_Player.uasset: [Compiler] In use pin  Max Health  no longer exists on node  Update Heath UI . Please refresh node or break links to remove pin.
+[2024.04.16-09.10.43:368][404]LogBlueprint: Error: [AssetLog] C:\Users\Students\Documents\GitHub Repo\ProcyonRestarted\ProcyonRestarted\Content\Player\BP_Player.uasset: [Compiler] In use pin  Max Health  no longer exists on node  Update Heath UI . Please refresh node or break links to remove pin.
+[2024.04.16-09.10.43:415][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.16-09.10.43:783][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.16-09.10.43:787][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.10.43:922][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.16-09.10.43:944][423]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.16-09.10.43:945][423]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player397BBD254A3D3EBB9F0E718F331B8D86.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.16-09.10.43:948][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerUI" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/PlayerUI.uasset" SILENT=true
+[2024.04.16-09.10.43:952][423]LogSavePackage: Moving output files for package: /Game/Player/PlayerUI
+[2024.04.16-09.10.43:952][423]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PlayerUI1A7071A44C304D9BE3A057BB63C0307C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/PlayerUI.uasset'
+[2024.04.16-09.10.43:959][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 822 ms)
+[2024.04.16-09.10.43:960][423]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-09.10.43:960][423]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.16-09.10.43:960][423]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Player/PlayerUI.PlayerUI
+[2024.04.16-09.11.12:193][ 74]BlueprintLog: New page: Compile PlayerUI
+[2024.04.16-09.11.12:211][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.16-09.11.13:198][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.16-09.11.13:202][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-09.11.13:258][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerUI" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/PlayerUI.uasset" SILENT=true
+[2024.04.16-09.11.13:262][130]LogSavePackage: Moving output files for package: /Game/Player/PlayerUI
+[2024.04.16-09.11.13:263][130]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PlayerUI0C6B18EA45B0423EEA7BD2B77E3F1F95.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/PlayerUI.uasset'
+[2024.04.16-09.11.13:267][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 887 ms)
+[2024.04.16-09.11.13:268][130]AssetCheck: New page: Asset Save: PlayerUI
+[2024.04.16-09.11.13:268][130]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Player/PlayerUI.PlayerUI
+[2024.04.16-09.11.14:490][204]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-09.11.14:496][204]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-09.11.14:496][204]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-09.11.14:496][204]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 4 ms)
+[2024.04.16-09.11.14:499][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-09.11.14:499][204]BlueprintLog: Warning: Blueprint failed to compile:  BP_Player
+[2024.04.16-09.11.17:182][204]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.04.16-09.11.18:770][296]LogSlate: Window 'Message Log' being destroyed
+[2024.04.16-09.11.18:773][296]LogSlate: Window 'Message Log' being destroyed
+[2024.04.16-09.11.20:097][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
