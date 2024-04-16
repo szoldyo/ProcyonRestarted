@@ -19276,3 +19276,158 @@ Script Stack (5 frames) :
 [2024.04.16-15.04.39:752][859]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.16-15.04.39:752][859]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
 [2024.04.16-15.04.39:752][859]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.16-15.07.39:711][769]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-15.07.39:716][769]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-15.07.39:716][769]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-15.07.39:718][769]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 155 ms)
+[2024.04.16-15.07.39:718][769]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.16-15.07.39:719][769]LogPlayLevel: [PlayLevel] Compiling BP_EnemyPool before play...
+[2024.04.16-15.07.39:776][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.16-15.07.39:783][769]LogPlayLevel: PlayLevel: Blueprint regeneration took 64 ms (1 blueprints)
+[2024.04.16-15.07.39:783][769]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 17:07:39)
+[2024.04.16-15.07.39:808][769]LogPlayLevel: Display: Creating online subsystem for client :Context_158
+[2024.04.16-15.07.39:809][769]LogOnline: OSS: Created online subsystem instance for: :Context_158
+[2024.04.16-15.07.39:823][770]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-15.07.39:827][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004000s)
+[2024.04.16-15.07.39:827][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004030s)
+[2024.04.16-15.07.39:838][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.16-15.07.39:843][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-15.07.39:843][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-15.07.39:844][770]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-15.07.39:844][770]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-15.07.39:844][770]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-15.07.39:844][770]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-15.07.39:844][770]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-15.07.39:846][770]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-15.07.39:846][770]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 542 ms)
+[2024.04.16-15.07.39:846][770]LogPlayLevel: PIE: World Init took: (0.002354s)
+[2024.04.16-15.07.39:846][770]LogAudio: Display: Creating Audio Device:                 Id: 123, Scope: Unique, Realtime: True
+[2024.04.16-15.07.39:846][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-15.07.39:846][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-15.07.39:846][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-15.07.39:846][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-15.07.39:846][770]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-15.07.39:846][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-15.07.39:846][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-15.07.39:846][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-15.07.39:846][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-15.07.39:846][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-15.07.39:846][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-15.07.39:848][770]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-15.07.39:867][770]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-15.07.39:867][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-15.07.39:867][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-15.07.39:867][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-15.07.39:868][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=123
+[2024.04.16-15.07.39:868][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=123
+[2024.04.16-15.07.39:869][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=123
+[2024.04.16-15.07.39:869][770]LogInit: FAudioDevice initialized with ID 123.
+[2024.04.16-15.07.39:869][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=123
+[2024.04.16-15.07.39:869][770]LogAudio: Display: Audio Device (ID: 123) registered with world 'ThirdPersonMap'.
+[2024.04.16-15.07.39:869][770]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 123
+[2024.04.16-15.07.39:871][770]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-15.07.39:873][770]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-16.07.39
+[2024.04.16-15.07.39:873][770]LogWorld: Bringing up level for play took: 0.001540
+[2024.04.16-15.07.39:881][770]PIE: Server logged in
+[2024.04.16-15.07.39:882][770]PIE: Play in editor total start time 0.166 seconds.
+[2024.04.16-15.07.51:956][492]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.52:106][501]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.52:273][511]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.52:440][521]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.52:857][546]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.53:224][568]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.54:190][626]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.55:506][705]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.56:324][754]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.56:540][767]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.56:740][779]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.56:940][791]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.57:173][805]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.57:756][840]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.57:923][850]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.57:990][854]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.58:273][871]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.58:373][877]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.58:490][884]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.07.58:606][891]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.03:589][190]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.04:490][244]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_1 via property SwordActor, but BP_Sword_C_1 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.10:340][595]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_2 via property SwordActor, but BP_Sword_C_2 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.11:590][670]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_3 via property SwordActor, but BP_Sword_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.11:923][690]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_3 via property SwordActor, but BP_Sword_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.12:190][706]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_3 via property SwordActor, but BP_Sword_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.12:807][743]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_3 via property SwordActor, but BP_Sword_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.15:490][904]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_3 via property SwordActor, but BP_Sword_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.22:974][353]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_4 via property SwordActor, but BP_Sword_C_4 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.30:040][777]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_5 via property SwordActor, but BP_Sword_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.36:824][184]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Sword_C_6 via property SwordActor, but BP_Sword_C_6 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Enemy Base Blueprint:  BP_EnemyBase
+[2024.04.16-15.08.37:989][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-15.08.37:989][251]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-15.08.37:989][251]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-15.08.37:990][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-15.08.37:990][251]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-15.08.37:992][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-15.08.37:996][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-15.08.38:011][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-15.08.38:011][251]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 123
+[2024.04.16-15.08.38:011][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=123
+[2024.04.16-15.08.38:013][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=123
+[2024.04.16-15.08.38:018][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.16-15.08.38:128][252]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2024.04.16-15.08.46:714][752]LogSlate: Window 'Message Log' being destroyed
+[2024.04.16-15.08.46:718][752]LogSlate: Window 'Message Log' being destroyed
+[2024.04.16-15.08.51:607][ 36]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.04.16-15.08.51:677][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.16-15.08.52:767][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.16-15.08.52:785][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.08.52:891][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.16-15.08.52:902][ 80]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.16-15.08.52:902][ 80]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBase06E19BC24AFDE38E0083A5A66FC1293A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.16-15.08.52:909][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 21.8 sec)
+[2024.04.16-15.08.52:910][ 80]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.04.16-15.08.52:910][ 80]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.16-15.09.25:095][992]Cmd: SELECT NONE
+[2024.04.16-15.10.04:415][243]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.16-15.10.04:421][243]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.16-15.10.04:426][243]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.16-15.10.04:432][244]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.16-15.10.07:695][440]LogContentBrowser: Attempting asset rename: NewBlueprint -> PoolPoint
+[2024.04.16-15.10.07:699][440]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/PoolPoint.
+[2024.04.16-15.10.07:700][440]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.16-15.10.08:602][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.10.08:659][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/PoolPoint" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/PoolPoint.uasset" SILENT=true
+[2024.04.16-15.10.08:660][494]LogSavePackage: Moving output files for package: /Game/Enemy/PoolPoint
+[2024.04.16-15.10.08:660][494]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PoolPoint3817539C4429499D34E6A88D00C0565C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/PoolPoint.uasset'
+[2024.04.16-15.10.08:661][494]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/PoolPoint.
+[2024.04.16-15.10.08:668][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 21.8 sec)
+[2024.04.16-15.10.08:668][494]AssetCheck: New page: Asset Save: PoolPoint
+[2024.04.16-15.10.08:668][494]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/PoolPoint.PoolPoint
+[2024.04.16-15.10.58:725][445]Cmd: EDCALLBACK SELECTEDPROPS
+[2024.04.16-15.11.27:077][127]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.04.16-15.11.27:078][127]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.04.16-15.11.27:435][148]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.04.16-15.11.27:435][148]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.04.16-15.13.13:166][449]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/SpawnPoint.SpawnPoint_C
+[2024.04.16-15.13.13:166][449]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/SpawnPoint.SpawnPoint_C
+[2024.04.16-15.13.13:167][449]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/SpawnPoint.SpawnPoint as actor: SpawnPoint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SpawnPoint_C_1
+[2024.04.16-15.13.13:167][449]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/SpawnPoint.SpawnPoint as actor: SpawnPoint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SpawnPoint_C_1
+[2024.04.16-15.13.13:769][485]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/SpawnPoint.SpawnPoint_C
+[2024.04.16-15.13.13:769][485]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/SpawnPoint.SpawnPoint_C
+[2024.04.16-15.13.13:771][485]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/SpawnPoint.SpawnPoint as actor: SpawnPoint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SpawnPoint_C_UAID_106838F23457C1EC01_1105122349
+[2024.04.16-15.13.13:772][485]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/SpawnPoint.SpawnPoint as actor: SpawnPoint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SpawnPoint_C_UAID_106838F23457C1EC01_1105122349
+[2024.04.16-15.13.39:090][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.16-15.13.39:103][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-15.13.39:156][996]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8G/5BY53LZDIJGH5IO0LYGUOZ
+[2024.04.16-15.13.39:156][996]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/5BY53LZDIJGH5IO0LYGUOZ41EAD4C94CA7F77E3BAA4D90ED226500.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8G/5BY53LZDIJGH5IO0LYGUOZ.uasset'
+[2024.04.16-15.13.39:158][996]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V1/JHS14DZE2KYPULQASX3QMK
+[2024.04.16-15.13.39:158][996]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/JHS14DZE2KYPULQASX3QMK489D469D47188875D437CAA44360D1ED.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V1/JHS14DZE2KYPULQASX3QMK.uasset'
+[2024.04.16-15.13.39:159][996]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2T/3D498IUI17ENLXOG7BHOFB
+[2024.04.16-15.13.39:159][996]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/3D498IUI17ENLXOG7BHOFBD4CFF37B47A3CA2B5F50F788AB977A39.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2T/3D498IUI17ENLXOG7BHOFB.uasset'
+[2024.04.16-15.13.39:161][996]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NO/PVVUBVP7NAP6DME2L9A54U
+[2024.04.16-15.13.39:161][996]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PVVUBVP7NAP6DME2L9A54UE4C013EC4F90B15E6AD522AA442F4527.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NO/PVVUBVP7NAP6DME2L9A54U.uasset'
+[2024.04.16-15.13.39:167][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 21.9 sec)
+[2024.04.16-15.13.39:169][996]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-15.13.39:169][996]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F23457C0EC01_2003598170
+[2024.04.16-15.13.39:169][996]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F23457C0EC01_2020730171
+[2024.04.16-15.13.39:169][996]LogContentValidation: Display: Validating /Game/Enemy/SpawnPoint.SpawnPoint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SpawnPoint_C_UAID_106838F23457C1EC01_1105122349
+[2024.04.16-15.13.39:169][996]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_106838F23457C0EC01_2072530172
