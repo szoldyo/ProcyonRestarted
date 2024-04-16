@@ -15620,3 +15620,216 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.16-10.43.26:428][161]BlueprintLog: New page: Compile BP_Player
 [2024.04.16-10.43.26:488][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
 [2024.04.16-10.43.27:034][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.16-10.43.37:853][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-10.43.38:735][315]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.16-10.43.38:740][315]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.16-10.43.38:740][315]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.16-10.43.38:741][315]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 110 ms)
+[2024.04.16-10.43.38:742][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.16-10.43.38:742][315]PIE: New page: PIE session: ThirdPersonMap (16 Apr 2024, 12:43:38)
+[2024.04.16-10.43.38:742][315]LogPlayLevel: Display: Creating online subsystem for client :Context_108
+[2024.04.16-10.43.38:743][315]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2024.04.16-10.43.38:760][316]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-10.43.38:764][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003795s)
+[2024.04.16-10.43.38:764][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003823s)
+[2024.04.16-10.43.38:774][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.16-10.43.38:777][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-10.43.38:777][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-10.43.38:777][316]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.16-10.43.38:777][316]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.16-10.43.38:777][316]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.16-10.43.38:777][316]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.16-10.43.38:777][316]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.16-10.43.38:779][316]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.16-10.43.38:779][316]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 506 ms)
+[2024.04.16-10.43.38:779][316]LogPlayLevel: PIE: World Init took: (0.001854s)
+[2024.04.16-10.43.38:779][316]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2024.04.16-10.43.38:779][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.16-10.43.38:779][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.16-10.43.38:779][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.16-10.43.38:779][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.16-10.43.38:779][316]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.16-10.43.38:779][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.16-10.43.38:779][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.16-10.43.38:779][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.16-10.43.38:779][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.16-10.43.38:779][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.16-10.43.38:779][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.16-10.43.38:781][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.16-10.43.38:799][316]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.16-10.43.38:799][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.16-10.43.38:799][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.16-10.43.38:799][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.16-10.43.38:801][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2024.04.16-10.43.38:801][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2024.04.16-10.43.38:801][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2024.04.16-10.43.38:801][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2024.04.16-10.43.38:801][316]LogInit: FAudioDevice initialized with ID 88.
+[2024.04.16-10.43.38:801][316]LogAudio: Display: Audio Device (ID: 88) registered with world 'ThirdPersonMap'.
+[2024.04.16-10.43.38:801][316]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2024.04.16-10.43.38:803][316]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.16-10.43.38:807][316]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.16-11.43.38
+[2024.04.16-10.43.38:808][316]LogWorld: Bringing up level for play took: 0.005111
+[2024.04.16-10.43.38:812][316]PIE: Server logged in
+[2024.04.16-10.43.38:813][316]PIE: Play in editor total start time 0.073 seconds.
+[2024.04.16-10.43.57:149][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-10.43.57:149][412]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.16-10.43.57:149][412]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-10.43.57:149][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-10.43.57:149][412]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.16-10.43.57:152][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.16-10.43.57:155][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-10.43.57:167][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.16-10.43.57:168][412]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2024.04.16-10.43.57:168][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2024.04.16-10.43.57:169][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2024.04.16-10.43.57:175][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.16-10.43.57:221][413]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2024.04.16-10.44.45:960][331]Cmd: SELECT NONE
+[2024.04.16-10.45.09:797][745]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Door/DoorLight.DoorLight
+[2024.04.16-10.45.09:812][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.16-10.45.09:812][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.16-10.45.09:941][745]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.16-10.45.09:941][745]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.09:941][745]MaterialEditorStats: Shader Count: 0
+[2024.04.16-10.45.09:947][745]LogViewport: Scene viewport resized to 502x601, mode Windowed.
+[2024.04.16-10.45.10:018][746]LogShaderCompilers: Display: ================================================
+[2024.04.16-10.45.10:018][746]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-10.45.10:018][746]LogShaderCompilers: Display: Total job queries 10, among them cache hits 2 (20.00%)
+[2024.04.16-10.45.10:018][746]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 6 distinct outputs (75.00%)
+[2024.04.16-10.45.10:018][746]LogShaderCompilers: Display: RAM used: 158.72 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.04.16-10.45.10:018][746]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.16-10.45.10:018][746]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.16-10.45.10:018][746]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.16-10.45.10:019][746]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.16-10.45.10:019][746]LogShaderCompilers: Display: ================================================
+[2024.04.16-10.45.10:044][747]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.16-10.45.10:044][747]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.16-10.45.10:044][747]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.16-10.45.10:044][747]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.10:044][747]MaterialEditorStats: Shader Count: 4
+[2024.04.16-10.45.11:796][842]LogViewport: Scene viewport resized to 501x615, mode Windowed.
+[2024.04.16-10.45.11:878][844]LogViewport: Scene viewport resized to 195x203, mode Windowed.
+[2024.04.16-10.45.11:899][845]LogViewport: Scene viewport resized to 149x141, mode Windowed.
+[2024.04.16-10.45.12:915][903]LogViewport: Scene viewport resized to 190x202, mode Windowed.
+[2024.04.16-10.45.14:381][985]LogViewport: Scene viewport resized to 194x202, mode Windowed.
+[2024.04.16-10.45.14:415][985]LogViewport: Scene viewport resized to 208x211, mode Windowed.
+[2024.04.16-10.45.14:448][985]LogViewport: Scene viewport resized to 221x220, mode Windowed.
+[2024.04.16-10.45.14:498][985]LogViewport: Scene viewport resized to 230x233, mode Windowed.
+[2024.04.16-10.45.14:532][985]LogViewport: Scene viewport resized to 237x240, mode Windowed.
+[2024.04.16-10.45.14:565][985]LogViewport: Scene viewport resized to 240x243, mode Windowed.
+[2024.04.16-10.45.14:598][985]LogViewport: Scene viewport resized to 244x245, mode Windowed.
+[2024.04.16-10.45.14:632][985]LogViewport: Scene viewport resized to 249x252, mode Windowed.
+[2024.04.16-10.45.14:665][985]LogViewport: Scene viewport resized to 257x259, mode Windowed.
+[2024.04.16-10.45.14:698][985]LogViewport: Scene viewport resized to 258x261, mode Windowed.
+[2024.04.16-10.45.14:732][985]LogViewport: Scene viewport resized to 260x262, mode Windowed.
+[2024.04.16-10.45.14:765][985]LogViewport: Scene viewport resized to 264x266, mode Windowed.
+[2024.04.16-10.45.14:798][985]LogViewport: Scene viewport resized to 272x271, mode Windowed.
+[2024.04.16-10.45.14:832][985]LogViewport: Scene viewport resized to 279x276, mode Windowed.
+[2024.04.16-10.45.14:865][985]LogViewport: Scene viewport resized to 289x283, mode Windowed.
+[2024.04.16-10.45.14:899][985]LogViewport: Scene viewport resized to 295x287, mode Windowed.
+[2024.04.16-10.45.14:931][985]LogViewport: Scene viewport resized to 296x287, mode Windowed.
+[2024.04.16-10.45.15:050][985]LogViewport: Scene viewport resized to 296x288, mode Windowed.
+[2024.04.16-10.45.15:082][985]LogViewport: Scene viewport resized to 298x289, mode Windowed.
+[2024.04.16-10.45.15:116][985]LogViewport: Scene viewport resized to 301x291, mode Windowed.
+[2024.04.16-10.45.22:593][385]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.16-10.45.22:593][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.22:593][385]MaterialEditorStats: Shader Count: 0
+[2024.04.16-10.45.23:357][431]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.16-10.45.23:357][431]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.16-10.45.23:357][431]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.23:357][431]MaterialEditorStats: Shader Count: 3
+[2024.04.16-10.45.23:457][437]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.16-10.45.23:457][437]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.16-10.45.23:457][437]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.16-10.45.23:457][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.23:457][437]MaterialEditorStats: Shader Count: 4
+[2024.04.16-10.45.24:493][499]LogMaterialEditor: Applying material DoorLight
+[2024.04.16-10.45.24:710][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.16-10.45.25:061][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.16-10.45.25:069][499]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.16-10.45.25:069][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.25:069][499]MaterialEditorStats: Shader Count: 2
+[2024.04.16-10.45.25:082][500]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.16-10.45.25:082][500]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.16-10.45.25:082][500]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.16-10.45.25:082][500]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.25:082][500]MaterialEditorStats: Shader Count: 4
+[2024.04.16-10.45.44:229][634]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.16-10.45.44:230][634]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.44:230][634]MaterialEditorStats: Shader Count: 0
+[2024.04.16-10.45.44:259][636]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.16-10.45.44:259][636]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.16-10.45.44:259][636]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.16-10.45.44:259][636]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.44:259][636]MaterialEditorStats: Shader Count: 4
+[2024.04.16-10.45.46:632][776]LogMaterialEditor: Applying material DoorLight
+[2024.04.16-10.45.46:667][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.16-10.45.46:834][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.16-10.45.48:673][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.16-10.45.48:677][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-10.45.48:718][884]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RN/MN07I3WGO7AJFJX2Q6CKXF
+[2024.04.16-10.45.48:718][884]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MN07I3WGO7AJFJX2Q6CKXF19396B56476D4FC62541A394DCCD3CB0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RN/MN07I3WGO7AJFJX2Q6CKXF.uasset'
+[2024.04.16-10.45.48:758][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Door/DoorLight" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/DoorLight.uasset" SILENT=true
+[2024.04.16-10.45.48:760][884]LogSavePackage: Moving output files for package: /Game/Assets/Door/DoorLight
+[2024.04.16-10.45.48:760][884]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLightF668FC124FC340179FC9DB96CC16A51F.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/DoorLight.uasset'
+[2024.04.16-10.45.48:766][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 13.8 sec)
+[2024.04.16-10.45.48:767][884]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-10.45.48:767][884]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_106838F234576BEB01_1459040173
+[2024.04.16-10.45.48:767][884]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Door/DoorLight.DoorLight
+[2024.04.16-10.45.48:768][884]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.16-10.45.48:768][884]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.16-10.45.48:768][884]MaterialEditorStats: MaxSampler: 239 instructions
+[2024.04.16-10.45.48:768][884]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.16-10.45.48:768][884]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.48:768][884]MaterialEditorStats: Shader Count: 16
+[2024.04.16-10.45.52:321][ 96]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.16-10.45.52:321][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.52:321][ 96]MaterialEditorStats: Shader Count: 0
+[2024.04.16-10.45.52:702][119]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.16-10.45.52:702][119]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.16-10.45.52:702][119]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.52:702][119]MaterialEditorStats: Shader Count: 2
+[2024.04.16-10.45.52:801][125]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.16-10.45.52:802][125]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.16-10.45.52:802][125]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.16-10.45.52:802][125]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.52:802][125]MaterialEditorStats: Shader Count: 4
+[2024.04.16-10.45.53:754][182]LogMaterialEditor: Applying material DoorLight
+[2024.04.16-10.45.53:789][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.16-10.45.54:170][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.16-10.45.59:763][515]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.16-10.45.59:763][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.45.59:763][515]MaterialEditorStats: Shader Count: 0
+[2024.04.16-10.46.00:077][534]MaterialEditorStats: Base pass shader: 191 instructions
+[2024.04.16-10.46.00:078][534]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.04.16-10.46.00:078][534]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.16-10.46.00:078][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.04.16-10.46.00:078][534]MaterialEditorStats: Shader Count: 4
+[2024.04.16-10.46.00:305][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.16-10.46.00:308][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-10.46.00:818][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Door/DoorLight" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/DoorLight.uasset" SILENT=true
+[2024.04.16-10.46.00:818][547]LogSavePackage: Moving output files for package: /Game/Assets/Door/DoorLight
+[2024.04.16-10.46.00:819][547]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLightC85093B544289CFB6B17CAAB17F7F001.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/DoorLight.uasset'
+[2024.04.16-10.46.00:824][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 515 ms (total: 14.3 sec)
+[2024.04.16-10.46.00:825][547]AssetCheck: New page: Asset Save: DoorLight
+[2024.04.16-10.46.00:825][547]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Door/DoorLight.DoorLight
+[2024.04.16-10.46.01:207][569]LogMaterialEditor: Applying material DoorLight
+[2024.04.16-10.46.01:242][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.16-10.46.01:625][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.16-10.46.04:201][721]LogSlate: Window 'DoorLight' being destroyed
+[2024.04.16-10.46.04:204][721]LogSlate: Window 'DoorLight' being destroyed
+[2024.04.16-10.46.04:219][721]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.16-10.46.04:219][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.16-10.46.08:047][950]Cmd: SELECT NONE
+[2024.04.16-10.46.13:345][242]Cmd: TRANSACTION UNDO
+[2024.04.16-10.46.13:345][242]LogEditorTransaction: Undo Move Elements
+[2024.04.16-10.46.14:021][261]Cmd: SELECT NONE
+[2024.04.16-10.46.16:983][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.16-10.46.16:989][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.16-10.46.17:499][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Door/DoorLight" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/DoorLight.uasset" SILENT=true
+[2024.04.16-10.46.17:500][438]LogSavePackage: Moving output files for package: /Game/Assets/Door/DoorLight
+[2024.04.16-10.46.17:501][438]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DoorLight9B7AA884470ACBC4FB4953A9D0AF8C2E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/Door/DoorLight.uasset'
+[2024.04.16-10.46.17:505][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 516 ms (total: 14.8 sec)
+[2024.04.16-10.46.17:506][438]AssetCheck: New page: Asset Save: DoorLight
+[2024.04.16-10.46.17:506][438]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Door/DoorLight.DoorLight
