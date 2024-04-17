@@ -4053,3 +4053,92 @@ Make sure 'BonfireEquivalent_C' has been compiled for  Get SwordInStone
 [2024.04.17-09.25.28:428][454]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/-Bonfire-/InteractText_Auto3
 [2024.04.17-09.25.28:428][454]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/InteractText_Auto364EC68344C2FB864F19A76B517868DFE.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/Assets/-Bonfire-/InteractText_Auto3.uasset'
 [2024.04.17-09.25.28:429][454]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.04.17-09.26.07:483][616]BlueprintLog: New page: Compile InteractText
+[2024.04.17-09.26.07:535][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.17-09.26.08:599][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.17-09.26.08:605][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-09.26.08:660][662]LogSavePackage: Moving output files for package: /Game/Assets/-Bonfire-/InteractText
+[2024.04.17-09.26.08:660][662]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/InteractTextAB0A58134CC48AD166C3AD9EAEA5152A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/-Bonfire-/InteractText.uasset'
+[2024.04.17-09.26.08:666][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 7.36 sec)
+[2024.04.17-09.26.08:666][662]AssetCheck: New page: Asset Save: InteractText
+[2024.04.17-09.26.08:666][662]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/-Bonfire-/InteractText.InteractText
+[2024.04.17-09.26.21:501][423]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.17-09.26.21:511][423]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.17-09.26.21:520][424]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.17-09.26.23:533][545]LogContentBrowser: Attempting asset rename: NewFolder -> Font
+[2024.04.17-09.26.23:533][545]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.17-09.26.28:139][802]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\Students\Downloads\Controller_Font_-_Microsoft_Xbox_One (1)\Controller - Microsoft Xbox One.otf)
+[2024.04.17-09.26.30:114][802]LogSlate: Window 'Font Face Import Options' being destroyed
+[2024.04.17-09.26.30:117][802]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2024.04.17-09.26.30:118][802]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2024.04.17-09.26.30:128][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-09.26.30:134][803]LogSlate: Took 0.003177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.17-09.26.30:140][803]LogSlate: Took 0.002783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.17-09.26.30:143][803]LogSlate: Took 0.002130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.17-09.26.30:146][803]LogSlate: Took 0.002196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.17-09.26.30:161][804]LogSlate: Took 0.001120 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.04.17-09.26.31:566][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-09.26.31:596][888]LogSavePackage: Moving output files for package: /Game/Font/Controller_-_Microsoft_Xbox_One_Font
+[2024.04.17-09.26.31:596][888]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Controller_-_Microsoft_Xbox_One_89AC321D4D09E3D99932FC874FB22AD0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Font/Controller_-_Microsoft_Xbox_One_Font.uasset'
+[2024.04.17-09.26.31:597][888]LogSavePackage: Moving output files for package: /Game/Font/Controller_-_Microsoft_Xbox_One
+[2024.04.17-09.26.31:597][888]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Controller_-_Microsoft_Xbox_One8938CEF1415C5965BD9A6F87FAE7342D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Font/Controller_-_Microsoft_Xbox_One.uasset'
+[2024.04.17-09.26.31:603][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 7.39 sec)
+[2024.04.17-09.26.31:604][888]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.17-09.26.31:604][888]LogContentValidation: Display: Validating /Script/Engine.Font /Game/Font/Controller_-_Microsoft_Xbox_One_Font.Controller_-_Microsoft_Xbox_One_Font
+[2024.04.17-09.26.31:604][888]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/Font/Controller_-_Microsoft_Xbox_One.Controller_-_Microsoft_Xbox_One
+[2024.04.17-09.26.37:434][215]LogSlate: Took 0.003501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.17-09.26.37:437][215]LogSlate: Took 0.002302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.17-09.26.39:636][343]LogSlate: Took 0.002883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.17-09.26.44:605][639]LogEditorTransaction: Undo Edit Font Family
+[2024.04.17-09.29.18:718][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.17-09.29.20:225][831]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.17-09.29.20:240][831]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Font/Controller_-_Microsoft_Xbox_One.Controller_-_Microsoft_Xbox_One
+	Asset Type: FontFace
+[2024.04.17-09.29.20:464][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.17-09.29.20:475][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.17-09.29.20:486][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.17-09.29.21:266][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.17-09.29.22:210][875]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.17-09.29.22:224][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.17-09.29.22:238][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.17-09.29.22:249][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.17-09.29.22:258][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-09.29.22:260][876]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.17-09.29.22:260][876]LogSlate: Took 0.000059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.17-09.29.22:261][876]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.17-09.29.22:262][876]LogSlate: Took 0.000063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.17-09.29.22:262][876]LogSlate: Took 0.000052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.17-09.29.35:377][207]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\Students\Downloads\promptfont-gh-pages\promptfont-gh-pages\promptfont.otf)
+[2024.04.17-09.29.36:468][207]LogSlate: Window 'Font Face Import Options' being destroyed
+[2024.04.17-09.29.36:471][207]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2024.04.17-09.29.36:472][207]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2024.04.17-09.29.36:486][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-09.29.36:488][208]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.17-09.29.36:488][208]LogSlate: Took 0.000055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.17-09.29.36:489][208]LogSlate: Took 0.000059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.17-09.29.36:490][208]LogSlate: Took 0.000057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.17-09.29.36:491][208]LogSlate: Took 0.000056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.17-09.29.40:394][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-09.29.40:424][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Font/promptfont" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Font/promptfont.uasset" SILENT=true
+[2024.04.17-09.29.40:425][423]LogSavePackage: Moving output files for package: /Game/Font/promptfont
+[2024.04.17-09.29.40:425][423]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/promptfontC31A174748752A6F3ACB6A8267C1C0A9.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Font/promptfont.uasset'
+[2024.04.17-09.29.40:428][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Font/promptfont_Font" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Font/promptfont_Font.uasset" SILENT=true
+[2024.04.17-09.29.40:429][423]LogSavePackage: Moving output files for package: /Game/Font/promptfont_Font
+[2024.04.17-09.29.40:429][423]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/promptfont_FontED6821734933E04BE5261488AFCC55D7.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Font/promptfont_Font.uasset'
+[2024.04.17-09.29.40:438][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 7.44 sec)
+[2024.04.17-09.29.40:439][423]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.17-09.29.40:439][423]LogContentValidation: Display: Validating /Script/Engine.FontFace /Game/Font/promptfont.promptfont
+[2024.04.17-09.29.40:439][423]LogContentValidation: Display: Validating /Script/Engine.Font /Game/Font/promptfont_Font.promptfont_Font
+[2024.04.17-09.29.46:134][761]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.17-09.30.09:925][445]LogSlate: Took 0.000922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.17-09.30.12:972][625]BlueprintLog: New page: Compile InteractText
+[2024.04.17-09.30.12:991][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.17-09.30.13:353][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.17-09.30.13:358][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-09.30.13:421][636]LogSavePackage: Moving output files for package: /Game/Assets/-Bonfire-/InteractText
+[2024.04.17-09.30.13:422][636]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/InteractTextD1093157499976ABECFF388D7790A464.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Assets/-Bonfire-/InteractText.uasset'
+[2024.04.17-09.30.13:428][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 7.51 sec)
+[2024.04.17-09.30.13:428][636]AssetCheck: New page: Asset Save: InteractText
+[2024.04.17-09.30.13:429][636]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/-Bonfire-/InteractText.InteractText
+[2024.04.17-09.30.14:205][683]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
