@@ -4142,3 +4142,78 @@ Make sure 'BonfireEquivalent_C' has been compiled for  Get SwordInStone
 [2024.04.17-09.30.13:428][636]AssetCheck: New page: Asset Save: InteractText
 [2024.04.17-09.30.13:429][636]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/-Bonfire-/InteractText.InteractText
 [2024.04.17-09.30.14:205][683]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.17-09.31.59:174][160]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-09.31.59:174][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-09.31.59:180][160]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-09.31.59:180][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-09.32.34:765][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.17-09.32.34:770][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-09.32.34:914][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-09.32.34:943][239]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-09.32.34:943][239]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player260BB868489B093816712C8EF04B136E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-09.32.34:951][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 7.69 sec)
+[2024.04.17-09.32.34:952][239]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.17-09.32.34:952][239]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-09.33.33:503][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.17-09.33.33:509][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-09.33.33:644][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-09.33.33:672][668]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-09.33.33:672][668]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player954200E14E77DF4D778EED86A6C6A7D9.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-09.33.33:680][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 7.86 sec)
+[2024.04.17-09.33.33:681][668]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.17-09.33.33:681][668]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-09.33.48:818][540]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.17-09.33.48:829][540]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.17-09.33.48:836][541]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.17-09.33.50:983][670]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2024.04.17-09.33.50:983][670]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.17-09.33.59:211][ 79]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.04.17-09.33.59:216][ 79]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.04.17-09.33.59:223][ 79]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.04.17-09.33.59:251][ 81]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.04.17-09.34.03:363][328]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PauseMenu
+[2024.04.17-09.34.03:365][328]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Widgets/PauseMenu.
+[2024.04.17-09.34.03:367][328]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.04.17-09.34.03:719][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-09.34.03:765][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/PauseMenu.uasset" SILENT=true
+[2024.04.17-09.34.03:766][349]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu
+[2024.04.17-09.34.03:766][349]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PauseMenu4A28A9CE4115C7D827CF6086E2E766B0.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/PauseMenu.uasset'
+[2024.04.17-09.34.03:767][349]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Widgets/PauseMenu.
+[2024.04.17-09.34.03:774][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 7.92 sec)
+[2024.04.17-09.34.03:775][349]AssetCheck: New page: Asset Save: PauseMenu
+[2024.04.17-09.34.03:775][349]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
+[2024.04.17-09.34.04:712][405]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
+[2024.04.17-09.34.04:712][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-09.34.04:713][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-09.34.04:717][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-09.34.04:717][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-09.34.06:523][486]LogSlate: Window 'PauseMenu' being destroyed
+[2024.04.17-09.34.07:409][538]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-09.34.07:409][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-09.34.08:468][595]LogSlate: Window 'PauseMenu' being destroyed
+[2024.04.17-09.34.18:343][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.17-09.34.18:352][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-09.34.18:412][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/PauseMenu.uasset" SILENT=true
+[2024.04.17-09.34.18:414][179]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu
+[2024.04.17-09.34.18:415][179]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PauseMenu9BE72F0E46B537DFC26BC3B7BF62E878.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/PauseMenu.uasset'
+[2024.04.17-09.34.18:419][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 7.98 sec)
+[2024.04.17-09.34.18:420][179]AssetCheck: New page: Asset Save: PauseMenu
+[2024.04.17-09.34.18:420][179]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
+[2024.04.17-09.35.28:983][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.17-09.35.28:988][368]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.016
+[2024.04.17-09.35.28:988][368]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/PauseMenu] ([2] browsable assets)...
+[2024.04.17-09.35.28:994][368]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu]
+[2024.04.17-09.35.28:994][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/PauseMenu]
+[2024.04.17-09.35.28:995][368]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/PauseMenu_Auto4
+[2024.04.17-09.35.28:995][368]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PauseMenu_Auto4DE92AECD4DE9E9E84C6710A544547C45.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/Widgets/PauseMenu_Auto4.uasset'
+[2024.04.17-09.35.28:995][368]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.04.17-09.42.55:201][958]BlueprintLog: New page: Compile PauseMenu
+[2024.04.17-09.42.55:217][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.17-09.42.56:014][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.17-09.42.56:018][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-09.42.56:073][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/PauseMenu.uasset" SILENT=true
+[2024.04.17-09.42.56:075][  4]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu
+[2024.04.17-09.42.56:076][  4]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PauseMenu834DA8B94D783B009BAC8194152007D1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/PauseMenu.uasset'
+[2024.04.17-09.42.56:080][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 8.04 sec)
+[2024.04.17-09.42.56:082][  4]AssetCheck: New page: Asset Save: PauseMenu
+[2024.04.17-09.42.56:082][  4]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
