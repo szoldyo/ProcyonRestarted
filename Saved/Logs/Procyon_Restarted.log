@@ -12022,3 +12022,4 @@ Make sure 'BP_Player_C' has been compiled for  Call OnSheatheSword
 [2024.04.17-14.42.16:665][889]Cmd: TRANSACTION UNDO
 [2024.04.17-14.42.16:665][889]LogEditorTransaction: Undo Scale Elements
 [2024.04.17-14.42.18:530][998]Cmd: SELECT NONE
+[2024.04.17-15.02.49:405][465]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:45.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 61448 files in 47082 folders with total size 601 MiB.
