@@ -9565,3 +9565,270 @@ Make sure 'BonfireEquivalent_C' has been compiled for  Get SwordInStone
 [2024.04.17-13.03.52:944][265]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/S_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_lod5_Var1_Auto9
 [2024.04.17-13.03.52:944][265]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/S_Nordic_Forest_Cluster_Rock_Med24FFB24746C1A3AB5E6D2A9BFADCE3CE.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/S_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_lod5_Var1_Auto9.uasset'
 [2024.04.17-13.03.52:945][265]LogFileHelpers: Auto-saving content packages took 0.589
+[2024.04.17-13.16.47:304][955]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-13.16.47:304][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.16.47:304][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.17.03:619][847]BlueprintLog: New page: Compile BP_Player
+[2024.04.17-13.17.03:681][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.17-13.17.04:289][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.17-13.17.04:308][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.17.04:443][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-13.17.04:476][856]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-13.17.04:476][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player8CD545CC4617D19B14F8179C13EE649B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-13.17.04:478][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/MI_Nordic_Forest_Cliff_Large_xibldbu_1K
+[2024.04.17-13.17.04:478][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MI_Nordic_Forest_Cliff_Large_xibBE782DA748D177A9579E969ACC964B75.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/MI_Nordic_Forest_Cliff_Large_xibldbu_1K.uasset'
+[2024.04.17-13.17.04:494][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/T_NordicForestCliffLarge_xibldbu_1K_DpRF
+[2024.04.17-13.17.04:494][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_NordicForestCliffLarge_xibldbuFE03E7CF45A87D3A742C178A1FD1E713.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/T_NordicForestCliffLarge_xibldbu_1K_DpRF.uasset'
+[2024.04.17-13.17.04:496][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/MI_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K
+[2024.04.17-13.17.04:496][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MI_Nordic_Forest_Cluster_Rock_MeE9939CA64553FB243D6F6F955E0B21F4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/MI_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K.uasset'
+[2024.04.17-13.17.04:512][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/T_Nordic_Forest_Cliff_Large_xibldbu_1K_D
+[2024.04.17-13.17.04:512][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Nordic_Forest_Cliff_Large_xibl5CACDD2C4F6E5ACAE34E8CB97BC81596.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/T_Nordic_Forest_Cliff_Large_xibldbu_1K_D.uasset'
+[2024.04.17-13.17.04:527][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/T_Nordic_Forest_Cliff_Large_xibldbu_1K_N
+[2024.04.17-13.17.04:527][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Nordic_Forest_Cliff_Large_xibl2C2BBDA54FCD4D7B5AC951AF20D7F00E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/T_Nordic_Forest_Cliff_Large_xibldbu_1K_N.uasset'
+[2024.04.17-13.17.04:529][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/MI_Mossy_Rock_Shelf_xfpibju_1K
+[2024.04.17-13.17.04:529][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MI_Mossy_Rock_Shelf_xfpibju_1K6B9CAC524308C10D24C04CB41EC8233E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/MI_Mossy_Rock_Shelf_xfpibju_1K.uasset'
+[2024.04.17-13.17.04:545][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/T_MossyRockShelf_xfpibju_1K_DpRF
+[2024.04.17-13.17.04:545][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_MossyRockShelf_xfpibju_1K_DpRFB331A1FF4F4DBE71A0FF768884926147.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/T_MossyRockShelf_xfpibju_1K_DpRF.uasset'
+[2024.04.17-13.17.04:547][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Sword_uitlbiaga/MI_Sword_uitlbiaga_1K
+[2024.04.17-13.17.04:547][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MI_Sword_uitlbiaga_1KF37292454FCDE99758372ABDE527F961.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Sword_uitlbiaga/MI_Sword_uitlbiaga_1K.uasset'
+[2024.04.17-13.17.04:562][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/T_Mossy_Rock_Shelf_xfpibju_1K_D
+[2024.04.17-13.17.04:563][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Mossy_Rock_Shelf_xfpibju_1K_D990AE3324FB16E4AC232BABD749392A8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/T_Mossy_Rock_Shelf_xfpibju_1K_D.uasset'
+[2024.04.17-13.17.04:581][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/T_Mossy_Rock_Shelf_xfpibju_1K_N
+[2024.04.17-13.17.04:581][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Mossy_Rock_Shelf_xfpibju_1K_N720B26334488C98224C665A36F098B1A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/T_Mossy_Rock_Shelf_xfpibju_1K_N.uasset'
+[2024.04.17-13.17.04:583][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/MI_Nordic_Forest_Cliff_Large_xibjbg3_1K
+[2024.04.17-13.17.04:583][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MI_Nordic_Forest_Cliff_Large_xib44BBDF3948ADCFFCCC4720B3D4CE42B1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/MI_Nordic_Forest_Cliff_Large_xibjbg3_1K.uasset'
+[2024.04.17-13.17.04:598][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/T_NordicForestCliffLarge_xibjbg3_1K_DpRF
+[2024.04.17-13.17.04:598][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_NordicForestCliffLarge_xibjbg38E392C884BA63A29864AAB82C1116349.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/T_NordicForestCliffLarge_xibjbg3_1K_DpRF.uasset'
+[2024.04.17-13.17.04:614][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/T_Nordic_Forest_Cliff_Large_xibjbg3_1K_D
+[2024.04.17-13.17.04:614][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Nordic_Forest_Cliff_Large_xibj945CF9304C1905426964E4BA59A24F7E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/T_Nordic_Forest_Cliff_Large_xibjbg3_1K_D.uasset'
+[2024.04.17-13.17.04:630][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/T_Nordic_Forest_Cliff_Large_xibjbg3_1K_N
+[2024.04.17-13.17.04:630][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Nordic_Forest_Cliff_Large_xibjB805DCDB42F94A4ECC39B7AEB26B51B3.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/T_Nordic_Forest_Cliff_Large_xibjbg3_1K_N.uasset'
+[2024.04.17-13.17.04:632][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/MI_Nordic_Forest_Rock_Small_xiemca1_1K
+[2024.04.17-13.17.04:632][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MI_Nordic_Forest_Rock_Small_xiem8725A0CC486A2E414BC7CF9F5FD669E5.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/MI_Nordic_Forest_Rock_Small_xiemca1_1K.uasset'
+[2024.04.17-13.17.04:647][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/T_NordicForestRockSmall_xiemca1_1K_DpRF
+[2024.04.17-13.17.04:647][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_NordicForestRockSmall_xiemca1_6D17395B4EE6F2FA63487CA7AE8A5A2B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/T_NordicForestRockSmall_xiemca1_1K_DpRF.uasset'
+[2024.04.17-13.17.04:663][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/T_Nordic_Forest_Rock_Small_xiemca1_1K_D
+[2024.04.17-13.17.04:664][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Nordic_Forest_Rock_Small_xiemc4A35607C4837FD13F5D9ED80373793CC.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/T_Nordic_Forest_Rock_Small_xiemca1_1K_D.uasset'
+[2024.04.17-13.17.04:678][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/T_Nordic_Forest_Rock_Small_xiemca1_1K_N
+[2024.04.17-13.17.04:678][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Nordic_Forest_Rock_Small_xiemcA438EC1C4B75B6891F7D178BF794CB4D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/T_Nordic_Forest_Rock_Small_xiemca1_1K_N.uasset'
+[2024.04.17-13.17.04:680][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/S_Baseball_Bat_udrrabvqx_lod5_Var1
+[2024.04.17-13.17.04:680][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/S_Baseball_Bat_udrrabvqx_lod5_Va35BE6D264B3573EF651BADB888A2EA30.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/S_Baseball_Bat_udrrabvqx_lod5_Var1.uasset'
+[2024.04.17-13.17.04:693][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/T_Baseball_Bat_udrrabvqx_1K_N
+[2024.04.17-13.17.04:694][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Baseball_Bat_udrrabvqx_1K_ND1121A974947F940E9EF4AB1989F49CE.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/T_Baseball_Bat_udrrabvqx_1K_N.uasset'
+[2024.04.17-13.17.04:705][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/T_BaseballBat_udrrabvqx_1K_DpR
+[2024.04.17-13.17.04:705][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_BaseballBat_udrrabvqx_1K_DpRDE2AA07C49A50D2A89E049AA5705F1E4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/T_BaseballBat_udrrabvqx_1K_DpR.uasset'
+[2024.04.17-13.17.04:707][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/MI_Baseball_Bat_udrrabvqx_1K
+[2024.04.17-13.17.04:707][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/MI_Baseball_Bat_udrrabvqx_1K407AD21F406C2EF814E0459133C73E6C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/MI_Baseball_Bat_udrrabvqx_1K.uasset'
+[2024.04.17-13.17.04:723][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/T_Baseball_Bat_udrrabvqx_1K_D
+[2024.04.17-13.17.04:723][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Baseball_Bat_udrrabvqx_1K_D50414FAB4154086F0B365493838CF6F3.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/T_Baseball_Bat_udrrabvqx_1K_D.uasset'
+[2024.04.17-13.17.04:725][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Sword_uitlbiaga/S_Sword_uitlbiaga_lod5_Var1
+[2024.04.17-13.17.04:725][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/S_Sword_uitlbiaga_lod5_Var133FB51AA4B682BD8653C85987730952D.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Sword_uitlbiaga/S_Sword_uitlbiaga_lod5_Var1.uasset'
+[2024.04.17-13.17.04:740][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/T_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K_N
+[2024.04.17-13.17.04:741][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Nordic_Forest_Cluster_Rock_MedEA51ADA1454CF3D8EADEC7A5EFD581A8.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/T_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K_N.uasset'
+[2024.04.17-13.17.04:757][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/T_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K_D
+[2024.04.17-13.17.04:757][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_Nordic_Forest_Cluster_Rock_Med93A5CEDC47ABC41D6207E684C62EB99B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/T_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K_D.uasset'
+[2024.04.17-13.17.04:774][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/T_NordicForestClusterRockMedium_xfplcbf_1K_DpRF
+[2024.04.17-13.17.04:774][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/T_NordicForestClusterRockMedium_3936DED249069CD94F0A6AB46D1CAFB6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/T_NordicForestClusterRockMedium_xfplcbf_1K_DpRF.uasset'
+[2024.04.17-13.17.04:781][856]LogSavePackage: Moving output files for package: /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/S_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_lod5_Var1
+[2024.04.17-13.17.04:781][856]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/S_Nordic_Forest_Cluster_Rock_Med2CFAF3D14A2E401A5532E09AE893D720.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/S_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_lod5_Var1.uasset'
+[2024.04.17-13.17.04:796][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 487 ms (total: 18.0 sec)
+[2024.04.17-13.17.04:800][856]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/MI_Nordic_Forest_Cliff_Large_xibldbu_1K.MI_Nordic_Forest_Cliff_Large_xibldbu_1K
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/T_NordicForestCliffLarge_xibldbu_1K_DpRF.T_NordicForestCliffLarge_xibldbu_1K_DpRF
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/MI_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K.MI_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/T_Nordic_Forest_Cliff_Large_xibldbu_1K_D.T_Nordic_Forest_Cliff_Large_xibldbu_1K_D
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibldbu/T_Nordic_Forest_Cliff_Large_xibldbu_1K_N.T_Nordic_Forest_Cliff_Large_xibldbu_1K_N
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/MI_Mossy_Rock_Shelf_xfpibju_1K.MI_Mossy_Rock_Shelf_xfpibju_1K
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/T_MossyRockShelf_xfpibju_1K_DpRF.T_MossyRockShelf_xfpibju_1K_DpRF
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Sword_uitlbiaga/MI_Sword_uitlbiaga_1K.MI_Sword_uitlbiaga_1K
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/T_Mossy_Rock_Shelf_xfpibju_1K_D.T_Mossy_Rock_Shelf_xfpibju_1K_D
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Mossy_Rock_Shelf_xfpibju/T_Mossy_Rock_Shelf_xfpibju_1K_N.T_Mossy_Rock_Shelf_xfpibju_1K_N
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/MI_Nordic_Forest_Cliff_Large_xibjbg3_1K.MI_Nordic_Forest_Cliff_Large_xibjbg3_1K
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/T_NordicForestCliffLarge_xibjbg3_1K_DpRF.T_NordicForestCliffLarge_xibjbg3_1K_DpRF
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/T_Nordic_Forest_Cliff_Large_xibjbg3_1K_D.T_Nordic_Forest_Cliff_Large_xibjbg3_1K_D
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Cliff_Large_xibjbg3/T_Nordic_Forest_Cliff_Large_xibjbg3_1K_N.T_Nordic_Forest_Cliff_Large_xibjbg3_1K_N
+[2024.04.17-13.17.04:800][856]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/MI_Nordic_Forest_Rock_Small_xiemca1_1K.MI_Nordic_Forest_Rock_Small_xiemca1_1K
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/T_NordicForestRockSmall_xiemca1_1K_DpRF.T_NordicForestRockSmall_xiemca1_1K_DpRF
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/T_Nordic_Forest_Rock_Small_xiemca1_1K_D.T_Nordic_Forest_Rock_Small_xiemca1_1K_D
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Rock_Small_xiemca1/T_Nordic_Forest_Rock_Small_xiemca1_1K_N.T_Nordic_Forest_Rock_Small_xiemca1_1K_N
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/S_Baseball_Bat_udrrabvqx_lod5_Var1.S_Baseball_Bat_udrrabvqx_lod5_Var1
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/T_Baseball_Bat_udrrabvqx_1K_N.T_Baseball_Bat_udrrabvqx_1K_N
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/T_BaseballBat_udrrabvqx_1K_DpR.T_BaseballBat_udrrabvqx_1K_DpR
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/MI_Baseball_Bat_udrrabvqx_1K.MI_Baseball_Bat_udrrabvqx_1K
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Baseball_Bat_udrrabvqx/T_Baseball_Bat_udrrabvqx_1K_D.T_Baseball_Bat_udrrabvqx_1K_D
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Sword_uitlbiaga/S_Sword_uitlbiaga_lod5_Var1.S_Sword_uitlbiaga_lod5_Var1
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/T_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K_N.T_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K_N
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/T_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K_D.T_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_1K_D
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/T_NordicForestClusterRockMedium_xfplcbf_1K_DpRF.T_NordicForestClusterRockMedium_xfplcbf_1K_DpRF
+[2024.04.17-13.17.04:801][856]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Megascans/3D_Assets/Nordic_Forest_Cluster_Rock_Medium_xfplcbf/S_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_lod5_Var1.S_Nordic_Forest_Cluster_Rock_Medium_xfplcbf_lod5_Var1
+[2024.04.17-13.17.53:210][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.17-13.17.53:217][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.04.17-13.17.53:217][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/BP_Player] ([2] browsable assets)...
+[2024.04.17-13.17.53:217][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2024.04.17-13.17.53:252][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/BP_Player_Auto0
+[2024.04.17-13.17.53:252][698]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player_Auto08BA7804747E071EB7BD3999A5FB1F44E.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/Autosaves/Game/Player/BP_Player_Auto0.uasset'
+[2024.04.17-13.17.53:252][698]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.04.17-13.19.23:702][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.17-13.19.23:708][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.19.23:787][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-13.19.23:820][ 78]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-13.19.23:821][ 78]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player22A186324E33194476CE8CBA1AC053FF.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-13.19.23:828][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 18.1 sec)
+[2024.04.17-13.19.23:828][ 78]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.17-13.19.23:828][ 78]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-13.20.09:347][634]BlueprintLog: New page: Compile BP_Player
+[2024.04.17-13.20.09:401][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.17-13.20.10:228][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.17-13.20.10:239][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.20.10:387][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-13.20.10:421][655]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-13.20.10:421][655]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player5DA8770B455C56C74AFD2F859D8B4194.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-13.20.10:429][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 18.3 sec)
+[2024.04.17-13.20.10:431][655]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.17-13.20.10:431][655]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-13.20.29:944][770]BlueprintLog: New page: Compile BP_Player
+[2024.04.17-13.20.29:998][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.17-13.20.30:898][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.17-13.20.30:910][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-13.20.31:053][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-13.20.31:087][796]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-13.20.31:088][796]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player040780BB4A9C1F56E26320BBA3C1460C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-13.20.31:095][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 18.5 sec)
+[2024.04.17-13.20.31:097][796]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.17-13.20.31:097][796]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-13.20.36:047][ 90]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-13.20.36:055][ 90]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-13.20.36:055][ 90]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.17-13.20.36:056][ 90]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 116 ms)
+[2024.04.17-13.20.36:057][ 90]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.17-13.20.36:061][ 90]LogPlayLevel: [PlayLevel] Compiling DeathScreen before play...
+[2024.04.17-13.20.36:349][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.17-13.20.36:365][ 90]LogPlayLevel: PlayLevel: Blueprint regeneration took 308 ms (1 blueprints)
+[2024.04.17-13.20.36:365][ 90]PIE: New page: PIE session: ThirdPersonMap (17 Apr 2024, 15:20:36)
+[2024.04.17-13.20.36:365][ 90]LogPlayLevel: Display: Creating online subsystem for client :Context_140
+[2024.04.17-13.20.36:367][ 90]LogOnline: OSS: Created online subsystem instance for: :Context_140
+[2024.04.17-13.20.36:547][ 91]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-13.20.36:551][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003922s)
+[2024.04.17-13.20.36:551][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003952s)
+[2024.04.17-13.20.36:562][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.17-13.20.36:567][ 91]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.20.36:567][ 91]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.20.36:568][ 91]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.17-13.20.36:568][ 91]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-13.20.36:568][ 91]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-13.20.36:568][ 91]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-13.20.36:568][ 91]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-13.20.36:569][ 91]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.17-13.20.36:569][ 91]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.13 sec)
+[2024.04.17-13.20.36:570][ 91]LogPlayLevel: PIE: World Init took: (0.002318s)
+[2024.04.17-13.20.36:570][ 91]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2024.04.17-13.20.36:570][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-13.20.36:570][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-13.20.36:570][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-13.20.36:570][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-13.20.36:570][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-13.20.36:570][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-13.20.36:570][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-13.20.36:570][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-13.20.36:570][ 91]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-13.20.36:570][ 91]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-13.20.36:570][ 91]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-13.20.36:572][ 91]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-13.20.36:591][ 91]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.17-13.20.36:592][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-13.20.36:592][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-13.20.36:592][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-13.20.36:592][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2024.04.17-13.20.36:592][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2024.04.17-13.20.36:594][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2024.04.17-13.20.36:594][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2024.04.17-13.20.36:594][ 91]LogInit: FAudioDevice initialized with ID 84.
+[2024.04.17-13.20.36:594][ 91]LogAudio: Display: Audio Device (ID: 84) registered with world 'ThirdPersonMap'.
+[2024.04.17-13.20.36:594][ 91]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 84
+[2024.04.17-13.20.36:621][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.20.36:621][ 91]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.17-13.20.36:622][ 91]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.17-14.20.36
+[2024.04.17-13.20.36:622][ 91]LogWorld: Bringing up level for play took: 0.001532
+[2024.04.17-13.20.36:638][ 91]PIE: Server logged in
+[2024.04.17-13.20.36:643][ 91]PIE: Play in editor total start time 0.587 seconds.
+[2024.04.17-13.20.36:655][ 91]LogViewport: Scene viewport resized to 1648x1042, mode Windowed.
+[2024.04.17-13.20.56:518][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.20.56:518][261]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-13.20.56:520][261]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.17-13.20.56:524][261]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.20.56:524][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.20.56:524][261]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.17-13.20.56:526][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-13.20.56:530][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.20.56:542][261]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 84
+[2024.04.17-13.20.56:542][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2024.04.17-13.20.56:544][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2024.04.17-13.20.56:550][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.17-13.20.56:586][262]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2024.04.17-13.20.59:756][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-13.20.59:763][450]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-13.20.59:763][450]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.17-13.20.59:764][450]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 117 ms)
+[2024.04.17-13.20.59:764][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-13.20.59:764][450]PIE: New page: PIE session: ThirdPersonMap (17 Apr 2024, 15:20:59)
+[2024.04.17-13.20.59:764][450]LogPlayLevel: Display: Creating online subsystem for client :Context_141
+[2024.04.17-13.20.59:766][450]LogOnline: OSS: Created online subsystem instance for: :Context_141
+[2024.04.17-13.20.59:772][451]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-13.20.59:776][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003822s)
+[2024.04.17-13.20.59:776][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003848s)
+[2024.04.17-13.20.59:787][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.17-13.20.59:792][451]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-13.20.59:792][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-13.20.59:792][451]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.17-13.20.59:792][451]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-13.20.59:792][451]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-13.20.59:792][451]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-13.20.59:792][451]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-13.20.59:793][451]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.17-13.20.59:793][451]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.13 sec)
+[2024.04.17-13.20.59:793][451]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2024.04.17-13.20.59:793][451]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2024.04.17-13.20.59:793][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-13.20.59:793][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-13.20.59:793][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-13.20.59:793][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-13.20.59:793][451]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-13.20.59:793][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-13.20.59:793][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-13.20.59:793][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-13.20.59:794][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-13.20.59:794][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-13.20.59:794][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-13.20.59:795][451]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-13.20.59:813][451]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.17-13.20.59:813][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-13.20.59:813][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-13.20.59:813][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-13.20.59:814][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2024.04.17-13.20.59:814][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2024.04.17-13.20.59:815][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2024.04.17-13.20.59:815][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2024.04.17-13.20.59:815][451]LogInit: FAudioDevice initialized with ID 85.
+[2024.04.17-13.20.59:815][451]LogAudio: Display: Audio Device (ID: 85) registered with world 'ThirdPersonMap'.
+[2024.04.17-13.20.59:815][451]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2024.04.17-13.20.59:872][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.20.59:872][451]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.17-13.20.59:874][451]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.17-14.20.59
+[2024.04.17-13.20.59:874][451]LogWorld: Bringing up level for play took: 0.001593
+[2024.04.17-13.20.59:890][451]PIE: Server logged in
+[2024.04.17-13.20.59:895][451]PIE: Play in editor total start time 0.132 seconds.
+[2024.04.17-13.20.59:906][451]LogViewport: Scene viewport resized to 1650x1052, mode Windowed.
+[2024.04.17-13.21.30:999][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-13.21.30:999][301]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-13.21.31:000][301]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.17-13.21.31:004][301]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-13.21.31:004][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.21.31:005][301]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.17-13.21.31:006][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-13.21.31:011][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-13.21.31:025][301]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2024.04.17-13.21.31:025][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2024.04.17-13.21.31:026][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2024.04.17-13.21.31:032][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.17-13.21.31:086][304]LogPlayLevel: Display: Destroying online subsystem :Context_141
