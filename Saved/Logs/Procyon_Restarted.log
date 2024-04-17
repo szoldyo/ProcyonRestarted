@@ -12015,3 +12015,10 @@ Make sure 'BP_Player_C' has been compiled for  Call OnSheatheSword
 [2024.04.17-14.31.12:023][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 26.0 sec)
 [2024.04.17-14.31.12:025][878]AssetCheck: New page: Asset Save: BP_Player
 [2024.04.17-14.31.12:025][878]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-14.42.15:969][874]Cmd: TRANSACTION UNDO
+[2024.04.17-14.42.15:969][874]LogEditorTransaction: Undo Scale Elements
+[2024.04.17-14.42.16:264][878]Cmd: TRANSACTION UNDO
+[2024.04.17-14.42.16:264][878]LogEditorTransaction: Undo Scale Elements
+[2024.04.17-14.42.16:665][889]Cmd: TRANSACTION UNDO
+[2024.04.17-14.42.16:665][889]LogEditorTransaction: Undo Scale Elements
+[2024.04.17-14.42.18:530][998]Cmd: SELECT NONE
