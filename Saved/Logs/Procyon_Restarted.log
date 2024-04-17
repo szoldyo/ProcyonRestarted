@@ -11446,3 +11446,13 @@ Make sure 'BP_Player_C' has been compiled for  Call OnSheatheSword
 [2024.04.17-14.07.30:655][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
 [2024.04.17-14.07.30:712][464]LogPlayLevel: Display: Destroying online subsystem :Context_165
 [2024.04.17-14.07.32:009][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.17-14.08.11:315][158]BlueprintLog: New page: Compile BP_Player
+[2024.04.17-14.08.11:374][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.17-14.08.12:143][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.17-14.08.12:152][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-14.08.12:314][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-14.08.12:355][169]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-14.08.12:355][169]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player460BF86B4F0D64588D9709B8B3615D4A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-14.08.12:364][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 23.4 sec)
+[2024.04.17-14.08.12:366][169]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.17-14.08.12:366][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
