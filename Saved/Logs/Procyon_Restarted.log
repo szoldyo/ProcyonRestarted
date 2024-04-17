@@ -7233,3 +7233,397 @@ Make sure 'BonfireEquivalent_C' has been compiled for  Get SwordInStone
 [2024.04.17-11.07.40:177][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 14.4 sec)
 [2024.04.17-11.07.40:178][400]AssetCheck: New page: Asset Save: BP_Player
 [2024.04.17-11.07.40:178][400]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-11.17.17:677][576]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.04.17-11.17.17:682][576]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.04.17-11.17.17:689][576]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.04.17-11.17.17:694][577]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.04.17-11.17.25:895][ 61]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> DeathScreen
+[2024.04.17-11.17.25:897][ 61]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Widgets/DeathScreen.
+[2024.04.17-11.17.25:899][ 61]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.04.17-11.17.26:299][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.17.26:348][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.17.26:349][ 84]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.17.26:349][ 84]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreen30AF9B3B48D30B54DE1AF4AFA09343E3.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.17.26:350][ 84]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Widgets/DeathScreen.
+[2024.04.17-11.17.26:358][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 14.5 sec)
+[2024.04.17-11.17.26:358][ 84]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.17.26:358][ 84]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.17.27:546][152]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.17.27:546][152]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-11.17.27:546][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-11.17.27:551][152]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-11.17.27:551][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-11.17.29:997][281]LogSlate: Window 'DeathScreen' being destroyed
+[2024.04.17-11.17.30:952][335]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-11.17.30:952][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-11.17.30:959][335]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-11.17.30:959][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-11.17.32:074][398]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.17-11.17.32:074][398]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-11.17.32:074][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-11.18.39:972][448]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.17-11.19.10:161][241]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2024.04.17-11.19.10:563][265]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.17-11.19.20:138][813]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.17-11.19.47:246][438]BlueprintLog: New page: Compile DeathScreen
+[2024.04.17-11.19.47:269][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.17-11.19.47:707][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.17-11.19.47:716][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.19.47:771][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.19.47:773][454]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.19.47:773][454]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreen5BCF5CF8455E996E3C7351B5E9388D46.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.19.47:778][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 14.5 sec)
+[2024.04.17-11.19.47:779][454]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.19.47:779][454]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.20.16:537][130]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.16:539][130]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.16:599][131]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.16:641][131]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.16:738][133]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.16:744][134]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.16:839][136]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.16:841][136]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.16:932][137]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:028][139]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:034][140]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:083][141]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:131][142]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:133][142]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:182][143]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:225][143]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:231][144]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:281][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:282][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:325][145]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:332][146]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:380][147]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:428][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:430][148]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:478][149]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:522][149]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:619][151]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:625][152]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:720][154]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.20.17:810][155]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.17-11.21.10:569][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.17-11.21.10:575][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.21.10:625][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.21.10:628][280]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.21.10:628][280]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreen157185DD401E14F37456D091EE00CA81.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.21.10:634][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 14.6 sec)
+[2024.04.17-11.21.10:634][280]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.21.10:634][280]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.21.28:127][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.17-11.21.28:133][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.21.28:189][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.21.28:191][289]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.21.28:191][289]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreen00B33A754F529FC53E1E19A5163B910B.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.21.28:196][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 14.6 sec)
+[2024.04.17-11.21.28:197][289]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.21.28:197][289]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.22.45:481][801]BlueprintLog: New page: Compile DeathScreen
+[2024.04.17-11.22.45:501][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.17-11.22.45:993][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.17-11.22.45:999][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.22.46:059][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.22.46:062][827]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.22.46:063][827]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreenB7408AA94EB7B111059FEBB9C6A495FA.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.22.46:069][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 14.7 sec)
+[2024.04.17-11.22.46:070][827]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.22.46:070][827]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.23.32:130][489]BlueprintLog: New page: Compile BP_Player
+[2024.04.17-11.23.32:183][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.17-11.23.32:950][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.17-11.23.32:960][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.23.33:122][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-11.23.33:154][511]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-11.23.33:155][511]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_PlayerAFBE27EE4CB49509E19874B24CA1041C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-11.23.33:162][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 14.9 sec)
+[2024.04.17-11.23.33:163][511]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.17-11.23.33:163][511]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-11.24.10:862][697]BlueprintLog: New page: Compile BP_Player
+[2024.04.17-11.24.10:916][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.17-11.24.11:333][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.17-11.24.11:344][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.24.11:470][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-11.24.11:504][698]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-11.24.11:504][698]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player19AC2DEA4B7A6038F895EC88FE633711.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-11.24.11:510][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 15.1 sec)
+[2024.04.17-11.24.11:511][698]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.17-11.24.11:511][698]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-11.24.12:958][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-11.24.12:964][772]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-11.24.12:964][772]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.17-11.24.12:965][772]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 85 ms)
+[2024.04.17-11.24.12:965][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-11.24.12:965][772]PIE: New page: PIE session: ThirdPersonMap (17 Apr 2024, 13:24:12)
+[2024.04.17-11.24.12:965][772]LogPlayLevel: Display: Creating online subsystem for client :Context_106
+[2024.04.17-11.24.12:967][772]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2024.04.17-11.24.12:978][773]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-11.24.12:982][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003932s)
+[2024.04.17-11.24.12:982][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003970s)
+[2024.04.17-11.24.12:994][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.17-11.24.12:998][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-11.24.12:998][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-11.24.12:998][773]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.17-11.24.12:998][773]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-11.24.12:998][773]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-11.24.12:998][773]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-11.24.12:998][773]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-11.24.12:999][773]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.17-11.24.12:999][773]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.08 sec)
+[2024.04.17-11.24.13:000][773]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2024.04.17-11.24.13:000][773]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2024.04.17-11.24.13:000][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-11.24.13:000][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-11.24.13:000][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-11.24.13:000][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-11.24.13:000][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-11.24.13:000][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-11.24.13:000][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-11.24.13:000][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-11.24.13:000][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-11.24.13:000][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-11.24.13:000][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-11.24.13:002][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-11.24.13:022][773]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.17-11.24.13:022][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-11.24.13:022][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-11.24.13:022][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-11.24.13:023][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2024.04.17-11.24.13:023][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2024.04.17-11.24.13:024][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2024.04.17-11.24.13:024][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2024.04.17-11.24.13:024][773]LogInit: FAudioDevice initialized with ID 67.
+[2024.04.17-11.24.13:024][773]LogAudio: Display: Audio Device (ID: 67) registered with world 'ThirdPersonMap'.
+[2024.04.17-11.24.13:024][773]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2024.04.17-11.24.13:025][773]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.17-11.24.13:028][773]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.17-12.24.13
+[2024.04.17-11.24.13:028][773]LogWorld: Bringing up level for play took: 0.001652
+[2024.04.17-11.24.13:037][773]PIE: Server logged in
+[2024.04.17-11.24.13:037][773]PIE: Play in editor total start time 0.073 seconds.
+[2024.04.17-11.24.13:753][814]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.17-11.24.13:753][814]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.17-11.24.13:753][814]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.17-11.24.15:117][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-11.24.15:118][893]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-11.24.15:118][893]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-11.24.15:118][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-11.24.15:118][893]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.17-11.24.15:121][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-11.24.15:125][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-11.24.15:137][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-11.24.15:138][893]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2024.04.17-11.24.15:138][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.04.17-11.24.15:139][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.04.17-11.24.15:145][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.17-11.24.15:184][895]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2024.04.17-11.25.59:138][ 15]BlueprintLog: New page: Compile DeathScreen
+[2024.04.17-11.25.59:163][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.17-11.25.59:799][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.17-11.25.59:813][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.25.59:980][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-11.26.00:014][ 37]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-11.26.00:014][ 37]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_PlayerE889A98F4517FAD36A7723B47BE4E4D5.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-11.26.00:018][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.26.00:022][ 37]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.26.00:022][ 37]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreen040ED97E491822B8703F06ABB394DB7A.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.26.00:030][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 15.3 sec)
+[2024.04.17-11.26.00:031][ 37]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.17-11.26.00:031][ 37]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-11.26.00:031][ 37]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.28.01:926][149]BlueprintLog: New page: Compile DeathScreen
+[2024.04.17-11.28.01:949][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.17-11.28.02:250][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.17-11.28.02:256][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.28.02:294][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.28.02:298][162]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.28.02:298][162]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreen6FA942DD45A4C5147890A4B8EBDA016C.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.28.02:304][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 15.3 sec)
+[2024.04.17-11.28.02:305][162]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.28.02:305][162]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.28.21:428][273]BlueprintLog: New page: Compile DeathScreen
+[2024.04.17-11.28.21:450][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.17-11.28.21:853][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.17-11.28.21:860][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.28.21:896][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.28.21:900][292]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.28.21:901][292]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreen021F330B445409E58A3D939F9CDA6405.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.28.21:907][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 15.4 sec)
+[2024.04.17-11.28.21:908][292]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.28.21:908][292]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.30.40:863][537]BlueprintLog: New page: Compile DeathScreen
+[2024.04.17-11.30.40:887][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.17-11.30.41:321][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.17-11.30.41:327][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.30.41:364][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.30.41:369][558]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.30.41:369][558]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreen355A456B4908817100985FBA698889A9.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.30.41:374][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 15.4 sec)
+[2024.04.17-11.30.41:376][558]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.30.41:376][558]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.30.46:751][864]BlueprintLog: New page: Compile DeathScreen
+[2024.04.17-11.30.46:774][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.17-11.30.47:147][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.17-11.30.47:153][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.30.47:202][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.30.47:206][882]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.30.47:206][882]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreen51CF15CE4C42BA7BF2970AAA03D515B6.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.30.47:212][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 15.5 sec)
+[2024.04.17-11.30.47:213][882]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.30.47:213][882]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.31.40:276][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.17-11.31.40:284][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.31.40:331][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/DeathScreen" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset" SILENT=true
+[2024.04.17-11.31.40:336][ 14]LogSavePackage: Moving output files for package: /Game/Widgets/DeathScreen
+[2024.04.17-11.31.40:336][ 14]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/DeathScreenC1751B3B4A688F1A99243B90F0BCD5A7.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/DeathScreen.uasset'
+[2024.04.17-11.31.40:342][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 15.6 sec)
+[2024.04.17-11.31.40:343][ 14]AssetCheck: New page: Asset Save: DeathScreen
+[2024.04.17-11.31.40:343][ 14]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/DeathScreen.DeathScreen
+[2024.04.17-11.31.41:333][ 72]BlueprintLog: New page: Compile DeathScreen
+[2024.04.17-11.31.41:356][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.17-11.31.41:730][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.17-11.31.49:516][532]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-11.31.49:522][532]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-11.31.49:522][532]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.17-11.31.49:524][532]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 86 ms)
+[2024.04.17-11.31.49:524][532]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.17-11.31.49:525][532]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2024.04.17-11.31.49:805][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.17-11.31.49:810][532]LogPlayLevel: PlayLevel: Blueprint regeneration took 286 ms (1 blueprints)
+[2024.04.17-11.31.49:810][532]PIE: New page: PIE session: ThirdPersonMap (17 Apr 2024, 13:31:49)
+[2024.04.17-11.31.49:810][532]LogPlayLevel: Display: Creating online subsystem for client :Context_107
+[2024.04.17-11.31.49:812][532]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2024.04.17-11.31.49:824][533]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-11.31.49:828][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003938s)
+[2024.04.17-11.31.49:828][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003964s)
+[2024.04.17-11.31.49:839][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.17-11.31.49:843][533]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-11.31.49:843][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-11.31.49:844][533]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.17-11.31.49:844][533]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-11.31.49:844][533]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-11.31.49:844][533]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-11.31.49:844][533]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-11.31.49:845][533]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.17-11.31.49:845][533]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.08 sec)
+[2024.04.17-11.31.49:845][533]LogPlayLevel: PIE: World Init took: (0.001905s)
+[2024.04.17-11.31.49:845][533]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2024.04.17-11.31.49:845][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-11.31.49:845][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-11.31.49:845][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-11.31.49:845][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-11.31.49:845][533]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-11.31.49:845][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-11.31.49:845][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-11.31.49:845][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-11.31.49:845][533]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-11.31.49:845][533]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-11.31.49:845][533]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-11.31.49:847][533]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-11.31.49:866][533]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.17-11.31.49:867][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-11.31.49:867][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-11.31.49:867][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-11.31.49:867][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2024.04.17-11.31.49:867][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2024.04.17-11.31.49:868][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2024.04.17-11.31.49:868][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2024.04.17-11.31.49:868][533]LogInit: FAudioDevice initialized with ID 68.
+[2024.04.17-11.31.49:868][533]LogAudio: Display: Audio Device (ID: 68) registered with world 'ThirdPersonMap'.
+[2024.04.17-11.31.49:868][533]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2024.04.17-11.31.49:870][533]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.17-11.31.49:872][533]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.17-12.31.49
+[2024.04.17-11.31.49:872][533]LogWorld: Bringing up level for play took: 0.001643
+[2024.04.17-11.31.49:881][533]PIE: Server logged in
+[2024.04.17-11.31.49:882][533]PIE: Play in editor total start time 0.36 seconds.
+[2024.04.17-11.32.14:088][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-11.32.14:088][980]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-11.32.14:089][980]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-11.32.14:089][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-11.32.14:089][980]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.17-11.32.14:092][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-11.32.14:096][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-11.32.14:109][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-11.32.14:109][980]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2024.04.17-11.32.14:109][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2024.04.17-11.32.14:111][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2024.04.17-11.32.14:116][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.17-11.32.14:180][982]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2024.04.17-11.32.38:674][407]BlueprintLog: New page: Compile BP_Player
+[2024.04.17-11.32.38:727][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.17-11.32.39:237][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.17-11.32.39:243][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-11.32.39:410][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.17-11.32.39:442][413]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.17-11.32.39:443][413]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_PlayerD0DADC2B4EE5E5194D10CFBF2A78B4C1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.17-11.32.39:450][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 15.8 sec)
+[2024.04.17-11.32.39:451][413]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.17-11.32.39:451][413]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.17-11.32.50:335][ 37]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-11.32.50:341][ 37]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-11.32.50:341][ 37]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.17-11.32.50:342][ 37]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 87 ms)
+[2024.04.17-11.32.50:342][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-11.32.50:342][ 37]PIE: New page: PIE session: ThirdPersonMap (17 Apr 2024, 13:32:50)
+[2024.04.17-11.32.50:342][ 37]LogPlayLevel: Display: Creating online subsystem for client :Context_108
+[2024.04.17-11.32.50:344][ 37]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2024.04.17-11.32.50:355][ 38]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-11.32.50:359][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003799s)
+[2024.04.17-11.32.50:359][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003827s)
+[2024.04.17-11.32.50:370][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.17-11.32.50:374][ 38]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-11.32.50:374][ 38]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-11.32.50:374][ 38]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.17-11.32.50:375][ 38]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-11.32.50:375][ 38]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-11.32.50:375][ 38]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-11.32.50:375][ 38]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-11.32.50:375][ 38]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.17-11.32.50:375][ 38]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.08 sec)
+[2024.04.17-11.32.50:375][ 38]LogPlayLevel: PIE: World Init took: (0.001877s)
+[2024.04.17-11.32.50:375][ 38]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2024.04.17-11.32.50:375][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-11.32.50:375][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-11.32.50:375][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-11.32.50:375][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-11.32.50:375][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-11.32.50:375][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-11.32.50:375][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-11.32.50:375][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-11.32.50:376][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-11.32.50:376][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-11.32.50:376][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-11.32.50:378][ 38]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-11.32.50:395][ 38]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.17-11.32.50:395][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-11.32.50:395][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-11.32.50:395][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-11.32.50:396][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2024.04.17-11.32.50:396][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2024.04.17-11.32.50:397][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2024.04.17-11.32.50:397][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2024.04.17-11.32.50:397][ 38]LogInit: FAudioDevice initialized with ID 69.
+[2024.04.17-11.32.50:397][ 38]LogAudio: Display: Audio Device (ID: 69) registered with world 'ThirdPersonMap'.
+[2024.04.17-11.32.50:397][ 38]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2024.04.17-11.32.50:399][ 38]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.17-11.32.50:400][ 38]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.17-12.32.50
+[2024.04.17-11.32.50:401][ 38]LogWorld: Bringing up level for play took: 0.001621
+[2024.04.17-11.32.50:410][ 38]PIE: Server logged in
+[2024.04.17-11.32.50:411][ 38]PIE: Play in editor total start time 0.07 seconds.
+[2024.04.17-11.32.54:082][256]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2024.04.17-11.33.01:809][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-11.33.01:809][718]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-11.33.01:810][718]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-11.33.01:810][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-11.33.01:810][718]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.17-11.33.01:813][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-11.33.01:817][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-11.33.01:830][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-11.33.01:830][718]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2024.04.17-11.33.01:831][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2024.04.17-11.33.01:832][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2024.04.17-11.33.01:837][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.17-11.33.01:952][719]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2024.04.17-11.33.03:777][813]LogSlate: Window 'Message Log' being destroyed
+[2024.04.17-11.33.03:781][813]LogSlate: Window 'Message Log' being destroyed
