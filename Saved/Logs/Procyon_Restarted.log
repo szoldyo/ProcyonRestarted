@@ -8469,3 +8469,120 @@ Make sure 'BonfireEquivalent_C' has been compiled for  Get SwordInStone
 [2024.04.17-12.42.18:709][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
 [2024.04.17-12.42.18:715][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2024.04.17-12.42.18:771][831]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2024.04.17-12.42.35:856][261]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.42.35:857][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.42.35:863][261]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.42.35:863][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.42.36:794][304]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.42.36:927][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.42.36:984][308]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: ================================================
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: RAM used: 39.58 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.17-12.42.37:013][309]LogShaderCompilers: Display: ================================================
+[2024.04.17-12.42.37:313][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.42.37:829][352]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.42.37:883][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.42.39:902][466]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.17-12.42.39:903][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.42.39:903][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-12.42.39:968][466]LogSlate: Window 'Open Asset' being destroyed
+[2024.04.17-12.43.36:804][812]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.17-12.43.36:805][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.43.36:805][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-12.43.36:856][812]LogSlate: Window 'Open Asset' being destroyed
+[2024.04.17-12.45.00:662][761]BlueprintLog: New page: Compile BP_EnemyPool
+[2024.04.17-12.45.00:690][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.17-12.45.01:257][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.17-12.45.01:263][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-12.45.01:310][786]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.45.01:444][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyBase" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset" SILENT=true
+[2024.04.17-12.45.01:457][786]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyBase
+[2024.04.17-12.45.01:458][786]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyBase5C68CA234FFAC15D688D09BA86655CA1.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyBase.uasset'
+[2024.04.17-12.45.01:459][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_EnemyPool" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset" SILENT=true
+[2024.04.17-12.45.01:465][786]LogSavePackage: Moving output files for package: /Game/Enemy/BP_EnemyPool
+[2024.04.17-12.45.01:466][786]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_EnemyPool12D3FE7640A3B6A5232A9E82E6603F42.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Enemy/BP_EnemyPool.uasset'
+[2024.04.17-12.45.01:473][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 16.9 sec)
+[2024.04.17-12.45.01:474][786]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.17-12.45.01:474][786]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyBase.BP_EnemyBase
+[2024.04.17-12.45.01:474][786]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_EnemyPool.BP_EnemyPool
+[2024.04.17-12.45.02:922][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.17-12.45.02:927][873]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.17-12.45.02:927][873]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.17-12.45.02:929][873]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 106 ms)
+[2024.04.17-12.45.02:929][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.17-12.45.02:929][873]PIE: New page: PIE session: ThirdPersonMap (17 Apr 2024, 14:45:02)
+[2024.04.17-12.45.02:929][873]LogPlayLevel: Display: Creating online subsystem for client :Context_125
+[2024.04.17-12.45.02:931][873]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2024.04.17-12.45.02:939][874]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-12.45.02:942][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003791s)
+[2024.04.17-12.45.02:942][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003818s)
+[2024.04.17-12.45.02:952][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.17-12.45.02:956][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-12.45.02:957][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-12.45.02:957][874]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.17-12.45.02:957][874]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.17-12.45.02:957][874]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.17-12.45.02:957][874]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.17-12.45.02:957][874]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.17-12.45.02:958][874]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.17-12.45.02:958][874]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.12 sec)
+[2024.04.17-12.45.02:958][874]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2024.04.17-12.45.02:958][874]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2024.04.17-12.45.02:958][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.17-12.45.02:958][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.17-12.45.02:958][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.17-12.45.02:958][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.17-12.45.02:958][874]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.17-12.45.02:958][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.17-12.45.02:958][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.17-12.45.02:958][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.17-12.45.02:959][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.17-12.45.02:959][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.17-12.45.02:959][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.17-12.45.02:960][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.17-12.45.02:978][874]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.17-12.45.02:979][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.17-12.45.02:979][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.17-12.45.02:979][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.17-12.45.02:979][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2024.04.17-12.45.02:979][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2024.04.17-12.45.02:980][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2024.04.17-12.45.02:980][874]LogInit: FAudioDevice initialized with ID 77.
+[2024.04.17-12.45.02:981][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2024.04.17-12.45.02:981][874]LogAudio: Display: Audio Device (ID: 77) registered with world 'ThirdPersonMap'.
+[2024.04.17-12.45.02:981][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2024.04.17-12.45.03:014][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.45.03:014][874]LogLoad: Game class is 'BP_ProcyonGamemode_C'
+[2024.04.17-12.45.03:016][874]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.04.17-13.45.03
+[2024.04.17-12.45.03:016][874]LogWorld: Bringing up level for play took: 0.001748
+[2024.04.17-12.45.03:027][874]PIE: Server logged in
+[2024.04.17-12.45.03:027][874]PIE: Play in editor total start time 0.1 seconds.
+[2024.04.17-12.45.03:033][874]LogViewport: Scene viewport resized to 1638x1396, mode Windowed.
+[2024.04.17-12.45.15:719][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.17-12.45.15:719][619]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.17-12.45.15:720][619]LogSlate: Window 'Procyon_Restarted Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.17-12.45.15:724][619]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.45.15:724][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.45.15:724][619]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.17-12.45.15:726][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.17-12.45.15:730][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.45.15:743][619]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2024.04.17-12.45.15:743][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2024.04.17-12.45.15:744][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2024.04.17-12.45.15:750][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.17-12.45.15:786][621]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2024.04.17-12.45.17:098][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.17-12.45.18:270][767]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.45.18:270][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.45.19:416][830]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.45.19:416][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-12.45.20:220][869]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.17-12.45.20:220][869]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-12.45.20:220][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
