@@ -1309,3 +1309,25 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.18-08.54.12:863][ 80]LogViewport: Scene viewport resized to 1133x394, mode Windowed.
 [2024.04.18-08.54.14:349][ 86]LogViewport: Scene viewport resized to 1133x454, mode Windowed.
 [2024.04.18-08.54.14:949][ 86]LogViewport: Scene viewport resized to 1133x650, mode Windowed.
+[2024.04.18-09.51.39:321][511]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:52.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 64591 files in 49903 folders with total size 605 MiB.
+[2024.04.18-10.03.31:028][957]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-10.03.32:097][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.18-10.03.32:098][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-10.03.32:098][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-10.03.32:106][ 20]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.18-10.03.33:079][ 20]LogSlate: Took 0.003269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.18-10.03.33:084][ 20]LogSlate: Took 0.003008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.18-10.03.33:466][ 21]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-10.03.33:505][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-10.03.47:992][886]BlueprintLog: New page: Compile BP_Player
+[2024.04.18-10.03.48:042][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.18-10.03.48:708][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.18-10.03.48:712][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-10.03.48:763][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-10.03.48:814][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset" SILENT=true
+[2024.04.18-10.03.48:820][909]LogPackageLocalizationCache: Processed 50 localized package path(s) for 1 prioritized culture(s) in 0.005789 seconds
+[2024.04.18-10.03.48:866][909]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2024.04.18-10.03.48:866][909]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/BP_Player6F9FC5F74C5250D51EDAA2ABC451DB15.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Player/BP_Player.uasset'
+[2024.04.18-10.03.48:875][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms
+[2024.04.18-10.03.48:876][909]AssetCheck: New page: Asset Save: BP_Player
+[2024.04.18-10.03.48:876][909]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
