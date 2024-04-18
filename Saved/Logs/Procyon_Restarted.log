@@ -1305,3 +1305,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.18-08.50.19:595][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2024.04.18-08.50.21:041][305]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.04.18-08.51.38:580][787]LogDerivedDataCache: C:/Users/Students/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:51.260 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 64591 files in 49903 folders with total size 605 MiB.
+[2024.04.18-08.54.12:132][ 80]LogViewport: Scene viewport resized to 1136x454, mode Windowed.
+[2024.04.18-08.54.12:863][ 80]LogViewport: Scene viewport resized to 1133x394, mode Windowed.
+[2024.04.18-08.54.14:349][ 86]LogViewport: Scene viewport resized to 1133x454, mode Windowed.
+[2024.04.18-08.54.14:949][ 86]LogViewport: Scene viewport resized to 1133x650, mode Windowed.
