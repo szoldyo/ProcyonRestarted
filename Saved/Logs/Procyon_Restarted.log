@@ -1331,3 +1331,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.18-10.03.48:875][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms
 [2024.04.18-10.03.48:876][909]AssetCheck: New page: Asset Save: BP_Player
 [2024.04.18-10.03.48:876][909]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Player.BP_Player
+[2024.04.18-10.04.04:337][253]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
+[2024.04.18-10.04.04:337][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-10.04.04:337][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-10.04.04:342][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-10.04.04:342][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-10.04.04:346][253]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.18-10.04.04:487][253]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.18-10.04.04:496][253]LogSlate: Took 0.005654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.18-10.04.32:032][897]BlueprintLog: New page: Compile PauseMenu
+[2024.04.18-10.04.32:052][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.18-10.04.32:553][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.18-10.04.32:556][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-10.04.32:617][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu" FILE="../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/PauseMenu.uasset" SILENT=true
+[2024.04.18-10.04.32:620][917]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu
+[2024.04.18-10.04.32:621][917]LogSavePackage: Moving '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Saved/PauseMenu9EE705EA461117DDB0D0FDBF31C461C4.tmp' to '../../../../../../Users/Students/Documents/GitHub Repo/ProcyonRestarted/ProcyonRestarted/Content/Widgets/PauseMenu.uasset'
+[2024.04.18-10.04.32:628][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 234 ms)
+[2024.04.18-10.04.32:629][917]AssetCheck: New page: Asset Save: PauseMenu
+[2024.04.18-10.04.32:629][917]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
+[2024.04.18-10.04.33:198][951]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-10.04.33:198][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-10.04.33:205][951]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-10.04.33:205][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-10.04.33:995][983]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-10.04.33:995][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
